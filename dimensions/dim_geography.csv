@@ -1,0 +1,16 @@
+geography_key,state_name,state_code,region,country
+1,Andhra Pradesh,AP,South,India
+2,Telangana,TG,South,India
+3,Tamil Nadu,TN,South,India
+4,Kerala,KL,South,India
+5,Karnataka,KA,South,India
+6,Maharashtra,MH,West,India
+7,Gujarat,GJ,West,India
+8,Rajasthan,RJ,North,India
+9,Uttar Pradesh,UP,North,India
+10,Bihar,BR,East,India
+11,Madhya Pradesh,MP,Central,India
+12,West Bengal,WB,East,India
+13,Odisha,OD,East,India
+14,Punjab,PB,North,India
+15,Haryana,HR,North,India

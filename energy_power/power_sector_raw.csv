@@ -1,0 +1,1576 @@
+state_code,year,metric,value,unit,geography_level
+AP,2005,Installed Capacity,346.9,GW,State
+AP,2005,Renewable Capacity,285.57,MW,State
+AP,2005,AT&C Losses,501.34,MW,State
+AP,2005,ACS-ARR Gap,837.05,MW,State
+AP,2005,Daily Power Supply,553.7,MW,State
+AP,2006,Installed Capacity,229.12,MW,State
+AP,2006,Renewable Capacity,789.7,GW,State
+AP,2006,AT&C Losses,763.88,GW,State
+AP,2006,ACS-ARR Gap,632.38,INR/kWh,State
+AP,2006,Daily Power Supply,267.21,MW,State
+AP,2007,Installed Capacity,729.2,GW,State
+AP,2007,Renewable Capacity,550.56,Hours,State
+AP,2007,AT&C Losses,460.45,GW,State
+AP,2007,ACS-ARR Gap,565.29,Hours,State
+AP,2007,Daily Power Supply,585.14,Hours,State
+AP,2008,Installed Capacity,798.01,Hours,State
+AP,2008,Renewable Capacity,521.19,%,State
+AP,2008,AT&C Losses,419.31,INR/kWh,State
+AP,2008,ACS-ARR Gap,755.12,MW,State
+AP,2008,Daily Power Supply,27.93,Hours,State
+AP,2009,Installed Capacity,35.43,%,State
+AP,2009,Renewable Capacity,114.79,GW,State
+AP,2009,AT&C Losses,745.17,Hours,State
+AP,2009,ACS-ARR Gap,194.63,INR/kWh,State
+AP,2009,Daily Power Supply,411.81,INR/kWh,State
+AP,2010,Installed Capacity,175.34,%,State
+AP,2010,Renewable Capacity,573.87,Hours,State
+AP,2010,AT&C Losses,119.9,MW,State
+AP,2010,ACS-ARR Gap,464.91,%,State
+AP,2010,Daily Power Supply,715.77,%,State
+AP,2011,Installed Capacity,395.35,MW,State
+AP,2011,Renewable Capacity,23.3,INR/kWh,State
+AP,2011,AT&C Losses,73.25,GW,State
+AP,2011,ACS-ARR Gap,619.81,GW,State
+AP,2011,Daily Power Supply,156.38,GW,State
+AP,2012,Installed Capacity,398.4,GW,State
+AP,2012,Renewable Capacity,594.35,INR/kWh,State
+AP,2012,AT&C Losses,574.62,INR/kWh,State
+AP,2012,ACS-ARR Gap,664.24,INR/kWh,State
+AP,2012,Daily Power Supply,550.74,%,State
+AP,2013,Installed Capacity,223.33,%,State
+AP,2013,Renewable Capacity,682.18,GW,State
+AP,2013,AT&C Losses,308.02,Hours,State
+AP,2013,ACS-ARR Gap,41.88,GW,State
+AP,2013,Daily Power Supply,280.62,Hours,State
+AP,2014,Installed Capacity,158.21,MW,State
+AP,2014,Renewable Capacity,687.15,INR/kWh,State
+AP,2014,AT&C Losses,426.39,GW,State
+AP,2014,ACS-ARR Gap,418.47,INR/kWh,State
+AP,2014,Daily Power Supply,358.96,MW,State
+AP,2015,Installed Capacity,854.26,Hours,State
+AP,2015,Renewable Capacity,41.25,MW,State
+AP,2015,AT&C Losses,563.46,MW,State
+AP,2015,ACS-ARR Gap,451.19,INR/kWh,State
+AP,2015,Daily Power Supply,615.73,MW,State
+AP,2016,Installed Capacity,24.35,%,State
+AP,2016,Renewable Capacity,720.95,Hours,State
+AP,2016,AT&C Losses,349.66,Hours,State
+AP,2016,ACS-ARR Gap,116.09,INR/kWh,State
+AP,2016,Daily Power Supply,491.28,INR/kWh,State
+AP,2017,Installed Capacity,563.53,GW,State
+AP,2017,Renewable Capacity,865.09,MW,State
+AP,2017,AT&C Losses,186.41,INR/kWh,State
+AP,2017,ACS-ARR Gap,62.89,MW,State
+AP,2017,Daily Power Supply,35.55,MW,State
+AP,2018,Installed Capacity,614.86,GW,State
+AP,2018,Renewable Capacity,590.32,INR/kWh,State
+AP,2018,AT&C Losses,760.47,MW,State
+AP,2018,ACS-ARR Gap,306.89,%,State
+AP,2018,Daily Power Supply,254.03,Hours,State
+AP,2019,Installed Capacity,623.75,MW,State
+AP,2019,Renewable Capacity,566.23,INR/kWh,State
+AP,2019,AT&C Losses,35.75,GW,State
+AP,2019,ACS-ARR Gap,723.23,GW,State
+AP,2019,Daily Power Supply,493.4,INR/kWh,State
+AP,2020,Installed Capacity,675.68,%,State
+AP,2020,Renewable Capacity,891.46,Hours,State
+AP,2020,AT&C Losses,335.13,INR/kWh,State
+AP,2020,ACS-ARR Gap,215.12,INR/kWh,State
+AP,2020,Daily Power Supply,666.05,%,State
+AP,2021,Installed Capacity,93.26,GW,State
+AP,2021,Renewable Capacity,481.13,Hours,State
+AP,2021,AT&C Losses,743.9,INR/kWh,State
+AP,2021,ACS-ARR Gap,806.02,GW,State
+AP,2021,Daily Power Supply,48.61,INR/kWh,State
+AP,2022,Installed Capacity,814.89,Hours,State
+AP,2022,Renewable Capacity,319.74,Hours,State
+AP,2022,AT&C Losses,855.08,Hours,State
+AP,2022,ACS-ARR Gap,516.31,INR/kWh,State
+AP,2022,Daily Power Supply,82.99,Hours,State
+AP,2023,Installed Capacity,296.13,%,State
+AP,2023,Renewable Capacity,191.85,INR/kWh,State
+AP,2023,AT&C Losses,712.53,GW,State
+AP,2023,ACS-ARR Gap,102.56,INR/kWh,State
+AP,2023,Daily Power Supply,445.23,MW,State
+AP,2024,Installed Capacity,397.66,INR/kWh,State
+AP,2024,Renewable Capacity,316.15,MW,State
+AP,2024,AT&C Losses,871.8,GW,State
+AP,2024,ACS-ARR Gap,685.48,Hours,State
+AP,2024,Daily Power Supply,780.25,INR/kWh,State
+AP,2025,Installed Capacity,200.71,GW,State
+AP,2025,Renewable Capacity,739.76,MW,State
+AP,2025,AT&C Losses,132.37,INR/kWh,State
+AP,2025,ACS-ARR Gap,76.81,%,State
+AP,2025,Daily Power Supply,523.38,INR/kWh,State
+TG,2005,Installed Capacity,333.89,Hours,State
+TG,2005,Renewable Capacity,213.4,GW,State
+TG,2005,AT&C Losses,532.9,Hours,State
+TG,2005,ACS-ARR Gap,338.95,%,State
+TG,2005,Daily Power Supply,699.54,%,State
+TG,2006,Installed Capacity,224.23,%,State
+TG,2006,Renewable Capacity,100.52,%,State
+TG,2006,AT&C Losses,228.69,MW,State
+TG,2006,ACS-ARR Gap,422.06,MW,State
+TG,2006,Daily Power Supply,667.01,INR/kWh,State
+TG,2007,Installed Capacity,740.6,GW,State
+TG,2007,Renewable Capacity,613.09,Hours,State
+TG,2007,AT&C Losses,865.97,Hours,State
+TG,2007,ACS-ARR Gap,257.5,GW,State
+TG,2007,Daily Power Supply,201.62,MW,State
+TG,2008,Installed Capacity,11.43,INR/kWh,State
+TG,2008,Renewable Capacity,39.32,INR/kWh,State
+TG,2008,AT&C Losses,39.54,INR/kWh,State
+TG,2008,ACS-ARR Gap,893.67,INR/kWh,State
+TG,2008,Daily Power Supply,228.06,%,State
+TG,2009,Installed Capacity,872.39,MW,State
+TG,2009,Renewable Capacity,150.01,GW,State
+TG,2009,AT&C Losses,626.33,GW,State
+TG,2009,ACS-ARR Gap,564.99,%,State
+TG,2009,Daily Power Supply,811.09,GW,State
+TG,2010,Installed Capacity,823.77,MW,State
+TG,2010,Renewable Capacity,855.4,Hours,State
+TG,2010,AT&C Losses,96.53,INR/kWh,State
+TG,2010,ACS-ARR Gap,250.0,Hours,State
+TG,2010,Daily Power Supply,582.34,MW,State
+TG,2011,Installed Capacity,206.84,Hours,State
+TG,2011,Renewable Capacity,70.42,GW,State
+TG,2011,AT&C Losses,234.32,%,State
+TG,2011,ACS-ARR Gap,628.5,GW,State
+TG,2011,Daily Power Supply,252.15,INR/kWh,State
+TG,2012,Installed Capacity,732.51,Hours,State
+TG,2012,Renewable Capacity,244.23,INR/kWh,State
+TG,2012,AT&C Losses,819.88,INR/kWh,State
+TG,2012,ACS-ARR Gap,846.51,%,State
+TG,2012,Daily Power Supply,653.28,GW,State
+TG,2013,Installed Capacity,376.71,MW,State
+TG,2013,Renewable Capacity,496.65,INR/kWh,State
+TG,2013,AT&C Losses,24.22,GW,State
+TG,2013,ACS-ARR Gap,699.95,MW,State
+TG,2013,Daily Power Supply,888.55,GW,State
+TG,2014,Installed Capacity,339.38,MW,State
+TG,2014,Renewable Capacity,343.11,%,State
+TG,2014,AT&C Losses,757.99,INR/kWh,State
+TG,2014,ACS-ARR Gap,57.63,GW,State
+TG,2014,Daily Power Supply,373.63,GW,State
+TG,2015,Installed Capacity,12.8,Hours,State
+TG,2015,Renewable Capacity,731.7,INR/kWh,State
+TG,2015,AT&C Losses,896.97,INR/kWh,State
+TG,2015,ACS-ARR Gap,526.84,INR/kWh,State
+TG,2015,Daily Power Supply,850.32,MW,State
+TG,2016,Installed Capacity,340.38,INR/kWh,State
+TG,2016,Renewable Capacity,405.76,GW,State
+TG,2016,AT&C Losses,858.67,INR/kWh,State
+TG,2016,ACS-ARR Gap,186.9,GW,State
+TG,2016,Daily Power Supply,604.69,MW,State
+TG,2017,Installed Capacity,322.67,MW,State
+TG,2017,Renewable Capacity,448.6,%,State
+TG,2017,AT&C Losses,468.39,Hours,State
+TG,2017,ACS-ARR Gap,734.84,Hours,State
+TG,2017,Daily Power Supply,505.06,%,State
+TG,2018,Installed Capacity,363.43,INR/kWh,State
+TG,2018,Renewable Capacity,558.47,MW,State
+TG,2018,AT&C Losses,724.64,Hours,State
+TG,2018,ACS-ARR Gap,882.43,MW,State
+TG,2018,Daily Power Supply,531.13,%,State
+TG,2019,Installed Capacity,82.36,MW,State
+TG,2019,Renewable Capacity,313.76,GW,State
+TG,2019,AT&C Losses,705.4,Hours,State
+TG,2019,ACS-ARR Gap,268.51,MW,State
+TG,2019,Daily Power Supply,776.2,INR/kWh,State
+TG,2020,Installed Capacity,716.93,MW,State
+TG,2020,Renewable Capacity,833.97,MW,State
+TG,2020,AT&C Losses,692.14,Hours,State
+TG,2020,ACS-ARR Gap,413.49,MW,State
+TG,2020,Daily Power Supply,558.91,MW,State
+TG,2021,Installed Capacity,296.21,%,State
+TG,2021,Renewable Capacity,521.9,%,State
+TG,2021,AT&C Losses,68.74,GW,State
+TG,2021,ACS-ARR Gap,414.38,%,State
+TG,2021,Daily Power Supply,125.38,Hours,State
+TG,2022,Installed Capacity,164.1,GW,State
+TG,2022,Renewable Capacity,807.16,%,State
+TG,2022,AT&C Losses,463.95,MW,State
+TG,2022,ACS-ARR Gap,541.94,%,State
+TG,2022,Daily Power Supply,37.26,INR/kWh,State
+TG,2023,Installed Capacity,310.9,MW,State
+TG,2023,Renewable Capacity,159.72,INR/kWh,State
+TG,2023,AT&C Losses,494.07,INR/kWh,State
+TG,2023,ACS-ARR Gap,414.97,MW,State
+TG,2023,Daily Power Supply,804.85,GW,State
+TG,2024,Installed Capacity,453.32,INR/kWh,State
+TG,2024,Renewable Capacity,289.76,MW,State
+TG,2024,AT&C Losses,719.57,GW,State
+TG,2024,ACS-ARR Gap,619.16,%,State
+TG,2024,Daily Power Supply,828.82,INR/kWh,State
+TG,2025,Installed Capacity,2.83,Hours,State
+TG,2025,Renewable Capacity,725.68,GW,State
+TG,2025,AT&C Losses,537.75,Hours,State
+TG,2025,ACS-ARR Gap,188.81,MW,State
+TG,2025,Daily Power Supply,684.08,MW,State
+TN,2005,Installed Capacity,672.85,%,State
+TN,2005,Renewable Capacity,227.57,%,State
+TN,2005,AT&C Losses,805.74,%,State
+TN,2005,ACS-ARR Gap,479.14,INR/kWh,State
+TN,2005,Daily Power Supply,780.56,%,State
+TN,2006,Installed Capacity,357.75,GW,State
+TN,2006,Renewable Capacity,663.8,Hours,State
+TN,2006,AT&C Losses,18.55,GW,State
+TN,2006,ACS-ARR Gap,756.72,MW,State
+TN,2006,Daily Power Supply,482.03,GW,State
+TN,2007,Installed Capacity,801.53,Hours,State
+TN,2007,Renewable Capacity,426.84,MW,State
+TN,2007,AT&C Losses,710.36,INR/kWh,State
+TN,2007,ACS-ARR Gap,431.88,Hours,State
+TN,2007,Daily Power Supply,483.63,MW,State
+TN,2008,Installed Capacity,502.19,GW,State
+TN,2008,Renewable Capacity,508.23,MW,State
+TN,2008,AT&C Losses,255.76,Hours,State
+TN,2008,ACS-ARR Gap,581.5,MW,State
+TN,2008,Daily Power Supply,220.3,%,State
+TN,2009,Installed Capacity,887.87,INR/kWh,State
+TN,2009,Renewable Capacity,840.36,INR/kWh,State
+TN,2009,AT&C Losses,92.05,Hours,State
+TN,2009,ACS-ARR Gap,765.81,GW,State
+TN,2009,Daily Power Supply,72.67,%,State
+TN,2010,Installed Capacity,16.91,INR/kWh,State
+TN,2010,Renewable Capacity,884.15,MW,State
+TN,2010,AT&C Losses,518.61,%,State
+TN,2010,ACS-ARR Gap,779.02,GW,State
+TN,2010,Daily Power Supply,441.93,%,State
+TN,2011,Installed Capacity,738.86,MW,State
+TN,2011,Renewable Capacity,501.31,MW,State
+TN,2011,AT&C Losses,252.34,Hours,State
+TN,2011,ACS-ARR Gap,184.97,MW,State
+TN,2011,Daily Power Supply,291.65,%,State
+TN,2012,Installed Capacity,179.96,Hours,State
+TN,2012,Renewable Capacity,218.55,GW,State
+TN,2012,AT&C Losses,549.75,INR/kWh,State
+TN,2012,ACS-ARR Gap,455.74,Hours,State
+TN,2012,Daily Power Supply,288.92,%,State
+TN,2013,Installed Capacity,47.12,MW,State
+TN,2013,Renewable Capacity,409.11,INR/kWh,State
+TN,2013,AT&C Losses,57.51,Hours,State
+TN,2013,ACS-ARR Gap,181.96,MW,State
+TN,2013,Daily Power Supply,79.54,INR/kWh,State
+TN,2014,Installed Capacity,2.94,GW,State
+TN,2014,Renewable Capacity,536.28,%,State
+TN,2014,AT&C Losses,314.31,GW,State
+TN,2014,ACS-ARR Gap,765.73,Hours,State
+TN,2014,Daily Power Supply,868.54,INR/kWh,State
+TN,2015,Installed Capacity,657.92,GW,State
+TN,2015,Renewable Capacity,184.9,%,State
+TN,2015,AT&C Losses,60.31,Hours,State
+TN,2015,ACS-ARR Gap,757.72,%,State
+TN,2015,Daily Power Supply,715.84,Hours,State
+TN,2016,Installed Capacity,147.71,INR/kWh,State
+TN,2016,Renewable Capacity,168.17,%,State
+TN,2016,AT&C Losses,598.84,MW,State
+TN,2016,ACS-ARR Gap,817.13,GW,State
+TN,2016,Daily Power Supply,789.54,GW,State
+TN,2017,Installed Capacity,614.84,%,State
+TN,2017,Renewable Capacity,561.88,GW,State
+TN,2017,AT&C Losses,672.97,GW,State
+TN,2017,ACS-ARR Gap,209.38,GW,State
+TN,2017,Daily Power Supply,352.64,MW,State
+TN,2018,Installed Capacity,489.43,%,State
+TN,2018,Renewable Capacity,488.79,%,State
+TN,2018,AT&C Losses,565.12,MW,State
+TN,2018,ACS-ARR Gap,125.78,INR/kWh,State
+TN,2018,Daily Power Supply,446.13,%,State
+TN,2019,Installed Capacity,709.84,GW,State
+TN,2019,Renewable Capacity,280.89,INR/kWh,State
+TN,2019,AT&C Losses,700.83,GW,State
+TN,2019,ACS-ARR Gap,30.66,MW,State
+TN,2019,Daily Power Supply,686.33,%,State
+TN,2020,Installed Capacity,679.29,INR/kWh,State
+TN,2020,Renewable Capacity,100.01,Hours,State
+TN,2020,AT&C Losses,411.57,Hours,State
+TN,2020,ACS-ARR Gap,357.86,INR/kWh,State
+TN,2020,Daily Power Supply,486.1,INR/kWh,State
+TN,2021,Installed Capacity,206.71,Hours,State
+TN,2021,Renewable Capacity,694.81,%,State
+TN,2021,AT&C Losses,577.21,%,State
+TN,2021,ACS-ARR Gap,509.17,MW,State
+TN,2021,Daily Power Supply,226.99,INR/kWh,State
+TN,2022,Installed Capacity,744.21,MW,State
+TN,2022,Renewable Capacity,308.6,MW,State
+TN,2022,AT&C Losses,852.58,Hours,State
+TN,2022,ACS-ARR Gap,820.71,MW,State
+TN,2022,Daily Power Supply,550.5,Hours,State
+TN,2023,Installed Capacity,533.87,Hours,State
+TN,2023,Renewable Capacity,508.84,Hours,State
+TN,2023,AT&C Losses,711.18,INR/kWh,State
+TN,2023,ACS-ARR Gap,636.66,MW,State
+TN,2023,Daily Power Supply,694.24,MW,State
+TN,2024,Installed Capacity,62.49,%,State
+TN,2024,Renewable Capacity,662.93,GW,State
+TN,2024,AT&C Losses,833.05,GW,State
+TN,2024,ACS-ARR Gap,102.36,INR/kWh,State
+TN,2024,Daily Power Supply,149.39,Hours,State
+TN,2025,Installed Capacity,112.63,GW,State
+TN,2025,Renewable Capacity,299.27,%,State
+TN,2025,AT&C Losses,532.35,INR/kWh,State
+TN,2025,ACS-ARR Gap,341.69,INR/kWh,State
+TN,2025,Daily Power Supply,302.01,Hours,State
+KL,2005,Installed Capacity,709.12,MW,State
+KL,2005,Renewable Capacity,300.48,Hours,State
+KL,2005,AT&C Losses,483.89,%,State
+KL,2005,ACS-ARR Gap,830.7,MW,State
+KL,2005,Daily Power Supply,433.01,%,State
+KL,2006,Installed Capacity,407.27,%,State
+KL,2006,Renewable Capacity,30.05,%,State
+KL,2006,AT&C Losses,127.2,GW,State
+KL,2006,ACS-ARR Gap,448.78,INR/kWh,State
+KL,2006,Daily Power Supply,823.4,GW,State
+KL,2007,Installed Capacity,702.56,%,State
+KL,2007,Renewable Capacity,569.22,Hours,State
+KL,2007,AT&C Losses,191.81,GW,State
+KL,2007,ACS-ARR Gap,160.64,Hours,State
+KL,2007,Daily Power Supply,413.36,Hours,State
+KL,2008,Installed Capacity,373.45,Hours,State
+KL,2008,Renewable Capacity,481.8,GW,State
+KL,2008,AT&C Losses,269.99,INR/kWh,State
+KL,2008,ACS-ARR Gap,357.89,%,State
+KL,2008,Daily Power Supply,189.31,%,State
+KL,2009,Installed Capacity,314.77,INR/kWh,State
+KL,2009,Renewable Capacity,562.67,INR/kWh,State
+KL,2009,AT&C Losses,425.12,%,State
+KL,2009,ACS-ARR Gap,59.6,%,State
+KL,2009,Daily Power Supply,408.23,MW,State
+KL,2010,Installed Capacity,481.24,GW,State
+KL,2010,Renewable Capacity,360.99,%,State
+KL,2010,AT&C Losses,140.14,GW,State
+KL,2010,ACS-ARR Gap,301.26,%,State
+KL,2010,Daily Power Supply,336.29,MW,State
+KL,2011,Installed Capacity,807.74,MW,State
+KL,2011,Renewable Capacity,368.16,Hours,State
+KL,2011,AT&C Losses,755.89,INR/kWh,State
+KL,2011,ACS-ARR Gap,367.48,GW,State
+KL,2011,Daily Power Supply,200.16,%,State
+KL,2012,Installed Capacity,455.2,GW,State
+KL,2012,Renewable Capacity,720.02,%,State
+KL,2012,AT&C Losses,798.77,Hours,State
+KL,2012,ACS-ARR Gap,214.75,MW,State
+KL,2012,Daily Power Supply,724.88,%,State
+KL,2013,Installed Capacity,866.4,Hours,State
+KL,2013,Renewable Capacity,601.44,INR/kWh,State
+KL,2013,AT&C Losses,366.05,MW,State
+KL,2013,ACS-ARR Gap,12.2,GW,State
+KL,2013,Daily Power Supply,187.49,%,State
+KL,2014,Installed Capacity,110.94,%,State
+KL,2014,Renewable Capacity,524.95,Hours,State
+KL,2014,AT&C Losses,633.7,GW,State
+KL,2014,ACS-ARR Gap,735.79,Hours,State
+KL,2014,Daily Power Supply,302.61,MW,State
+KL,2015,Installed Capacity,327.07,Hours,State
+KL,2015,Renewable Capacity,747.67,INR/kWh,State
+KL,2015,AT&C Losses,368.77,GW,State
+KL,2015,ACS-ARR Gap,392.8,Hours,State
+KL,2015,Daily Power Supply,197.95,MW,State
+KL,2016,Installed Capacity,687.36,GW,State
+KL,2016,Renewable Capacity,781.69,%,State
+KL,2016,AT&C Losses,805.15,GW,State
+KL,2016,ACS-ARR Gap,436.56,GW,State
+KL,2016,Daily Power Supply,242.18,MW,State
+KL,2017,Installed Capacity,570.31,GW,State
+KL,2017,Renewable Capacity,125.85,%,State
+KL,2017,AT&C Losses,379.82,MW,State
+KL,2017,ACS-ARR Gap,473.36,INR/kWh,State
+KL,2017,Daily Power Supply,622.25,INR/kWh,State
+KL,2018,Installed Capacity,17.04,MW,State
+KL,2018,Renewable Capacity,476.93,MW,State
+KL,2018,AT&C Losses,519.08,MW,State
+KL,2018,ACS-ARR Gap,498.98,GW,State
+KL,2018,Daily Power Supply,447.97,Hours,State
+KL,2019,Installed Capacity,186.18,MW,State
+KL,2019,Renewable Capacity,126.45,%,State
+KL,2019,AT&C Losses,810.07,%,State
+KL,2019,ACS-ARR Gap,537.87,Hours,State
+KL,2019,Daily Power Supply,569.97,INR/kWh,State
+KL,2020,Installed Capacity,158.25,INR/kWh,State
+KL,2020,Renewable Capacity,754.38,INR/kWh,State
+KL,2020,AT&C Losses,345.13,MW,State
+KL,2020,ACS-ARR Gap,380.12,MW,State
+KL,2020,Daily Power Supply,150.07,%,State
+KL,2021,Installed Capacity,166.34,INR/kWh,State
+KL,2021,Renewable Capacity,543.04,MW,State
+KL,2021,AT&C Losses,61.89,%,State
+KL,2021,ACS-ARR Gap,260.18,Hours,State
+KL,2021,Daily Power Supply,647.28,%,State
+KL,2022,Installed Capacity,854.4,INR/kWh,State
+KL,2022,Renewable Capacity,435.64,MW,State
+KL,2022,AT&C Losses,28.55,Hours,State
+KL,2022,ACS-ARR Gap,146.23,Hours,State
+KL,2022,Daily Power Supply,46.76,%,State
+KL,2023,Installed Capacity,537.36,MW,State
+KL,2023,Renewable Capacity,561.19,MW,State
+KL,2023,AT&C Losses,96.39,GW,State
+KL,2023,ACS-ARR Gap,316.71,GW,State
+KL,2023,Daily Power Supply,446.19,%,State
+KL,2024,Installed Capacity,538.66,GW,State
+KL,2024,Renewable Capacity,222.14,%,State
+KL,2024,AT&C Losses,70.45,Hours,State
+KL,2024,ACS-ARR Gap,625.38,MW,State
+KL,2024,Daily Power Supply,93.23,INR/kWh,State
+KL,2025,Installed Capacity,82.88,%,State
+KL,2025,Renewable Capacity,865.91,GW,State
+KL,2025,AT&C Losses,855.24,GW,State
+KL,2025,ACS-ARR Gap,167.03,%,State
+KL,2025,Daily Power Supply,659.14,INR/kWh,State
+KA,2005,Installed Capacity,683.25,INR/kWh,State
+KA,2005,Renewable Capacity,623.2,GW,State
+KA,2005,AT&C Losses,813.08,Hours,State
+KA,2005,ACS-ARR Gap,199.48,MW,State
+KA,2005,Daily Power Supply,46.91,MW,State
+KA,2006,Installed Capacity,35.96,MW,State
+KA,2006,Renewable Capacity,529.64,GW,State
+KA,2006,AT&C Losses,162.93,INR/kWh,State
+KA,2006,ACS-ARR Gap,426.15,INR/kWh,State
+KA,2006,Daily Power Supply,658.06,%,State
+KA,2007,Installed Capacity,831.99,MW,State
+KA,2007,Renewable Capacity,379.88,INR/kWh,State
+KA,2007,AT&C Losses,427.06,Hours,State
+KA,2007,ACS-ARR Gap,760.17,MW,State
+KA,2007,Daily Power Supply,470.43,GW,State
+KA,2008,Installed Capacity,585.33,%,State
+KA,2008,Renewable Capacity,504.83,INR/kWh,State
+KA,2008,AT&C Losses,69.72,INR/kWh,State
+KA,2008,ACS-ARR Gap,477.47,MW,State
+KA,2008,Daily Power Supply,652.43,Hours,State
+KA,2009,Installed Capacity,515.4,GW,State
+KA,2009,Renewable Capacity,484.79,GW,State
+KA,2009,AT&C Losses,664.2,GW,State
+KA,2009,ACS-ARR Gap,797.44,MW,State
+KA,2009,Daily Power Supply,789.06,MW,State
+KA,2010,Installed Capacity,22.45,MW,State
+KA,2010,Renewable Capacity,891.31,%,State
+KA,2010,AT&C Losses,787.29,INR/kWh,State
+KA,2010,ACS-ARR Gap,345.88,%,State
+KA,2010,Daily Power Supply,63.49,Hours,State
+KA,2011,Installed Capacity,47.89,GW,State
+KA,2011,Renewable Capacity,362.04,INR/kWh,State
+KA,2011,AT&C Losses,432.06,Hours,State
+KA,2011,ACS-ARR Gap,885.68,MW,State
+KA,2011,Daily Power Supply,82.98,Hours,State
+KA,2012,Installed Capacity,663.96,GW,State
+KA,2012,Renewable Capacity,99.87,MW,State
+KA,2012,AT&C Losses,267.03,INR/kWh,State
+KA,2012,ACS-ARR Gap,38.36,GW,State
+KA,2012,Daily Power Supply,819.35,GW,State
+KA,2013,Installed Capacity,98.97,GW,State
+KA,2013,Renewable Capacity,611.84,Hours,State
+KA,2013,AT&C Losses,860.8,INR/kWh,State
+KA,2013,ACS-ARR Gap,707.82,%,State
+KA,2013,Daily Power Supply,529.9,%,State
+KA,2014,Installed Capacity,813.4,MW,State
+KA,2014,Renewable Capacity,150.75,Hours,State
+KA,2014,AT&C Losses,58.96,Hours,State
+KA,2014,ACS-ARR Gap,754.12,INR/kWh,State
+KA,2014,Daily Power Supply,747.66,MW,State
+KA,2015,Installed Capacity,42.73,GW,State
+KA,2015,Renewable Capacity,198.83,GW,State
+KA,2015,AT&C Losses,861.56,INR/kWh,State
+KA,2015,ACS-ARR Gap,52.53,GW,State
+KA,2015,Daily Power Supply,466.68,Hours,State
+KA,2016,Installed Capacity,895.42,INR/kWh,State
+KA,2016,Renewable Capacity,234.58,%,State
+KA,2016,AT&C Losses,682.54,GW,State
+KA,2016,ACS-ARR Gap,138.93,%,State
+KA,2016,Daily Power Supply,202.38,INR/kWh,State
+KA,2017,Installed Capacity,483.51,GW,State
+KA,2017,Renewable Capacity,805.48,INR/kWh,State
+KA,2017,AT&C Losses,82.79,GW,State
+KA,2017,ACS-ARR Gap,352.36,%,State
+KA,2017,Daily Power Supply,117.0,GW,State
+KA,2018,Installed Capacity,40.42,MW,State
+KA,2018,Renewable Capacity,775.98,GW,State
+KA,2018,AT&C Losses,296.48,GW,State
+KA,2018,ACS-ARR Gap,496.0,%,State
+KA,2018,Daily Power Supply,253.61,Hours,State
+KA,2019,Installed Capacity,335.73,%,State
+KA,2019,Renewable Capacity,651.22,MW,State
+KA,2019,AT&C Losses,479.58,INR/kWh,State
+KA,2019,ACS-ARR Gap,198.55,INR/kWh,State
+KA,2019,Daily Power Supply,805.08,INR/kWh,State
+KA,2020,Installed Capacity,766.16,INR/kWh,State
+KA,2020,Renewable Capacity,432.79,INR/kWh,State
+KA,2020,AT&C Losses,815.91,%,State
+KA,2020,ACS-ARR Gap,313.35,MW,State
+KA,2020,Daily Power Supply,489.63,INR/kWh,State
+KA,2021,Installed Capacity,240.69,%,State
+KA,2021,Renewable Capacity,781.41,Hours,State
+KA,2021,AT&C Losses,765.6,%,State
+KA,2021,ACS-ARR Gap,144.78,INR/kWh,State
+KA,2021,Daily Power Supply,753.39,GW,State
+KA,2022,Installed Capacity,837.12,Hours,State
+KA,2022,Renewable Capacity,556.94,Hours,State
+KA,2022,AT&C Losses,143.17,%,State
+KA,2022,ACS-ARR Gap,865.2,GW,State
+KA,2022,Daily Power Supply,26.81,MW,State
+KA,2023,Installed Capacity,116.42,%,State
+KA,2023,Renewable Capacity,206.15,MW,State
+KA,2023,AT&C Losses,736.26,INR/kWh,State
+KA,2023,ACS-ARR Gap,456.97,MW,State
+KA,2023,Daily Power Supply,258.69,%,State
+KA,2024,Installed Capacity,883.08,GW,State
+KA,2024,Renewable Capacity,104.7,MW,State
+KA,2024,AT&C Losses,570.79,INR/kWh,State
+KA,2024,ACS-ARR Gap,701.97,%,State
+KA,2024,Daily Power Supply,685.04,MW,State
+KA,2025,Installed Capacity,389.3,MW,State
+KA,2025,Renewable Capacity,308.01,Hours,State
+KA,2025,AT&C Losses,161.96,INR/kWh,State
+KA,2025,ACS-ARR Gap,92.71,Hours,State
+KA,2025,Daily Power Supply,156.79,Hours,State
+MH,2005,Installed Capacity,61.52,%,State
+MH,2005,Renewable Capacity,150.16,Hours,State
+MH,2005,AT&C Losses,61.08,MW,State
+MH,2005,ACS-ARR Gap,426.48,MW,State
+MH,2005,Daily Power Supply,67.69,MW,State
+MH,2006,Installed Capacity,784.45,INR/kWh,State
+MH,2006,Renewable Capacity,401.64,%,State
+MH,2006,AT&C Losses,117.51,INR/kWh,State
+MH,2006,ACS-ARR Gap,345.56,INR/kWh,State
+MH,2006,Daily Power Supply,20.4,%,State
+MH,2007,Installed Capacity,227.63,MW,State
+MH,2007,Renewable Capacity,143.46,MW,State
+MH,2007,AT&C Losses,897.41,GW,State
+MH,2007,ACS-ARR Gap,92.42,GW,State
+MH,2007,Daily Power Supply,147.68,INR/kWh,State
+MH,2008,Installed Capacity,624.47,Hours,State
+MH,2008,Renewable Capacity,756.03,Hours,State
+MH,2008,AT&C Losses,589.23,%,State
+MH,2008,ACS-ARR Gap,781.31,Hours,State
+MH,2008,Daily Power Supply,28.66,INR/kWh,State
+MH,2009,Installed Capacity,849.28,INR/kWh,State
+MH,2009,Renewable Capacity,574.85,%,State
+MH,2009,AT&C Losses,247.16,%,State
+MH,2009,ACS-ARR Gap,281.1,MW,State
+MH,2009,Daily Power Supply,804.74,MW,State
+MH,2010,Installed Capacity,192.19,GW,State
+MH,2010,Renewable Capacity,586.67,Hours,State
+MH,2010,AT&C Losses,506.69,Hours,State
+MH,2010,ACS-ARR Gap,426.15,Hours,State
+MH,2010,Daily Power Supply,167.38,GW,State
+MH,2011,Installed Capacity,82.5,%,State
+MH,2011,Renewable Capacity,760.38,Hours,State
+MH,2011,AT&C Losses,16.57,INR/kWh,State
+MH,2011,ACS-ARR Gap,118.55,INR/kWh,State
+MH,2011,Daily Power Supply,820.7,MW,State
+MH,2012,Installed Capacity,555.18,GW,State
+MH,2012,Renewable Capacity,1.61,GW,State
+MH,2012,AT&C Losses,546.77,Hours,State
+MH,2012,ACS-ARR Gap,387.56,GW,State
+MH,2012,Daily Power Supply,145.16,INR/kWh,State
+MH,2013,Installed Capacity,242.46,%,State
+MH,2013,Renewable Capacity,885.92,GW,State
+MH,2013,AT&C Losses,10.95,MW,State
+MH,2013,ACS-ARR Gap,612.57,MW,State
+MH,2013,Daily Power Supply,432.2,%,State
+MH,2014,Installed Capacity,625.64,GW,State
+MH,2014,Renewable Capacity,857.41,GW,State
+MH,2014,AT&C Losses,36.14,%,State
+MH,2014,ACS-ARR Gap,94.88,GW,State
+MH,2014,Daily Power Supply,92.96,Hours,State
+MH,2015,Installed Capacity,632.37,MW,State
+MH,2015,Renewable Capacity,698.34,MW,State
+MH,2015,AT&C Losses,294.15,MW,State
+MH,2015,ACS-ARR Gap,481.05,GW,State
+MH,2015,Daily Power Supply,315.89,GW,State
+MH,2016,Installed Capacity,742.15,MW,State
+MH,2016,Renewable Capacity,357.53,MW,State
+MH,2016,AT&C Losses,879.73,MW,State
+MH,2016,ACS-ARR Gap,620.67,MW,State
+MH,2016,Daily Power Supply,739.39,MW,State
+MH,2017,Installed Capacity,151.15,GW,State
+MH,2017,Renewable Capacity,856.42,INR/kWh,State
+MH,2017,AT&C Losses,635.97,GW,State
+MH,2017,ACS-ARR Gap,842.62,GW,State
+MH,2017,Daily Power Supply,638.3,MW,State
+MH,2018,Installed Capacity,562.96,Hours,State
+MH,2018,Renewable Capacity,305.84,%,State
+MH,2018,AT&C Losses,436.22,%,State
+MH,2018,ACS-ARR Gap,805.39,Hours,State
+MH,2018,Daily Power Supply,537.93,MW,State
+MH,2019,Installed Capacity,433.07,GW,State
+MH,2019,Renewable Capacity,148.02,%,State
+MH,2019,AT&C Losses,652.48,Hours,State
+MH,2019,ACS-ARR Gap,222.77,INR/kWh,State
+MH,2019,Daily Power Supply,431.61,%,State
+MH,2020,Installed Capacity,197.68,Hours,State
+MH,2020,Renewable Capacity,669.98,INR/kWh,State
+MH,2020,AT&C Losses,710.83,%,State
+MH,2020,ACS-ARR Gap,145.92,MW,State
+MH,2020,Daily Power Supply,588.11,INR/kWh,State
+MH,2021,Installed Capacity,896.7,GW,State
+MH,2021,Renewable Capacity,444.2,Hours,State
+MH,2021,AT&C Losses,179.99,%,State
+MH,2021,ACS-ARR Gap,198.89,GW,State
+MH,2021,Daily Power Supply,756.49,GW,State
+MH,2022,Installed Capacity,781.51,MW,State
+MH,2022,Renewable Capacity,668.56,Hours,State
+MH,2022,AT&C Losses,566.07,Hours,State
+MH,2022,ACS-ARR Gap,334.25,Hours,State
+MH,2022,Daily Power Supply,454.61,MW,State
+MH,2023,Installed Capacity,780.39,GW,State
+MH,2023,Renewable Capacity,395.03,INR/kWh,State
+MH,2023,AT&C Losses,356.27,Hours,State
+MH,2023,ACS-ARR Gap,786.14,MW,State
+MH,2023,Daily Power Supply,713.76,MW,State
+MH,2024,Installed Capacity,892.92,MW,State
+MH,2024,Renewable Capacity,821.17,Hours,State
+MH,2024,AT&C Losses,345.77,MW,State
+MH,2024,ACS-ARR Gap,568.59,GW,State
+MH,2024,Daily Power Supply,118.85,Hours,State
+MH,2025,Installed Capacity,818.17,MW,State
+MH,2025,Renewable Capacity,214.17,MW,State
+MH,2025,AT&C Losses,163.29,INR/kWh,State
+MH,2025,ACS-ARR Gap,62.68,GW,State
+MH,2025,Daily Power Supply,222.88,Hours,State
+GJ,2005,Installed Capacity,364.82,GW,State
+GJ,2005,Renewable Capacity,596.53,GW,State
+GJ,2005,AT&C Losses,352.28,GW,State
+GJ,2005,ACS-ARR Gap,359.44,%,State
+GJ,2005,Daily Power Supply,591.23,GW,State
+GJ,2006,Installed Capacity,696.24,Hours,State
+GJ,2006,Renewable Capacity,872.85,%,State
+GJ,2006,AT&C Losses,795.4,MW,State
+GJ,2006,ACS-ARR Gap,404.18,Hours,State
+GJ,2006,Daily Power Supply,746.08,GW,State
+GJ,2007,Installed Capacity,404.77,%,State
+GJ,2007,Renewable Capacity,853.75,GW,State
+GJ,2007,AT&C Losses,150.75,Hours,State
+GJ,2007,ACS-ARR Gap,341.73,%,State
+GJ,2007,Daily Power Supply,662.89,INR/kWh,State
+GJ,2008,Installed Capacity,480.39,GW,State
+GJ,2008,Renewable Capacity,759.83,Hours,State
+GJ,2008,AT&C Losses,402.01,Hours,State
+GJ,2008,ACS-ARR Gap,486.15,Hours,State
+GJ,2008,Daily Power Supply,243.14,MW,State
+GJ,2009,Installed Capacity,111.11,INR/kWh,State
+GJ,2009,Renewable Capacity,842.98,INR/kWh,State
+GJ,2009,AT&C Losses,576.18,%,State
+GJ,2009,ACS-ARR Gap,407.25,INR/kWh,State
+GJ,2009,Daily Power Supply,80.16,GW,State
+GJ,2010,Installed Capacity,456.76,Hours,State
+GJ,2010,Renewable Capacity,133.93,INR/kWh,State
+GJ,2010,AT&C Losses,432.17,%,State
+GJ,2010,ACS-ARR Gap,4.94,MW,State
+GJ,2010,Daily Power Supply,291.16,INR/kWh,State
+GJ,2011,Installed Capacity,781.19,%,State
+GJ,2011,Renewable Capacity,440.22,Hours,State
+GJ,2011,AT&C Losses,479.25,INR/kWh,State
+GJ,2011,ACS-ARR Gap,129.62,MW,State
+GJ,2011,Daily Power Supply,182.07,MW,State
+GJ,2012,Installed Capacity,169.92,INR/kWh,State
+GJ,2012,Renewable Capacity,399.65,INR/kWh,State
+GJ,2012,AT&C Losses,867.03,MW,State
+GJ,2012,ACS-ARR Gap,595.64,MW,State
+GJ,2012,Daily Power Supply,337.18,MW,State
+GJ,2013,Installed Capacity,220.11,MW,State
+GJ,2013,Renewable Capacity,782.08,GW,State
+GJ,2013,AT&C Losses,27.83,GW,State
+GJ,2013,ACS-ARR Gap,620.73,GW,State
+GJ,2013,Daily Power Supply,540.75,INR/kWh,State
+GJ,2014,Installed Capacity,600.44,GW,State
+GJ,2014,Renewable Capacity,96.38,Hours,State
+GJ,2014,AT&C Losses,143.78,GW,State
+GJ,2014,ACS-ARR Gap,779.86,GW,State
+GJ,2014,Daily Power Supply,783.74,GW,State
+GJ,2015,Installed Capacity,81.89,GW,State
+GJ,2015,Renewable Capacity,98.64,MW,State
+GJ,2015,AT&C Losses,364.02,Hours,State
+GJ,2015,ACS-ARR Gap,601.0,MW,State
+GJ,2015,Daily Power Supply,686.18,GW,State
+GJ,2016,Installed Capacity,285.82,INR/kWh,State
+GJ,2016,Renewable Capacity,736.14,GW,State
+GJ,2016,AT&C Losses,295.88,GW,State
+GJ,2016,ACS-ARR Gap,330.13,INR/kWh,State
+GJ,2016,Daily Power Supply,342.69,INR/kWh,State
+GJ,2017,Installed Capacity,404.1,GW,State
+GJ,2017,Renewable Capacity,491.35,%,State
+GJ,2017,AT&C Losses,204.93,MW,State
+GJ,2017,ACS-ARR Gap,528.56,MW,State
+GJ,2017,Daily Power Supply,683.53,GW,State
+GJ,2018,Installed Capacity,342.12,MW,State
+GJ,2018,Renewable Capacity,856.35,MW,State
+GJ,2018,AT&C Losses,431.52,INR/kWh,State
+GJ,2018,ACS-ARR Gap,732.48,GW,State
+GJ,2018,Daily Power Supply,342.49,MW,State
+GJ,2019,Installed Capacity,474.2,Hours,State
+GJ,2019,Renewable Capacity,429.29,%,State
+GJ,2019,AT&C Losses,688.51,MW,State
+GJ,2019,ACS-ARR Gap,644.08,%,State
+GJ,2019,Daily Power Supply,16.9,%,State
+GJ,2020,Installed Capacity,7.3,INR/kWh,State
+GJ,2020,Renewable Capacity,808.28,GW,State
+GJ,2020,AT&C Losses,589.4,%,State
+GJ,2020,ACS-ARR Gap,54.71,INR/kWh,State
+GJ,2020,Daily Power Supply,431.53,%,State
+GJ,2021,Installed Capacity,91.73,INR/kWh,State
+GJ,2021,Renewable Capacity,555.81,INR/kWh,State
+GJ,2021,AT&C Losses,256.74,%,State
+GJ,2021,ACS-ARR Gap,836.68,Hours,State
+GJ,2021,Daily Power Supply,485.48,MW,State
+GJ,2022,Installed Capacity,549.5,MW,State
+GJ,2022,Renewable Capacity,360.21,INR/kWh,State
+GJ,2022,AT&C Losses,372.49,GW,State
+GJ,2022,ACS-ARR Gap,470.47,Hours,State
+GJ,2022,Daily Power Supply,163.7,INR/kWh,State
+GJ,2023,Installed Capacity,166.53,GW,State
+GJ,2023,Renewable Capacity,510.8,MW,State
+GJ,2023,AT&C Losses,826.02,Hours,State
+GJ,2023,ACS-ARR Gap,435.45,GW,State
+GJ,2023,Daily Power Supply,336.47,INR/kWh,State
+GJ,2024,Installed Capacity,570.02,%,State
+GJ,2024,Renewable Capacity,2.82,INR/kWh,State
+GJ,2024,AT&C Losses,795.84,GW,State
+GJ,2024,ACS-ARR Gap,714.47,MW,State
+GJ,2024,Daily Power Supply,157.71,GW,State
+GJ,2025,Installed Capacity,755.96,GW,State
+GJ,2025,Renewable Capacity,213.57,INR/kWh,State
+GJ,2025,AT&C Losses,272.2,%,State
+GJ,2025,ACS-ARR Gap,766.13,MW,State
+GJ,2025,Daily Power Supply,728.67,%,State
+RJ,2005,Installed Capacity,561.66,GW,State
+RJ,2005,Renewable Capacity,381.84,INR/kWh,State
+RJ,2005,AT&C Losses,151.63,%,State
+RJ,2005,ACS-ARR Gap,782.4,GW,State
+RJ,2005,Daily Power Supply,195.46,GW,State
+RJ,2006,Installed Capacity,161.01,INR/kWh,State
+RJ,2006,Renewable Capacity,577.95,Hours,State
+RJ,2006,AT&C Losses,185.96,%,State
+RJ,2006,ACS-ARR Gap,209.14,INR/kWh,State
+RJ,2006,Daily Power Supply,535.23,GW,State
+RJ,2007,Installed Capacity,889.01,%,State
+RJ,2007,Renewable Capacity,537.54,MW,State
+RJ,2007,AT&C Losses,364.18,INR/kWh,State
+RJ,2007,ACS-ARR Gap,645.98,GW,State
+RJ,2007,Daily Power Supply,14.73,Hours,State
+RJ,2008,Installed Capacity,736.93,Hours,State
+RJ,2008,Renewable Capacity,652.04,MW,State
+RJ,2008,AT&C Losses,815.02,INR/kWh,State
+RJ,2008,ACS-ARR Gap,71.94,INR/kWh,State
+RJ,2008,Daily Power Supply,804.82,%,State
+RJ,2009,Installed Capacity,361.37,GW,State
+RJ,2009,Renewable Capacity,204.38,GW,State
+RJ,2009,AT&C Losses,555.63,INR/kWh,State
+RJ,2009,ACS-ARR Gap,467.39,MW,State
+RJ,2009,Daily Power Supply,602.81,Hours,State
+RJ,2010,Installed Capacity,210.72,INR/kWh,State
+RJ,2010,Renewable Capacity,244.4,MW,State
+RJ,2010,AT&C Losses,612.28,Hours,State
+RJ,2010,ACS-ARR Gap,292.24,%,State
+RJ,2010,Daily Power Supply,171.7,MW,State
+RJ,2011,Installed Capacity,894.73,MW,State
+RJ,2011,Renewable Capacity,326.97,%,State
+RJ,2011,AT&C Losses,657.72,Hours,State
+RJ,2011,ACS-ARR Gap,54.6,Hours,State
+RJ,2011,Daily Power Supply,80.35,INR/kWh,State
+RJ,2012,Installed Capacity,158.18,GW,State
+RJ,2012,Renewable Capacity,153.84,MW,State
+RJ,2012,AT&C Losses,87.46,GW,State
+RJ,2012,ACS-ARR Gap,739.71,Hours,State
+RJ,2012,Daily Power Supply,313.14,Hours,State
+RJ,2013,Installed Capacity,883.12,%,State
+RJ,2013,Renewable Capacity,834.5,INR/kWh,State
+RJ,2013,AT&C Losses,108.29,%,State
+RJ,2013,ACS-ARR Gap,137.6,INR/kWh,State
+RJ,2013,Daily Power Supply,663.59,Hours,State
+RJ,2014,Installed Capacity,219.67,INR/kWh,State
+RJ,2014,Renewable Capacity,84.09,MW,State
+RJ,2014,AT&C Losses,709.22,GW,State
+RJ,2014,ACS-ARR Gap,547.83,Hours,State
+RJ,2014,Daily Power Supply,703.93,MW,State
+RJ,2015,Installed Capacity,57.27,Hours,State
+RJ,2015,Renewable Capacity,273.16,MW,State
+RJ,2015,AT&C Losses,307.84,GW,State
+RJ,2015,ACS-ARR Gap,79.33,%,State
+RJ,2015,Daily Power Supply,215.53,GW,State
+RJ,2016,Installed Capacity,275.32,Hours,State
+RJ,2016,Renewable Capacity,252.09,MW,State
+RJ,2016,AT&C Losses,540.73,%,State
+RJ,2016,ACS-ARR Gap,707.76,Hours,State
+RJ,2016,Daily Power Supply,766.36,MW,State
+RJ,2017,Installed Capacity,451.29,GW,State
+RJ,2017,Renewable Capacity,105.17,MW,State
+RJ,2017,AT&C Losses,565.34,MW,State
+RJ,2017,ACS-ARR Gap,781.32,%,State
+RJ,2017,Daily Power Supply,711.13,Hours,State
+RJ,2018,Installed Capacity,736.95,INR/kWh,State
+RJ,2018,Renewable Capacity,21.09,%,State
+RJ,2018,AT&C Losses,625.61,MW,State
+RJ,2018,ACS-ARR Gap,861.61,MW,State
+RJ,2018,Daily Power Supply,577.05,GW,State
+RJ,2019,Installed Capacity,517.86,INR/kWh,State
+RJ,2019,Renewable Capacity,775.88,Hours,State
+RJ,2019,AT&C Losses,545.93,GW,State
+RJ,2019,ACS-ARR Gap,545.82,INR/kWh,State
+RJ,2019,Daily Power Supply,286.12,%,State
+RJ,2020,Installed Capacity,359.1,GW,State
+RJ,2020,Renewable Capacity,599.84,MW,State
+RJ,2020,AT&C Losses,61.82,MW,State
+RJ,2020,ACS-ARR Gap,455.74,Hours,State
+RJ,2020,Daily Power Supply,72.43,Hours,State
+RJ,2021,Installed Capacity,869.26,Hours,State
+RJ,2021,Renewable Capacity,280.98,Hours,State
+RJ,2021,AT&C Losses,395.84,Hours,State
+RJ,2021,ACS-ARR Gap,766.38,INR/kWh,State
+RJ,2021,Daily Power Supply,16.41,MW,State
+RJ,2022,Installed Capacity,585.36,%,State
+RJ,2022,Renewable Capacity,348.12,INR/kWh,State
+RJ,2022,AT&C Losses,702.8,MW,State
+RJ,2022,ACS-ARR Gap,190.97,%,State
+RJ,2022,Daily Power Supply,678.95,GW,State
+RJ,2023,Installed Capacity,387.59,GW,State
+RJ,2023,Renewable Capacity,128.45,GW,State
+RJ,2023,AT&C Losses,704.54,%,State
+RJ,2023,ACS-ARR Gap,160.4,Hours,State
+RJ,2023,Daily Power Supply,556.44,Hours,State
+RJ,2024,Installed Capacity,897.03,GW,State
+RJ,2024,Renewable Capacity,209.76,Hours,State
+RJ,2024,AT&C Losses,275.98,Hours,State
+RJ,2024,ACS-ARR Gap,590.32,MW,State
+RJ,2024,Daily Power Supply,118.07,Hours,State
+RJ,2025,Installed Capacity,364.62,INR/kWh,State
+RJ,2025,Renewable Capacity,319.14,%,State
+RJ,2025,AT&C Losses,373.01,INR/kWh,State
+RJ,2025,ACS-ARR Gap,348.68,INR/kWh,State
+RJ,2025,Daily Power Supply,10.42,MW,State
+UP,2005,Installed Capacity,120.86,INR/kWh,State
+UP,2005,Renewable Capacity,17.76,INR/kWh,State
+UP,2005,AT&C Losses,684.38,MW,State
+UP,2005,ACS-ARR Gap,171.13,INR/kWh,State
+UP,2005,Daily Power Supply,194.07,INR/kWh,State
+UP,2006,Installed Capacity,750.96,INR/kWh,State
+UP,2006,Renewable Capacity,878.3,MW,State
+UP,2006,AT&C Losses,58.62,Hours,State
+UP,2006,ACS-ARR Gap,334.58,GW,State
+UP,2006,Daily Power Supply,493.39,INR/kWh,State
+UP,2007,Installed Capacity,760.0,INR/kWh,State
+UP,2007,Renewable Capacity,439.67,Hours,State
+UP,2007,AT&C Losses,778.26,Hours,State
+UP,2007,ACS-ARR Gap,586.71,%,State
+UP,2007,Daily Power Supply,338.61,Hours,State
+UP,2008,Installed Capacity,773.68,MW,State
+UP,2008,Renewable Capacity,706.62,INR/kWh,State
+UP,2008,AT&C Losses,120.26,GW,State
+UP,2008,ACS-ARR Gap,592.99,GW,State
+UP,2008,Daily Power Supply,619.48,Hours,State
+UP,2009,Installed Capacity,69.24,GW,State
+UP,2009,Renewable Capacity,756.86,MW,State
+UP,2009,AT&C Losses,228.13,INR/kWh,State
+UP,2009,ACS-ARR Gap,742.71,MW,State
+UP,2009,Daily Power Supply,348.02,GW,State
+UP,2010,Installed Capacity,552.73,Hours,State
+UP,2010,Renewable Capacity,405.83,INR/kWh,State
+UP,2010,AT&C Losses,135.58,Hours,State
+UP,2010,ACS-ARR Gap,461.24,INR/kWh,State
+UP,2010,Daily Power Supply,43.52,GW,State
+UP,2011,Installed Capacity,671.71,GW,State
+UP,2011,Renewable Capacity,65.34,%,State
+UP,2011,AT&C Losses,11.39,INR/kWh,State
+UP,2011,ACS-ARR Gap,457.97,MW,State
+UP,2011,Daily Power Supply,416.02,Hours,State
+UP,2012,Installed Capacity,315.06,%,State
+UP,2012,Renewable Capacity,595.4,Hours,State
+UP,2012,AT&C Losses,319.68,MW,State
+UP,2012,ACS-ARR Gap,89.01,MW,State
+UP,2012,Daily Power Supply,19.34,Hours,State
+UP,2013,Installed Capacity,809.06,GW,State
+UP,2013,Renewable Capacity,878.4,MW,State
+UP,2013,AT&C Losses,9.88,Hours,State
+UP,2013,ACS-ARR Gap,553.7,GW,State
+UP,2013,Daily Power Supply,579.69,MW,State
+UP,2014,Installed Capacity,430.69,MW,State
+UP,2014,Renewable Capacity,290.33,Hours,State
+UP,2014,AT&C Losses,263.89,MW,State
+UP,2014,ACS-ARR Gap,541.89,INR/kWh,State
+UP,2014,Daily Power Supply,828.31,Hours,State
+UP,2015,Installed Capacity,141.4,MW,State
+UP,2015,Renewable Capacity,304.77,MW,State
+UP,2015,AT&C Losses,202.54,GW,State
+UP,2015,ACS-ARR Gap,338.71,Hours,State
+UP,2015,Daily Power Supply,350.09,MW,State
+UP,2016,Installed Capacity,848.8,Hours,State
+UP,2016,Renewable Capacity,109.79,%,State
+UP,2016,AT&C Losses,798.29,INR/kWh,State
+UP,2016,ACS-ARR Gap,257.67,GW,State
+UP,2016,Daily Power Supply,232.96,MW,State
+UP,2017,Installed Capacity,572.65,INR/kWh,State
+UP,2017,Renewable Capacity,880.57,Hours,State
+UP,2017,AT&C Losses,48.95,%,State
+UP,2017,ACS-ARR Gap,242.76,Hours,State
+UP,2017,Daily Power Supply,39.33,MW,State
+UP,2018,Installed Capacity,97.6,INR/kWh,State
+UP,2018,Renewable Capacity,653.52,%,State
+UP,2018,AT&C Losses,868.63,%,State
+UP,2018,ACS-ARR Gap,136.03,Hours,State
+UP,2018,Daily Power Supply,659.65,%,State
+UP,2019,Installed Capacity,682.49,GW,State
+UP,2019,Renewable Capacity,457.77,%,State
+UP,2019,AT&C Losses,136.84,Hours,State
+UP,2019,ACS-ARR Gap,572.84,INR/kWh,State
+UP,2019,Daily Power Supply,144.48,MW,State
+UP,2020,Installed Capacity,502.46,GW,State
+UP,2020,Renewable Capacity,667.67,%,State
+UP,2020,AT&C Losses,892.63,%,State
+UP,2020,ACS-ARR Gap,361.64,MW,State
+UP,2020,Daily Power Supply,591.98,GW,State
+UP,2021,Installed Capacity,499.8,%,State
+UP,2021,Renewable Capacity,169.63,GW,State
+UP,2021,AT&C Losses,338.05,GW,State
+UP,2021,ACS-ARR Gap,499.03,MW,State
+UP,2021,Daily Power Supply,685.01,Hours,State
+UP,2022,Installed Capacity,671.29,GW,State
+UP,2022,Renewable Capacity,862.29,GW,State
+UP,2022,AT&C Losses,610.7,%,State
+UP,2022,ACS-ARR Gap,757.85,%,State
+UP,2022,Daily Power Supply,896.7,Hours,State
+UP,2023,Installed Capacity,347.15,Hours,State
+UP,2023,Renewable Capacity,650.0,%,State
+UP,2023,AT&C Losses,124.47,INR/kWh,State
+UP,2023,ACS-ARR Gap,2.19,INR/kWh,State
+UP,2023,Daily Power Supply,26.65,Hours,State
+UP,2024,Installed Capacity,163.6,INR/kWh,State
+UP,2024,Renewable Capacity,84.15,Hours,State
+UP,2024,AT&C Losses,459.34,%,State
+UP,2024,ACS-ARR Gap,58.84,MW,State
+UP,2024,Daily Power Supply,505.56,Hours,State
+UP,2025,Installed Capacity,48.0,MW,State
+UP,2025,Renewable Capacity,539.63,%,State
+UP,2025,AT&C Losses,243.2,Hours,State
+UP,2025,ACS-ARR Gap,290.24,%,State
+UP,2025,Daily Power Supply,53.17,INR/kWh,State
+BR,2005,Installed Capacity,671.46,MW,State
+BR,2005,Renewable Capacity,637.06,Hours,State
+BR,2005,AT&C Losses,465.78,INR/kWh,State
+BR,2005,ACS-ARR Gap,133.13,GW,State
+BR,2005,Daily Power Supply,390.9,MW,State
+BR,2006,Installed Capacity,334.59,GW,State
+BR,2006,Renewable Capacity,538.6,%,State
+BR,2006,AT&C Losses,690.05,GW,State
+BR,2006,ACS-ARR Gap,839.84,INR/kWh,State
+BR,2006,Daily Power Supply,156.55,Hours,State
+BR,2007,Installed Capacity,446.8,%,State
+BR,2007,Renewable Capacity,617.48,Hours,State
+BR,2007,AT&C Losses,345.76,GW,State
+BR,2007,ACS-ARR Gap,855.31,INR/kWh,State
+BR,2007,Daily Power Supply,166.44,INR/kWh,State
+BR,2008,Installed Capacity,881.69,%,State
+BR,2008,Renewable Capacity,24.06,GW,State
+BR,2008,AT&C Losses,527.44,INR/kWh,State
+BR,2008,ACS-ARR Gap,628.05,%,State
+BR,2008,Daily Power Supply,269.2,INR/kWh,State
+BR,2009,Installed Capacity,50.99,%,State
+BR,2009,Renewable Capacity,386.98,%,State
+BR,2009,AT&C Losses,339.53,INR/kWh,State
+BR,2009,ACS-ARR Gap,433.07,INR/kWh,State
+BR,2009,Daily Power Supply,412.64,INR/kWh,State
+BR,2010,Installed Capacity,635.56,MW,State
+BR,2010,Renewable Capacity,73.0,MW,State
+BR,2010,AT&C Losses,818.5,GW,State
+BR,2010,ACS-ARR Gap,6.82,GW,State
+BR,2010,Daily Power Supply,143.44,Hours,State
+BR,2011,Installed Capacity,118.65,GW,State
+BR,2011,Renewable Capacity,676.36,GW,State
+BR,2011,AT&C Losses,860.97,Hours,State
+BR,2011,ACS-ARR Gap,40.61,Hours,State
+BR,2011,Daily Power Supply,248.51,Hours,State
+BR,2012,Installed Capacity,708.52,MW,State
+BR,2012,Renewable Capacity,245.12,MW,State
+BR,2012,AT&C Losses,760.39,Hours,State
+BR,2012,ACS-ARR Gap,141.17,Hours,State
+BR,2012,Daily Power Supply,30.74,Hours,State
+BR,2013,Installed Capacity,557.92,%,State
+BR,2013,Renewable Capacity,125.75,Hours,State
+BR,2013,AT&C Losses,284.01,%,State
+BR,2013,ACS-ARR Gap,312.94,MW,State
+BR,2013,Daily Power Supply,659.34,%,State
+BR,2014,Installed Capacity,867.07,INR/kWh,State
+BR,2014,Renewable Capacity,47.51,Hours,State
+BR,2014,AT&C Losses,709.05,GW,State
+BR,2014,ACS-ARR Gap,445.29,INR/kWh,State
+BR,2014,Daily Power Supply,231.25,%,State
+BR,2015,Installed Capacity,652.78,INR/kWh,State
+BR,2015,Renewable Capacity,509.01,%,State
+BR,2015,AT&C Losses,278.17,INR/kWh,State
+BR,2015,ACS-ARR Gap,547.87,GW,State
+BR,2015,Daily Power Supply,165.12,GW,State
+BR,2016,Installed Capacity,136.55,Hours,State
+BR,2016,Renewable Capacity,376.48,GW,State
+BR,2016,AT&C Losses,765.63,GW,State
+BR,2016,ACS-ARR Gap,471.29,INR/kWh,State
+BR,2016,Daily Power Supply,205.05,Hours,State
+BR,2017,Installed Capacity,650.67,GW,State
+BR,2017,Renewable Capacity,712.63,GW,State
+BR,2017,AT&C Losses,489.41,MW,State
+BR,2017,ACS-ARR Gap,436.48,INR/kWh,State
+BR,2017,Daily Power Supply,127.29,GW,State
+BR,2018,Installed Capacity,602.29,MW,State
+BR,2018,Renewable Capacity,775.86,%,State
+BR,2018,AT&C Losses,586.05,Hours,State
+BR,2018,ACS-ARR Gap,56.51,Hours,State
+BR,2018,Daily Power Supply,320.7,%,State
+BR,2019,Installed Capacity,47.23,GW,State
+BR,2019,Renewable Capacity,181.63,INR/kWh,State
+BR,2019,AT&C Losses,148.65,Hours,State
+BR,2019,ACS-ARR Gap,681.2,INR/kWh,State
+BR,2019,Daily Power Supply,593.84,Hours,State
+BR,2020,Installed Capacity,783.59,%,State
+BR,2020,Renewable Capacity,852.0,MW,State
+BR,2020,AT&C Losses,675.78,GW,State
+BR,2020,ACS-ARR Gap,24.94,GW,State
+BR,2020,Daily Power Supply,85.19,%,State
+BR,2021,Installed Capacity,818.34,GW,State
+BR,2021,Renewable Capacity,351.96,%,State
+BR,2021,AT&C Losses,95.37,Hours,State
+BR,2021,ACS-ARR Gap,406.8,%,State
+BR,2021,Daily Power Supply,342.69,%,State
+BR,2022,Installed Capacity,397.24,%,State
+BR,2022,Renewable Capacity,183.79,MW,State
+BR,2022,AT&C Losses,85.09,Hours,State
+BR,2022,ACS-ARR Gap,713.67,Hours,State
+BR,2022,Daily Power Supply,249.16,GW,State
+BR,2023,Installed Capacity,356.68,MW,State
+BR,2023,Renewable Capacity,142.58,Hours,State
+BR,2023,AT&C Losses,502.26,MW,State
+BR,2023,ACS-ARR Gap,285.43,%,State
+BR,2023,Daily Power Supply,327.11,%,State
+BR,2024,Installed Capacity,249.58,GW,State
+BR,2024,Renewable Capacity,538.5,INR/kWh,State
+BR,2024,AT&C Losses,659.51,%,State
+BR,2024,ACS-ARR Gap,282.19,%,State
+BR,2024,Daily Power Supply,794.23,Hours,State
+BR,2025,Installed Capacity,665.89,GW,State
+BR,2025,Renewable Capacity,376.28,INR/kWh,State
+BR,2025,AT&C Losses,601.29,INR/kWh,State
+BR,2025,ACS-ARR Gap,291.05,Hours,State
+BR,2025,Daily Power Supply,793.79,%,State
+MP,2005,Installed Capacity,146.43,%,State
+MP,2005,Renewable Capacity,618.33,%,State
+MP,2005,AT&C Losses,474.9,GW,State
+MP,2005,ACS-ARR Gap,740.75,MW,State
+MP,2005,Daily Power Supply,71.93,INR/kWh,State
+MP,2006,Installed Capacity,876.12,Hours,State
+MP,2006,Renewable Capacity,772.43,Hours,State
+MP,2006,AT&C Losses,826.43,%,State
+MP,2006,ACS-ARR Gap,683.74,GW,State
+MP,2006,Daily Power Supply,424.32,Hours,State
+MP,2007,Installed Capacity,413.61,INR/kWh,State
+MP,2007,Renewable Capacity,229.26,%,State
+MP,2007,AT&C Losses,791.9,MW,State
+MP,2007,ACS-ARR Gap,220.28,Hours,State
+MP,2007,Daily Power Supply,743.47,GW,State
+MP,2008,Installed Capacity,216.27,Hours,State
+MP,2008,Renewable Capacity,814.87,%,State
+MP,2008,AT&C Losses,405.59,MW,State
+MP,2008,ACS-ARR Gap,552.59,GW,State
+MP,2008,Daily Power Supply,757.38,%,State
+MP,2009,Installed Capacity,759.44,%,State
+MP,2009,Renewable Capacity,570.91,Hours,State
+MP,2009,AT&C Losses,665.5,MW,State
+MP,2009,ACS-ARR Gap,292.93,Hours,State
+MP,2009,Daily Power Supply,613.66,GW,State
+MP,2010,Installed Capacity,589.93,GW,State
+MP,2010,Renewable Capacity,753.42,%,State
+MP,2010,AT&C Losses,624.89,GW,State
+MP,2010,ACS-ARR Gap,194.37,INR/kWh,State
+MP,2010,Daily Power Supply,30.35,INR/kWh,State
+MP,2011,Installed Capacity,367.77,Hours,State
+MP,2011,Renewable Capacity,844.51,Hours,State
+MP,2011,AT&C Losses,209.87,GW,State
+MP,2011,ACS-ARR Gap,709.71,INR/kWh,State
+MP,2011,Daily Power Supply,809.01,%,State
+MP,2012,Installed Capacity,816.52,%,State
+MP,2012,Renewable Capacity,0.67,%,State
+MP,2012,AT&C Losses,100.34,Hours,State
+MP,2012,ACS-ARR Gap,343.76,%,State
+MP,2012,Daily Power Supply,371.78,%,State
+MP,2013,Installed Capacity,380.58,GW,State
+MP,2013,Renewable Capacity,379.59,MW,State
+MP,2013,AT&C Losses,869.64,GW,State
+MP,2013,ACS-ARR Gap,263.35,%,State
+MP,2013,Daily Power Supply,743.52,%,State
+MP,2014,Installed Capacity,724.51,Hours,State
+MP,2014,Renewable Capacity,883.63,GW,State
+MP,2014,AT&C Losses,274.62,GW,State
+MP,2014,ACS-ARR Gap,253.73,Hours,State
+MP,2014,Daily Power Supply,101.77,INR/kWh,State
+MP,2015,Installed Capacity,486.86,GW,State
+MP,2015,Renewable Capacity,218.08,GW,State
+MP,2015,AT&C Losses,422.16,GW,State
+MP,2015,ACS-ARR Gap,742.17,INR/kWh,State
+MP,2015,Daily Power Supply,267.87,%,State
+MP,2016,Installed Capacity,657.36,GW,State
+MP,2016,Renewable Capacity,43.8,Hours,State
+MP,2016,AT&C Losses,789.58,MW,State
+MP,2016,ACS-ARR Gap,601.19,GW,State
+MP,2016,Daily Power Supply,890.13,INR/kWh,State
+MP,2017,Installed Capacity,754.42,Hours,State
+MP,2017,Renewable Capacity,524.73,MW,State
+MP,2017,AT&C Losses,516.23,INR/kWh,State
+MP,2017,ACS-ARR Gap,57.74,Hours,State
+MP,2017,Daily Power Supply,198.59,Hours,State
+MP,2018,Installed Capacity,103.88,INR/kWh,State
+MP,2018,Renewable Capacity,472.95,GW,State
+MP,2018,AT&C Losses,602.45,GW,State
+MP,2018,ACS-ARR Gap,58.69,GW,State
+MP,2018,Daily Power Supply,23.12,Hours,State
+MP,2019,Installed Capacity,819.65,GW,State
+MP,2019,Renewable Capacity,307.06,Hours,State
+MP,2019,AT&C Losses,399.32,INR/kWh,State
+MP,2019,ACS-ARR Gap,568.36,Hours,State
+MP,2019,Daily Power Supply,710.03,%,State
+MP,2020,Installed Capacity,214.07,Hours,State
+MP,2020,Renewable Capacity,94.25,Hours,State
+MP,2020,AT&C Losses,439.16,Hours,State
+MP,2020,ACS-ARR Gap,855.5,MW,State
+MP,2020,Daily Power Supply,425.87,GW,State
+MP,2021,Installed Capacity,455.89,GW,State
+MP,2021,Renewable Capacity,3.13,INR/kWh,State
+MP,2021,AT&C Losses,425.51,MW,State
+MP,2021,ACS-ARR Gap,816.69,%,State
+MP,2021,Daily Power Supply,249.49,GW,State
+MP,2022,Installed Capacity,405.69,INR/kWh,State
+MP,2022,Renewable Capacity,434.1,%,State
+MP,2022,AT&C Losses,403.0,Hours,State
+MP,2022,ACS-ARR Gap,186.69,INR/kWh,State
+MP,2022,Daily Power Supply,483.54,GW,State
+MP,2023,Installed Capacity,7.39,%,State
+MP,2023,Renewable Capacity,759.61,GW,State
+MP,2023,AT&C Losses,305.31,INR/kWh,State
+MP,2023,ACS-ARR Gap,394.97,MW,State
+MP,2023,Daily Power Supply,264.49,GW,State
+MP,2024,Installed Capacity,357.62,INR/kWh,State
+MP,2024,Renewable Capacity,256.46,GW,State
+MP,2024,AT&C Losses,102.9,%,State
+MP,2024,ACS-ARR Gap,791.94,GW,State
+MP,2024,Daily Power Supply,27.19,%,State
+MP,2025,Installed Capacity,40.85,%,State
+MP,2025,Renewable Capacity,118.77,INR/kWh,State
+MP,2025,AT&C Losses,355.42,Hours,State
+MP,2025,ACS-ARR Gap,657.01,INR/kWh,State
+MP,2025,Daily Power Supply,642.77,Hours,State
+WB,2005,Installed Capacity,607.31,GW,State
+WB,2005,Renewable Capacity,741.5,Hours,State
+WB,2005,AT&C Losses,739.17,GW,State
+WB,2005,ACS-ARR Gap,572.94,INR/kWh,State
+WB,2005,Daily Power Supply,746.71,GW,State
+WB,2006,Installed Capacity,543.61,MW,State
+WB,2006,Renewable Capacity,231.4,Hours,State
+WB,2006,AT&C Losses,345.76,Hours,State
+WB,2006,ACS-ARR Gap,332.46,%,State
+WB,2006,Daily Power Supply,536.89,Hours,State
+WB,2007,Installed Capacity,810.34,Hours,State
+WB,2007,Renewable Capacity,72.62,GW,State
+WB,2007,AT&C Losses,847.58,INR/kWh,State
+WB,2007,ACS-ARR Gap,610.96,MW,State
+WB,2007,Daily Power Supply,799.29,INR/kWh,State
+WB,2008,Installed Capacity,9.61,MW,State
+WB,2008,Renewable Capacity,125.41,GW,State
+WB,2008,AT&C Losses,551.51,Hours,State
+WB,2008,ACS-ARR Gap,155.08,%,State
+WB,2008,Daily Power Supply,667.01,INR/kWh,State
+WB,2009,Installed Capacity,60.27,MW,State
+WB,2009,Renewable Capacity,11.03,Hours,State
+WB,2009,AT&C Losses,265.89,GW,State
+WB,2009,ACS-ARR Gap,76.41,MW,State
+WB,2009,Daily Power Supply,819.17,GW,State
+WB,2010,Installed Capacity,194.84,GW,State
+WB,2010,Renewable Capacity,656.39,GW,State
+WB,2010,AT&C Losses,61.11,INR/kWh,State
+WB,2010,ACS-ARR Gap,623.4,MW,State
+WB,2010,Daily Power Supply,363.81,INR/kWh,State
+WB,2011,Installed Capacity,248.21,INR/kWh,State
+WB,2011,Renewable Capacity,775.64,Hours,State
+WB,2011,AT&C Losses,204.04,%,State
+WB,2011,ACS-ARR Gap,405.39,Hours,State
+WB,2011,Daily Power Supply,825.01,%,State
+WB,2012,Installed Capacity,524.19,MW,State
+WB,2012,Renewable Capacity,333.36,Hours,State
+WB,2012,AT&C Losses,353.98,MW,State
+WB,2012,ACS-ARR Gap,150.59,INR/kWh,State
+WB,2012,Daily Power Supply,581.34,INR/kWh,State
+WB,2013,Installed Capacity,801.14,GW,State
+WB,2013,Renewable Capacity,852.01,%,State
+WB,2013,AT&C Losses,23.39,Hours,State
+WB,2013,ACS-ARR Gap,341.33,%,State
+WB,2013,Daily Power Supply,306.87,%,State
+WB,2014,Installed Capacity,368.96,GW,State
+WB,2014,Renewable Capacity,91.58,INR/kWh,State
+WB,2014,AT&C Losses,478.21,Hours,State
+WB,2014,ACS-ARR Gap,522.41,GW,State
+WB,2014,Daily Power Supply,95.18,GW,State
+WB,2015,Installed Capacity,126.93,INR/kWh,State
+WB,2015,Renewable Capacity,206.02,%,State
+WB,2015,AT&C Losses,478.96,INR/kWh,State
+WB,2015,ACS-ARR Gap,346.09,%,State
+WB,2015,Daily Power Supply,188.37,%,State
+WB,2016,Installed Capacity,349.49,MW,State
+WB,2016,Renewable Capacity,356.19,%,State
+WB,2016,AT&C Losses,132.78,INR/kWh,State
+WB,2016,ACS-ARR Gap,260.68,INR/kWh,State
+WB,2016,Daily Power Supply,752.01,INR/kWh,State
+WB,2017,Installed Capacity,860.35,INR/kWh,State
+WB,2017,Renewable Capacity,426.87,Hours,State
+WB,2017,AT&C Losses,895.37,GW,State
+WB,2017,ACS-ARR Gap,885.62,INR/kWh,State
+WB,2017,Daily Power Supply,546.39,Hours,State
+WB,2018,Installed Capacity,28.33,Hours,State
+WB,2018,Renewable Capacity,882.11,GW,State
+WB,2018,AT&C Losses,498.56,MW,State
+WB,2018,ACS-ARR Gap,151.92,INR/kWh,State
+WB,2018,Daily Power Supply,750.37,%,State
+WB,2019,Installed Capacity,320.89,MW,State
+WB,2019,Renewable Capacity,233.77,%,State
+WB,2019,AT&C Losses,159.87,INR/kWh,State
+WB,2019,ACS-ARR Gap,308.53,Hours,State
+WB,2019,Daily Power Supply,211.92,%,State
+WB,2020,Installed Capacity,502.16,%,State
+WB,2020,Renewable Capacity,149.14,INR/kWh,State
+WB,2020,AT&C Losses,399.92,MW,State
+WB,2020,ACS-ARR Gap,440.26,%,State
+WB,2020,Daily Power Supply,704.26,%,State
+WB,2021,Installed Capacity,792.34,GW,State
+WB,2021,Renewable Capacity,713.37,%,State
+WB,2021,AT&C Losses,181.58,INR/kWh,State
+WB,2021,ACS-ARR Gap,133.61,INR/kWh,State
+WB,2021,Daily Power Supply,428.25,Hours,State
+WB,2022,Installed Capacity,816.3,%,State
+WB,2022,Renewable Capacity,818.55,%,State
+WB,2022,AT&C Losses,318.44,Hours,State
+WB,2022,ACS-ARR Gap,34.66,%,State
+WB,2022,Daily Power Supply,494.62,INR/kWh,State
+WB,2023,Installed Capacity,714.89,Hours,State
+WB,2023,Renewable Capacity,420.37,MW,State
+WB,2023,AT&C Losses,849.67,GW,State
+WB,2023,ACS-ARR Gap,854.23,MW,State
+WB,2023,Daily Power Supply,882.9,Hours,State
+WB,2024,Installed Capacity,679.28,MW,State
+WB,2024,Renewable Capacity,442.53,%,State
+WB,2024,AT&C Losses,183.3,%,State
+WB,2024,ACS-ARR Gap,460.39,GW,State
+WB,2024,Daily Power Supply,326.36,GW,State
+WB,2025,Installed Capacity,779.09,%,State
+WB,2025,Renewable Capacity,367.12,%,State
+WB,2025,AT&C Losses,542.1,Hours,State
+WB,2025,ACS-ARR Gap,726.03,%,State
+WB,2025,Daily Power Supply,180.83,GW,State
+OD,2005,Installed Capacity,53.99,INR/kWh,State
+OD,2005,Renewable Capacity,395.52,GW,State
+OD,2005,AT&C Losses,268.94,%,State
+OD,2005,ACS-ARR Gap,281.05,%,State
+OD,2005,Daily Power Supply,403.76,INR/kWh,State
+OD,2006,Installed Capacity,874.39,INR/kWh,State
+OD,2006,Renewable Capacity,833.78,MW,State
+OD,2006,AT&C Losses,429.42,INR/kWh,State
+OD,2006,ACS-ARR Gap,27.98,%,State
+OD,2006,Daily Power Supply,623.43,MW,State
+OD,2007,Installed Capacity,569.47,INR/kWh,State
+OD,2007,Renewable Capacity,323.16,MW,State
+OD,2007,AT&C Losses,300.4,%,State
+OD,2007,ACS-ARR Gap,190.03,GW,State
+OD,2007,Daily Power Supply,714.16,%,State
+OD,2008,Installed Capacity,898.04,MW,State
+OD,2008,Renewable Capacity,745.71,%,State
+OD,2008,AT&C Losses,664.21,GW,State
+OD,2008,ACS-ARR Gap,569.8,INR/kWh,State
+OD,2008,Daily Power Supply,5.6,INR/kWh,State
+OD,2009,Installed Capacity,739.82,GW,State
+OD,2009,Renewable Capacity,689.62,Hours,State
+OD,2009,AT&C Losses,630.18,GW,State
+OD,2009,ACS-ARR Gap,650.97,Hours,State
+OD,2009,Daily Power Supply,366.69,%,State
+OD,2010,Installed Capacity,314.26,%,State
+OD,2010,Renewable Capacity,569.06,INR/kWh,State
+OD,2010,AT&C Losses,852.95,MW,State
+OD,2010,ACS-ARR Gap,5.98,%,State
+OD,2010,Daily Power Supply,470.56,MW,State
+OD,2011,Installed Capacity,69.64,MW,State
+OD,2011,Renewable Capacity,715.17,Hours,State
+OD,2011,AT&C Losses,131.1,MW,State
+OD,2011,ACS-ARR Gap,362.88,Hours,State
+OD,2011,Daily Power Supply,777.13,%,State
+OD,2012,Installed Capacity,723.23,%,State
+OD,2012,Renewable Capacity,20.31,INR/kWh,State
+OD,2012,AT&C Losses,758.09,GW,State
+OD,2012,ACS-ARR Gap,576.61,INR/kWh,State
+OD,2012,Daily Power Supply,30.79,%,State
+OD,2013,Installed Capacity,322.35,GW,State
+OD,2013,Renewable Capacity,683.77,GW,State
+OD,2013,AT&C Losses,647.95,MW,State
+OD,2013,ACS-ARR Gap,527.49,Hours,State
+OD,2013,Daily Power Supply,573.56,MW,State
+OD,2014,Installed Capacity,218.12,Hours,State
+OD,2014,Renewable Capacity,211.57,INR/kWh,State
+OD,2014,AT&C Losses,723.66,Hours,State
+OD,2014,ACS-ARR Gap,129.02,MW,State
+OD,2014,Daily Power Supply,361.6,MW,State
+OD,2015,Installed Capacity,120.88,MW,State
+OD,2015,Renewable Capacity,649.69,GW,State
+OD,2015,AT&C Losses,673.91,GW,State
+OD,2015,ACS-ARR Gap,0.62,MW,State
+OD,2015,Daily Power Supply,704.82,MW,State
+OD,2016,Installed Capacity,248.91,GW,State
+OD,2016,Renewable Capacity,56.89,MW,State
+OD,2016,AT&C Losses,420.54,INR/kWh,State
+OD,2016,ACS-ARR Gap,846.43,INR/kWh,State
+OD,2016,Daily Power Supply,837.83,GW,State
+OD,2017,Installed Capacity,324.53,%,State
+OD,2017,Renewable Capacity,508.7,MW,State
+OD,2017,AT&C Losses,282.36,Hours,State
+OD,2017,ACS-ARR Gap,816.53,%,State
+OD,2017,Daily Power Supply,390.72,GW,State
+OD,2018,Installed Capacity,339.89,Hours,State
+OD,2018,Renewable Capacity,607.79,GW,State
+OD,2018,AT&C Losses,618.47,MW,State
+OD,2018,ACS-ARR Gap,508.38,Hours,State
+OD,2018,Daily Power Supply,569.62,MW,State
+OD,2019,Installed Capacity,125.63,INR/kWh,State
+OD,2019,Renewable Capacity,641.88,INR/kWh,State
+OD,2019,AT&C Losses,164.94,Hours,State
+OD,2019,ACS-ARR Gap,117.08,Hours,State
+OD,2019,Daily Power Supply,632.44,GW,State
+OD,2020,Installed Capacity,95.28,%,State
+OD,2020,Renewable Capacity,571.09,INR/kWh,State
+OD,2020,AT&C Losses,43.84,INR/kWh,State
+OD,2020,ACS-ARR Gap,448.96,Hours,State
+OD,2020,Daily Power Supply,779.31,%,State
+OD,2021,Installed Capacity,412.2,MW,State
+OD,2021,Renewable Capacity,571.16,%,State
+OD,2021,AT&C Losses,333.15,Hours,State
+OD,2021,ACS-ARR Gap,773.13,INR/kWh,State
+OD,2021,Daily Power Supply,375.15,INR/kWh,State
+OD,2022,Installed Capacity,374.51,MW,State
+OD,2022,Renewable Capacity,191.19,GW,State
+OD,2022,AT&C Losses,782.85,GW,State
+OD,2022,ACS-ARR Gap,716.72,INR/kWh,State
+OD,2022,Daily Power Supply,32.83,GW,State
+OD,2023,Installed Capacity,123.37,Hours,State
+OD,2023,Renewable Capacity,664.87,Hours,State
+OD,2023,AT&C Losses,877.15,Hours,State
+OD,2023,ACS-ARR Gap,355.92,GW,State
+OD,2023,Daily Power Supply,801.25,Hours,State
+OD,2024,Installed Capacity,39.18,INR/kWh,State
+OD,2024,Renewable Capacity,52.75,MW,State
+OD,2024,AT&C Losses,489.65,INR/kWh,State
+OD,2024,ACS-ARR Gap,619.4,INR/kWh,State
+OD,2024,Daily Power Supply,341.5,MW,State
+OD,2025,Installed Capacity,17.89,Hours,State
+OD,2025,Renewable Capacity,853.99,%,State
+OD,2025,AT&C Losses,443.83,GW,State
+OD,2025,ACS-ARR Gap,815.51,Hours,State
+OD,2025,Daily Power Supply,9.43,%,State
+PB,2005,Installed Capacity,789.94,MW,State
+PB,2005,Renewable Capacity,467.37,GW,State
+PB,2005,AT&C Losses,281.02,Hours,State
+PB,2005,ACS-ARR Gap,240.89,GW,State
+PB,2005,Daily Power Supply,469.41,MW,State
+PB,2006,Installed Capacity,771.49,INR/kWh,State
+PB,2006,Renewable Capacity,69.21,GW,State
+PB,2006,AT&C Losses,108.63,INR/kWh,State
+PB,2006,ACS-ARR Gap,307.95,MW,State
+PB,2006,Daily Power Supply,201.33,GW,State
+PB,2007,Installed Capacity,334.88,%,State
+PB,2007,Renewable Capacity,596.88,INR/kWh,State
+PB,2007,AT&C Losses,876.79,%,State
+PB,2007,ACS-ARR Gap,21.72,%,State
+PB,2007,Daily Power Supply,746.87,GW,State
+PB,2008,Installed Capacity,262.38,INR/kWh,State
+PB,2008,Renewable Capacity,358.51,Hours,State
+PB,2008,AT&C Losses,809.56,INR/kWh,State
+PB,2008,ACS-ARR Gap,205.8,MW,State
+PB,2008,Daily Power Supply,543.16,INR/kWh,State
+PB,2009,Installed Capacity,672.83,Hours,State
+PB,2009,Renewable Capacity,52.53,MW,State
+PB,2009,AT&C Losses,891.19,INR/kWh,State
+PB,2009,ACS-ARR Gap,477.9,Hours,State
+PB,2009,Daily Power Supply,490.26,Hours,State
+PB,2010,Installed Capacity,699.35,GW,State
+PB,2010,Renewable Capacity,203.23,Hours,State
+PB,2010,AT&C Losses,557.95,GW,State
+PB,2010,ACS-ARR Gap,560.36,MW,State
+PB,2010,Daily Power Supply,283.97,%,State
+PB,2011,Installed Capacity,132.69,INR/kWh,State
+PB,2011,Renewable Capacity,474.78,Hours,State
+PB,2011,AT&C Losses,349.66,Hours,State
+PB,2011,ACS-ARR Gap,578.72,GW,State
+PB,2011,Daily Power Supply,311.0,Hours,State
+PB,2012,Installed Capacity,303.94,Hours,State
+PB,2012,Renewable Capacity,485.16,GW,State
+PB,2012,AT&C Losses,621.15,MW,State
+PB,2012,ACS-ARR Gap,133.0,INR/kWh,State
+PB,2012,Daily Power Supply,447.83,GW,State
+PB,2013,Installed Capacity,403.18,GW,State
+PB,2013,Renewable Capacity,862.16,%,State
+PB,2013,AT&C Losses,685.1,INR/kWh,State
+PB,2013,ACS-ARR Gap,854.19,INR/kWh,State
+PB,2013,Daily Power Supply,559.01,MW,State
+PB,2014,Installed Capacity,492.4,INR/kWh,State
+PB,2014,Renewable Capacity,413.01,%,State
+PB,2014,AT&C Losses,149.59,INR/kWh,State
+PB,2014,ACS-ARR Gap,433.46,INR/kWh,State
+PB,2014,Daily Power Supply,45.46,GW,State
+PB,2015,Installed Capacity,123.73,%,State
+PB,2015,Renewable Capacity,713.93,%,State
+PB,2015,AT&C Losses,352.98,Hours,State
+PB,2015,ACS-ARR Gap,864.58,Hours,State
+PB,2015,Daily Power Supply,856.31,%,State
+PB,2016,Installed Capacity,883.04,GW,State
+PB,2016,Renewable Capacity,197.6,INR/kWh,State
+PB,2016,AT&C Losses,393.58,%,State
+PB,2016,ACS-ARR Gap,158.9,MW,State
+PB,2016,Daily Power Supply,883.07,Hours,State
+PB,2017,Installed Capacity,746.54,INR/kWh,State
+PB,2017,Renewable Capacity,817.15,MW,State
+PB,2017,AT&C Losses,628.63,%,State
+PB,2017,ACS-ARR Gap,469.55,MW,State
+PB,2017,Daily Power Supply,870.36,INR/kWh,State
+PB,2018,Installed Capacity,768.87,Hours,State
+PB,2018,Renewable Capacity,222.98,GW,State
+PB,2018,AT&C Losses,412.68,GW,State
+PB,2018,ACS-ARR Gap,146.85,MW,State
+PB,2018,Daily Power Supply,694.58,Hours,State
+PB,2019,Installed Capacity,11.39,MW,State
+PB,2019,Renewable Capacity,706.09,Hours,State
+PB,2019,AT&C Losses,833.61,MW,State
+PB,2019,ACS-ARR Gap,724.38,INR/kWh,State
+PB,2019,Daily Power Supply,200.26,Hours,State
+PB,2020,Installed Capacity,160.51,%,State
+PB,2020,Renewable Capacity,228.81,%,State
+PB,2020,AT&C Losses,26.74,%,State
+PB,2020,ACS-ARR Gap,805.23,INR/kWh,State
+PB,2020,Daily Power Supply,107.09,GW,State
+PB,2021,Installed Capacity,138.85,%,State
+PB,2021,Renewable Capacity,859.38,GW,State
+PB,2021,AT&C Losses,40.9,INR/kWh,State
+PB,2021,ACS-ARR Gap,433.65,%,State
+PB,2021,Daily Power Supply,353.52,INR/kWh,State
+PB,2022,Installed Capacity,29.84,%,State
+PB,2022,Renewable Capacity,855.86,%,State
+PB,2022,AT&C Losses,248.36,GW,State
+PB,2022,ACS-ARR Gap,708.9,Hours,State
+PB,2022,Daily Power Supply,348.0,INR/kWh,State
+PB,2023,Installed Capacity,323.04,Hours,State
+PB,2023,Renewable Capacity,762.62,GW,State
+PB,2023,AT&C Losses,172.84,INR/kWh,State
+PB,2023,ACS-ARR Gap,876.95,MW,State
+PB,2023,Daily Power Supply,755.91,GW,State
+PB,2024,Installed Capacity,35.52,MW,State
+PB,2024,Renewable Capacity,860.71,MW,State
+PB,2024,AT&C Losses,611.76,GW,State
+PB,2024,ACS-ARR Gap,855.44,INR/kWh,State
+PB,2024,Daily Power Supply,647.38,%,State
+PB,2025,Installed Capacity,385.04,Hours,State
+PB,2025,Renewable Capacity,683.02,%,State
+PB,2025,AT&C Losses,129.86,MW,State
+PB,2025,ACS-ARR Gap,803.36,INR/kWh,State
+PB,2025,Daily Power Supply,686.92,MW,State
+HR,2005,Installed Capacity,800.05,MW,State
+HR,2005,Renewable Capacity,184.61,INR/kWh,State
+HR,2005,AT&C Losses,230.15,%,State
+HR,2005,ACS-ARR Gap,534.63,Hours,State
+HR,2005,Daily Power Supply,572.62,%,State
+HR,2006,Installed Capacity,62.57,%,State
+HR,2006,Renewable Capacity,456.47,%,State
+HR,2006,AT&C Losses,86.0,%,State
+HR,2006,ACS-ARR Gap,752.33,INR/kWh,State
+HR,2006,Daily Power Supply,654.21,INR/kWh,State
+HR,2007,Installed Capacity,694.12,MW,State
+HR,2007,Renewable Capacity,742.4,MW,State
+HR,2007,AT&C Losses,788.36,INR/kWh,State
+HR,2007,ACS-ARR Gap,254.58,INR/kWh,State
+HR,2007,Daily Power Supply,34.3,INR/kWh,State
+HR,2008,Installed Capacity,689.11,GW,State
+HR,2008,Renewable Capacity,531.59,Hours,State
+HR,2008,AT&C Losses,470.5,INR/kWh,State
+HR,2008,ACS-ARR Gap,650.95,INR/kWh,State
+HR,2008,Daily Power Supply,273.9,%,State
+HR,2009,Installed Capacity,794.52,Hours,State
+HR,2009,Renewable Capacity,870.18,%,State
+HR,2009,AT&C Losses,596.91,GW,State
+HR,2009,ACS-ARR Gap,763.66,MW,State
+HR,2009,Daily Power Supply,272.99,INR/kWh,State
+HR,2010,Installed Capacity,641.5,%,State
+HR,2010,Renewable Capacity,244.66,GW,State
+HR,2010,AT&C Losses,334.16,%,State
+HR,2010,ACS-ARR Gap,899.59,Hours,State
+HR,2010,Daily Power Supply,886.38,INR/kWh,State
+HR,2011,Installed Capacity,488.45,GW,State
+HR,2011,Renewable Capacity,342.93,MW,State
+HR,2011,AT&C Losses,638.53,%,State
+HR,2011,ACS-ARR Gap,242.48,GW,State
+HR,2011,Daily Power Supply,242.33,MW,State
+HR,2012,Installed Capacity,433.94,GW,State
+HR,2012,Renewable Capacity,541.6,Hours,State
+HR,2012,AT&C Losses,569.13,%,State
+HR,2012,ACS-ARR Gap,683.23,GW,State
+HR,2012,Daily Power Supply,462.71,GW,State
+HR,2013,Installed Capacity,155.29,GW,State
+HR,2013,Renewable Capacity,839.67,MW,State
+HR,2013,AT&C Losses,627.64,%,State
+HR,2013,ACS-ARR Gap,723.26,MW,State
+HR,2013,Daily Power Supply,656.22,GW,State
+HR,2014,Installed Capacity,247.03,%,State
+HR,2014,Renewable Capacity,47.18,GW,State
+HR,2014,AT&C Losses,311.14,Hours,State
+HR,2014,ACS-ARR Gap,880.68,%,State
+HR,2014,Daily Power Supply,107.43,GW,State
+HR,2015,Installed Capacity,654.49,INR/kWh,State
+HR,2015,Renewable Capacity,852.41,GW,State
+HR,2015,AT&C Losses,281.13,MW,State
+HR,2015,ACS-ARR Gap,147.15,Hours,State
+HR,2015,Daily Power Supply,346.23,%,State
+HR,2016,Installed Capacity,704.06,%,State
+HR,2016,Renewable Capacity,10.77,MW,State
+HR,2016,AT&C Losses,554.51,MW,State
+HR,2016,ACS-ARR Gap,394.18,Hours,State
+HR,2016,Daily Power Supply,503.3,INR/kWh,State
+HR,2017,Installed Capacity,735.51,GW,State
+HR,2017,Renewable Capacity,481.09,%,State
+HR,2017,AT&C Losses,386.92,INR/kWh,State
+HR,2017,ACS-ARR Gap,646.75,INR/kWh,State
+HR,2017,Daily Power Supply,865.38,%,State
+HR,2018,Installed Capacity,857.24,%,State
+HR,2018,Renewable Capacity,791.47,GW,State
+HR,2018,AT&C Losses,141.97,Hours,State
+HR,2018,ACS-ARR Gap,562.71,MW,State
+HR,2018,Daily Power Supply,784.34,%,State
+HR,2019,Installed Capacity,451.61,%,State
+HR,2019,Renewable Capacity,765.69,%,State
+HR,2019,AT&C Losses,565.38,Hours,State
+HR,2019,ACS-ARR Gap,606.78,Hours,State
+HR,2019,Daily Power Supply,168.63,Hours,State
+HR,2020,Installed Capacity,259.23,%,State
+HR,2020,Renewable Capacity,172.69,Hours,State
+HR,2020,AT&C Losses,559.35,GW,State
+HR,2020,ACS-ARR Gap,387.77,Hours,State
+HR,2020,Daily Power Supply,364.37,%,State
+HR,2021,Installed Capacity,320.59,MW,State
+HR,2021,Renewable Capacity,389.77,%,State
+HR,2021,AT&C Losses,609.95,%,State
+HR,2021,ACS-ARR Gap,51.4,Hours,State
+HR,2021,Daily Power Supply,883.85,Hours,State
+HR,2022,Installed Capacity,604.5,%,State
+HR,2022,Renewable Capacity,706.85,INR/kWh,State
+HR,2022,AT&C Losses,91.68,INR/kWh,State
+HR,2022,ACS-ARR Gap,293.07,MW,State
+HR,2022,Daily Power Supply,823.3,MW,State
+HR,2023,Installed Capacity,405.38,MW,State
+HR,2023,Renewable Capacity,161.84,MW,State
+HR,2023,AT&C Losses,102.42,GW,State
+HR,2023,ACS-ARR Gap,664.23,MW,State
+HR,2023,Daily Power Supply,524.17,GW,State
+HR,2024,Installed Capacity,312.2,Hours,State
+HR,2024,Renewable Capacity,67.1,%,State
+HR,2024,AT&C Losses,185.2,GW,State
+HR,2024,ACS-ARR Gap,666.28,MW,State
+HR,2024,Daily Power Supply,259.07,MW,State
+HR,2025,Installed Capacity,620.96,MW,State
+HR,2025,Renewable Capacity,543.47,%,State
+HR,2025,AT&C Losses,68.49,Hours,State
+HR,2025,ACS-ARR Gap,267.91,Hours,State
+HR,2025,Daily Power Supply,539.34,Hours,State

@@ -1,0 +1,148 @@
+indicator,year,value,unit,geography_level
+GDP Growth,2005,1.99,%,National
+GDP Growth,2006,-1.07,%,National
+GDP Growth,2007,5.55,Index,National
+GDP Growth,2008,-1.5,INR Lakh Cr,National
+GDP Growth,2009,3.35,%,National
+GDP Growth,2010,5.62,INR Lakh Cr,National
+GDP Growth,2011,-3.67,Index,National
+GDP Growth,2012,7.55,Index,National
+GDP Growth,2013,-0.6,%,National
+GDP Growth,2014,5.88,Index,National
+GDP Growth,2015,4.4,%,National
+GDP Growth,2016,0.66,INR Lakh Cr,National
+GDP Growth,2017,2.4,INR Lakh Cr,National
+GDP Growth,2018,3.3,INR Lakh Cr,National
+GDP Growth,2019,5.89,INR Lakh Cr,National
+GDP Growth,2020,11.73,%,National
+GDP Growth,2021,-3.26,INR Lakh Cr,National
+GDP Growth,2022,6.88,%,National
+GDP Growth,2023,-2.96,%,National
+GDP Growth,2024,11.45,Index,National
+GDP Growth,2025,2.17,Index,National
+IIP,2005,-2.44,INR Lakh Cr,National
+IIP,2006,6.93,%,National
+IIP,2007,9.33,INR Lakh Cr,National
+IIP,2008,10.55,Index,National
+IIP,2009,6.6,Index,National
+IIP,2010,2.8,Index,National
+IIP,2011,4.75,Index,National
+IIP,2012,-3.5,Index,National
+IIP,2013,8.4,Index,National
+IIP,2014,2.32,Index,National
+IIP,2015,7.64,INR Lakh Cr,National
+IIP,2016,-2.58,INR Lakh Cr,National
+IIP,2017,4.33,Index,National
+IIP,2018,1.21,%,National
+IIP,2019,0.34,%,National
+IIP,2020,5.39,%,National
+IIP,2021,0.49,%,National
+IIP,2022,-1.75,INR Lakh Cr,National
+IIP,2023,-1.36,%,National
+IIP,2024,11.79,%,National
+IIP,2025,-0.82,INR Lakh Cr,National
+PMI Manufacturing,2005,9.05,%,National
+PMI Manufacturing,2006,7.38,INR Lakh Cr,National
+PMI Manufacturing,2007,8.34,%,National
+PMI Manufacturing,2008,10.82,Index,National
+PMI Manufacturing,2009,-2.15,INR Lakh Cr,National
+PMI Manufacturing,2010,9.6,Index,National
+PMI Manufacturing,2011,-2.47,INR Lakh Cr,National
+PMI Manufacturing,2012,0.98,%,National
+PMI Manufacturing,2013,7.67,Index,National
+PMI Manufacturing,2014,10.2,%,National
+PMI Manufacturing,2015,2.13,INR Lakh Cr,National
+PMI Manufacturing,2016,7.41,%,National
+PMI Manufacturing,2017,7.55,INR Lakh Cr,National
+PMI Manufacturing,2018,8.34,INR Lakh Cr,National
+PMI Manufacturing,2019,-3.35,INR Lakh Cr,National
+PMI Manufacturing,2020,2.84,Index,National
+PMI Manufacturing,2021,3.03,INR Lakh Cr,National
+PMI Manufacturing,2022,-3.5,INR Lakh Cr,National
+PMI Manufacturing,2023,3.61,%,National
+PMI Manufacturing,2024,4.14,Index,National
+PMI Manufacturing,2025,-1.77,INR Lakh Cr,National
+PMI Services,2005,2.57,INR Lakh Cr,National
+PMI Services,2006,-0.75,%,National
+PMI Services,2007,-2.77,INR Lakh Cr,National
+PMI Services,2008,7.12,Index,National
+PMI Services,2009,5.99,Index,National
+PMI Services,2010,6.13,Index,National
+PMI Services,2011,3.3,Index,National
+PMI Services,2012,10.13,Index,National
+PMI Services,2013,-2.05,%,National
+PMI Services,2014,1.09,%,National
+PMI Services,2015,0.35,INR Lakh Cr,National
+PMI Services,2016,2.83,%,National
+PMI Services,2017,9.77,INR Lakh Cr,National
+PMI Services,2018,-1.37,INR Lakh Cr,National
+PMI Services,2019,2.68,%,National
+PMI Services,2020,7.08,Index,National
+PMI Services,2021,1.4,INR Lakh Cr,National
+PMI Services,2022,-1.31,%,National
+PMI Services,2023,2.46,Index,National
+PMI Services,2024,11.55,Index,National
+PMI Services,2025,7.14,INR Lakh Cr,National
+Electricity Consumption,2005,0.81,%,National
+Electricity Consumption,2006,11.96,INR Lakh Cr,National
+Electricity Consumption,2007,5.75,Index,National
+Electricity Consumption,2008,2.58,INR Lakh Cr,National
+Electricity Consumption,2009,0.46,%,National
+Electricity Consumption,2010,6.15,Index,National
+Electricity Consumption,2011,-1.68,Index,National
+Electricity Consumption,2012,11.77,INR Lakh Cr,National
+Electricity Consumption,2013,6.75,INR Lakh Cr,National
+Electricity Consumption,2014,1.91,%,National
+Electricity Consumption,2015,7.65,%,National
+Electricity Consumption,2016,6.12,Index,National
+Electricity Consumption,2017,2.38,INR Lakh Cr,National
+Electricity Consumption,2018,-2.56,%,National
+Electricity Consumption,2019,-1.59,INR Lakh Cr,National
+Electricity Consumption,2020,-1.02,%,National
+Electricity Consumption,2021,9.73,INR Lakh Cr,National
+Electricity Consumption,2022,-0.48,Index,National
+Electricity Consumption,2023,4.19,INR Lakh Cr,National
+Electricity Consumption,2024,1.58,INR Lakh Cr,National
+Electricity Consumption,2025,-1.21,%,National
+Rail Freight,2005,2.36,INR Lakh Cr,National
+Rail Freight,2006,10.99,%,National
+Rail Freight,2007,6.81,%,National
+Rail Freight,2008,-2.18,INR Lakh Cr,National
+Rail Freight,2009,4.66,Index,National
+Rail Freight,2010,0.13,Index,National
+Rail Freight,2011,11.71,%,National
+Rail Freight,2012,-0.13,Index,National
+Rail Freight,2013,10.36,%,National
+Rail Freight,2014,10.12,INR Lakh Cr,National
+Rail Freight,2015,1.42,INR Lakh Cr,National
+Rail Freight,2016,7.21,INR Lakh Cr,National
+Rail Freight,2017,9.7,Index,National
+Rail Freight,2018,8.48,INR Lakh Cr,National
+Rail Freight,2019,10.97,Index,National
+Rail Freight,2020,6.7,Index,National
+Rail Freight,2021,-3.85,Index,National
+Rail Freight,2022,11.04,%,National
+Rail Freight,2023,-3.92,Index,National
+Rail Freight,2024,4.78,Index,National
+Rail Freight,2025,3.17,%,National
+Port Cargo,2005,-0.41,%,National
+Port Cargo,2006,-3.71,Index,National
+Port Cargo,2007,1.21,INR Lakh Cr,National
+Port Cargo,2008,7.54,%,National
+Port Cargo,2009,4.68,INR Lakh Cr,National
+Port Cargo,2010,1.88,INR Lakh Cr,National
+Port Cargo,2011,0.01,Index,National
+Port Cargo,2012,11.57,%,National
+Port Cargo,2013,3.79,INR Lakh Cr,National
+Port Cargo,2014,2.95,%,National
+Port Cargo,2015,4.04,INR Lakh Cr,National
+Port Cargo,2016,3.88,%,National
+Port Cargo,2017,-0.32,INR Lakh Cr,National
+Port Cargo,2018,5.15,%,National
+Port Cargo,2019,-3.3,Index,National
+Port Cargo,2020,11.26,%,National
+Port Cargo,2021,10.14,%,National
+Port Cargo,2022,11.25,%,National
+Port Cargo,2023,2.85,%,National
+Port Cargo,2024,5.16,%,National
+Port Cargo,2025,-2.79,%,National

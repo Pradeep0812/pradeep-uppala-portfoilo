@@ -1,0 +1,1135 @@
+entity,entity_type,state_code,year,metric,value,unit
+NTPC,CPSE,WB,2005,Gross Turnover,621998.37,INR Lakh Cr
+NTPC,CPSE,MP,2005,Net Profit,241249.79,INR Lakh Cr
+NTPC,CPSE,WB,2005,Dividend,320954.46,INR Lakh Cr
+NTPC,Institution,AP,2005,Credit Deployed,689718.49,%
+NTPC,Bank,MP,2005,GNPA Ratio,582771.34,%
+NTPC,CPSE,PB,2005,Recovery Rate,584960.39,INR Cr
+NTPC,CPSE,RJ,2006,Gross Turnover,486075.99,INR Cr
+NTPC,Institution,TN,2006,Net Profit,434248.93,%
+NTPC,Institution,HR,2006,Dividend,175364.49,INR Lakh Cr
+NTPC,Institution,GJ,2006,Credit Deployed,147316.46,INR Cr
+NTPC,CPSE,BR,2006,GNPA Ratio,635389.68,%
+NTPC,CPSE,AP,2006,Recovery Rate,869419.65,INR Cr
+NTPC,Institution,UP,2007,Gross Turnover,130711.07,INR Lakh Cr
+NTPC,CPSE,OD,2007,Net Profit,181065.7,INR Cr
+NTPC,Institution,BR,2007,Dividend,756998.17,INR Cr
+NTPC,Institution,HR,2007,Credit Deployed,258097.32,INR Cr
+NTPC,CPSE,GJ,2007,GNPA Ratio,313989.89,INR Cr
+NTPC,Institution,RJ,2007,Recovery Rate,704565.93,INR Lakh Cr
+NTPC,Institution,MP,2008,Gross Turnover,457636.05,INR Lakh Cr
+NTPC,CPSE,HR,2008,Net Profit,654449.26,%
+NTPC,CPSE,MP,2008,Dividend,663499.93,%
+NTPC,CPSE,TG,2008,Credit Deployed,863805.81,%
+NTPC,CPSE,KA,2008,GNPA Ratio,898704.74,%
+NTPC,Institution,MH,2008,Recovery Rate,323524.57,INR Cr
+NTPC,Bank,UP,2009,Gross Turnover,811469.09,INR Lakh Cr
+NTPC,CPSE,BR,2009,Net Profit,67880.2,%
+NTPC,Institution,MH,2009,Dividend,449719.91,%
+NTPC,Institution,TG,2009,Credit Deployed,546279.73,INR Lakh Cr
+NTPC,Bank,AP,2009,GNPA Ratio,503062.33,INR Cr
+NTPC,Bank,GJ,2009,Recovery Rate,881337.17,INR Cr
+NTPC,Institution,AP,2010,Gross Turnover,452510.07,INR Lakh Cr
+NTPC,Bank,WB,2010,Net Profit,675247.14,INR Cr
+NTPC,CPSE,KA,2010,Dividend,527093.05,%
+NTPC,Bank,UP,2010,Credit Deployed,641715.73,%
+NTPC,CPSE,GJ,2010,GNPA Ratio,1451.05,INR Cr
+NTPC,Bank,KA,2010,Recovery Rate,534287.79,INR Cr
+NTPC,CPSE,TG,2011,Gross Turnover,519246.74,INR Cr
+NTPC,Bank,KL,2011,Net Profit,105029.04,INR Lakh Cr
+NTPC,CPSE,GJ,2011,Dividend,378230.44,%
+NTPC,Institution,KL,2011,Credit Deployed,407123.21,INR Cr
+NTPC,CPSE,PB,2011,GNPA Ratio,636126.17,INR Cr
+NTPC,Institution,UP,2011,Recovery Rate,595904.02,INR Lakh Cr
+NTPC,Institution,MH,2012,Gross Turnover,77966.92,INR Lakh Cr
+NTPC,Bank,PB,2012,Net Profit,305729.96,INR Cr
+NTPC,CPSE,KA,2012,Dividend,171964.01,%
+NTPC,CPSE,PB,2012,Credit Deployed,271503.0,%
+NTPC,Institution,HR,2012,GNPA Ratio,434595.85,%
+NTPC,Institution,PB,2012,Recovery Rate,26221.12,INR Cr
+NTPC,Institution,AP,2013,Gross Turnover,401724.66,INR Cr
+NTPC,CPSE,GJ,2013,Net Profit,329431.78,%
+NTPC,CPSE,UP,2013,Dividend,427254.27,INR Lakh Cr
+NTPC,Institution,WB,2013,Credit Deployed,483177.86,%
+NTPC,Institution,GJ,2013,GNPA Ratio,78082.9,INR Cr
+NTPC,CPSE,KA,2013,Recovery Rate,32716.31,INR Lakh Cr
+NTPC,Bank,MH,2014,Gross Turnover,596510.53,INR Cr
+NTPC,CPSE,HR,2014,Net Profit,451534.23,%
+NTPC,Bank,OD,2014,Dividend,586684.77,%
+NTPC,Bank,AP,2014,Credit Deployed,736526.39,INR Lakh Cr
+NTPC,Bank,MP,2014,GNPA Ratio,311097.79,INR Lakh Cr
+NTPC,Institution,GJ,2014,Recovery Rate,370821.84,%
+NTPC,CPSE,OD,2015,Gross Turnover,472209.83,INR Lakh Cr
+NTPC,CPSE,HR,2015,Net Profit,528637.01,INR Cr
+NTPC,Bank,WB,2015,Dividend,609916.61,%
+NTPC,Institution,MP,2015,Credit Deployed,445142.4,%
+NTPC,Institution,MP,2015,GNPA Ratio,369544.72,INR Lakh Cr
+NTPC,Bank,HR,2015,Recovery Rate,803015.2,INR Lakh Cr
+NTPC,Institution,HR,2016,Gross Turnover,778496.83,INR Cr
+NTPC,Bank,RJ,2016,Net Profit,527009.31,%
+NTPC,Bank,GJ,2016,Dividend,288517.62,INR Lakh Cr
+NTPC,CPSE,MP,2016,Credit Deployed,503750.1,INR Cr
+NTPC,Institution,TG,2016,GNPA Ratio,349258.75,INR Cr
+NTPC,Institution,KA,2016,Recovery Rate,681112.73,%
+NTPC,Bank,KL,2017,Gross Turnover,136790.64,INR Lakh Cr
+NTPC,Bank,AP,2017,Net Profit,581732.14,INR Cr
+NTPC,Institution,RJ,2017,Dividend,747573.88,%
+NTPC,CPSE,RJ,2017,Credit Deployed,470846.97,INR Lakh Cr
+NTPC,Bank,TG,2017,GNPA Ratio,474826.38,INR Lakh Cr
+NTPC,CPSE,AP,2017,Recovery Rate,677113.61,%
+NTPC,Institution,OD,2018,Gross Turnover,624721.55,INR Lakh Cr
+NTPC,Bank,GJ,2018,Net Profit,267661.02,INR Cr
+NTPC,Institution,TN,2018,Dividend,65471.91,%
+NTPC,Bank,PB,2018,Credit Deployed,373741.14,INR Lakh Cr
+NTPC,Bank,BR,2018,GNPA Ratio,666797.48,%
+NTPC,CPSE,RJ,2018,Recovery Rate,549042.91,INR Lakh Cr
+NTPC,Bank,AP,2019,Gross Turnover,514095.91,%
+NTPC,Institution,KL,2019,Net Profit,204494.64,INR Lakh Cr
+NTPC,Bank,PB,2019,Dividend,736168.97,INR Cr
+NTPC,CPSE,TN,2019,Credit Deployed,595322.97,INR Cr
+NTPC,CPSE,UP,2019,GNPA Ratio,394806.61,INR Lakh Cr
+NTPC,Bank,MP,2019,Recovery Rate,11329.91,INR Lakh Cr
+NTPC,Institution,PB,2020,Gross Turnover,219282.28,INR Cr
+NTPC,CPSE,TN,2020,Net Profit,67983.62,%
+NTPC,Bank,KA,2020,Dividend,31650.94,INR Lakh Cr
+NTPC,Bank,PB,2020,Credit Deployed,15569.07,INR Cr
+NTPC,CPSE,TG,2020,GNPA Ratio,726537.41,INR Lakh Cr
+NTPC,Institution,UP,2020,Recovery Rate,374978.27,INR Cr
+NTPC,CPSE,UP,2021,Gross Turnover,160100.04,INR Cr
+NTPC,Institution,RJ,2021,Net Profit,844603.49,INR Cr
+NTPC,Bank,TN,2021,Dividend,710979.15,%
+NTPC,CPSE,GJ,2021,Credit Deployed,429404.06,INR Cr
+NTPC,Bank,KA,2021,GNPA Ratio,390504.9,%
+NTPC,Institution,TN,2021,Recovery Rate,367110.73,INR Cr
+NTPC,Bank,MH,2022,Gross Turnover,466491.67,%
+NTPC,Institution,RJ,2022,Net Profit,1295.49,INR Cr
+NTPC,Institution,UP,2022,Dividend,159810.35,INR Lakh Cr
+NTPC,Institution,UP,2022,Credit Deployed,258169.11,INR Cr
+NTPC,CPSE,TN,2022,GNPA Ratio,541647.7,INR Cr
+NTPC,Institution,TG,2022,Recovery Rate,713558.11,INR Cr
+NTPC,Bank,PB,2023,Gross Turnover,468108.67,INR Cr
+NTPC,Institution,RJ,2023,Net Profit,295436.3,INR Cr
+NTPC,Bank,MH,2023,Dividend,543067.76,%
+NTPC,Bank,BR,2023,Credit Deployed,13530.14,%
+NTPC,Bank,BR,2023,GNPA Ratio,49279.94,INR Lakh Cr
+NTPC,CPSE,GJ,2023,Recovery Rate,497093.82,%
+NTPC,CPSE,KL,2024,Gross Turnover,787273.62,INR Cr
+NTPC,Bank,WB,2024,Net Profit,775693.68,INR Cr
+NTPC,Bank,GJ,2024,Dividend,743301.14,INR Lakh Cr
+NTPC,CPSE,OD,2024,Credit Deployed,285228.54,%
+NTPC,CPSE,WB,2024,GNPA Ratio,865450.68,INR Cr
+NTPC,Institution,AP,2024,Recovery Rate,474140.18,INR Cr
+NTPC,Bank,MP,2025,Gross Turnover,565081.16,%
+NTPC,CPSE,MP,2025,Net Profit,709561.69,INR Cr
+NTPC,Institution,UP,2025,Dividend,383692.2,INR Cr
+NTPC,CPSE,MP,2025,Credit Deployed,161699.47,INR Lakh Cr
+NTPC,Bank,HR,2025,GNPA Ratio,11549.36,INR Cr
+NTPC,Bank,KA,2025,Recovery Rate,49252.21,INR Lakh Cr
+ONGC,Bank,UP,2005,Gross Turnover,537855.9,INR Lakh Cr
+ONGC,Institution,WB,2005,Net Profit,468296.06,%
+ONGC,Bank,PB,2005,Dividend,672932.99,INR Lakh Cr
+ONGC,Bank,PB,2005,Credit Deployed,177526.43,INR Lakh Cr
+ONGC,CPSE,KA,2005,GNPA Ratio,260939.39,INR Lakh Cr
+ONGC,CPSE,HR,2005,Recovery Rate,460377.96,INR Lakh Cr
+ONGC,Bank,KA,2006,Gross Turnover,140884.73,%
+ONGC,Bank,MP,2006,Net Profit,603405.29,%
+ONGC,CPSE,TG,2006,Dividend,150263.49,INR Lakh Cr
+ONGC,Bank,BR,2006,Credit Deployed,463012.05,INR Lakh Cr
+ONGC,Institution,HR,2006,GNPA Ratio,374662.27,INR Cr
+ONGC,CPSE,MH,2006,Recovery Rate,64571.09,INR Lakh Cr
+ONGC,Institution,GJ,2007,Gross Turnover,817570.01,INR Cr
+ONGC,Institution,AP,2007,Net Profit,96531.08,INR Cr
+ONGC,Institution,PB,2007,Dividend,892867.37,%
+ONGC,Institution,BR,2007,Credit Deployed,203544.18,INR Cr
+ONGC,Institution,HR,2007,GNPA Ratio,69950.4,INR Cr
+ONGC,Institution,HR,2007,Recovery Rate,353561.24,INR Lakh Cr
+ONGC,Bank,UP,2008,Gross Turnover,862181.84,%
+ONGC,CPSE,OD,2008,Net Profit,659557.18,INR Lakh Cr
+ONGC,Bank,RJ,2008,Dividend,256429.08,INR Lakh Cr
+ONGC,Bank,MH,2008,Credit Deployed,691890.08,INR Cr
+ONGC,CPSE,AP,2008,GNPA Ratio,185306.52,%
+ONGC,Institution,PB,2008,Recovery Rate,848876.83,%
+ONGC,Bank,MH,2009,Gross Turnover,95659.6,INR Cr
+ONGC,Institution,TG,2009,Net Profit,593425.05,INR Cr
+ONGC,Institution,OD,2009,Dividend,837005.54,%
+ONGC,Bank,TG,2009,Credit Deployed,435067.18,%
+ONGC,Bank,RJ,2009,GNPA Ratio,3300.64,INR Lakh Cr
+ONGC,Bank,UP,2009,Recovery Rate,206752.36,%
+ONGC,Institution,TN,2010,Gross Turnover,236266.64,%
+ONGC,Bank,AP,2010,Net Profit,246682.14,INR Lakh Cr
+ONGC,Institution,UP,2010,Dividend,434764.79,INR Cr
+ONGC,CPSE,MP,2010,Credit Deployed,834304.47,INR Cr
+ONGC,Institution,PB,2010,GNPA Ratio,155489.86,%
+ONGC,Bank,HR,2010,Recovery Rate,730963.51,%
+ONGC,CPSE,KL,2011,Gross Turnover,509304.09,%
+ONGC,CPSE,OD,2011,Net Profit,362740.85,INR Cr
+ONGC,CPSE,BR,2011,Dividend,288513.7,INR Cr
+ONGC,Institution,WB,2011,Credit Deployed,143040.7,%
+ONGC,CPSE,OD,2011,GNPA Ratio,44424.11,INR Cr
+ONGC,Bank,BR,2011,Recovery Rate,681472.64,INR Cr
+ONGC,Bank,UP,2012,Gross Turnover,780438.26,INR Cr
+ONGC,Institution,AP,2012,Net Profit,686967.79,INR Lakh Cr
+ONGC,Bank,OD,2012,Dividend,639807.79,%
+ONGC,Bank,AP,2012,Credit Deployed,426401.23,%
+ONGC,CPSE,WB,2012,GNPA Ratio,798788.84,INR Lakh Cr
+ONGC,Institution,KA,2012,Recovery Rate,263538.65,INR Lakh Cr
+ONGC,Institution,AP,2013,Gross Turnover,478210.64,INR Cr
+ONGC,Bank,MP,2013,Net Profit,839770.56,INR Lakh Cr
+ONGC,Institution,WB,2013,Dividend,113826.56,INR Lakh Cr
+ONGC,Bank,AP,2013,Credit Deployed,765388.03,%
+ONGC,Institution,HR,2013,GNPA Ratio,179044.81,INR Lakh Cr
+ONGC,Bank,PB,2013,Recovery Rate,372014.08,INR Lakh Cr
+ONGC,Institution,OD,2014,Gross Turnover,673807.47,INR Cr
+ONGC,Bank,RJ,2014,Net Profit,34941.26,INR Lakh Cr
+ONGC,Bank,KL,2014,Dividend,649013.27,INR Cr
+ONGC,Bank,UP,2014,Credit Deployed,758282.63,%
+ONGC,CPSE,GJ,2014,GNPA Ratio,36262.77,INR Lakh Cr
+ONGC,CPSE,KL,2014,Recovery Rate,721984.69,INR Cr
+ONGC,Bank,TN,2015,Gross Turnover,75050.31,INR Lakh Cr
+ONGC,Bank,HR,2015,Net Profit,600336.5,%
+ONGC,Bank,AP,2015,Dividend,738758.0,INR Cr
+ONGC,Institution,UP,2015,Credit Deployed,168103.41,INR Cr
+ONGC,CPSE,GJ,2015,GNPA Ratio,621026.34,INR Cr
+ONGC,Institution,TN,2015,Recovery Rate,752301.21,%
+ONGC,Bank,KL,2016,Gross Turnover,223860.37,INR Cr
+ONGC,Bank,UP,2016,Net Profit,251713.67,INR Lakh Cr
+ONGC,Institution,GJ,2016,Dividend,18961.79,INR Cr
+ONGC,CPSE,WB,2016,Credit Deployed,65984.5,INR Cr
+ONGC,Bank,KL,2016,GNPA Ratio,735115.86,%
+ONGC,Institution,UP,2016,Recovery Rate,630412.37,%
+ONGC,CPSE,HR,2017,Gross Turnover,36071.78,INR Lakh Cr
+ONGC,CPSE,RJ,2017,Net Profit,137013.87,INR Cr
+ONGC,Bank,KL,2017,Dividend,527204.59,INR Cr
+ONGC,CPSE,WB,2017,Credit Deployed,777088.38,INR Lakh Cr
+ONGC,Bank,PB,2017,GNPA Ratio,403774.85,INR Cr
+ONGC,Institution,KL,2017,Recovery Rate,239426.58,INR Cr
+ONGC,CPSE,MP,2018,Gross Turnover,581445.79,INR Lakh Cr
+ONGC,Bank,PB,2018,Net Profit,70503.57,%
+ONGC,CPSE,PB,2018,Dividend,184676.38,INR Cr
+ONGC,Institution,RJ,2018,Credit Deployed,746487.69,INR Cr
+ONGC,Institution,TN,2018,GNPA Ratio,435422.37,INR Lakh Cr
+ONGC,Bank,TG,2018,Recovery Rate,799055.25,INR Lakh Cr
+ONGC,Bank,PB,2019,Gross Turnover,809652.24,INR Lakh Cr
+ONGC,CPSE,HR,2019,Net Profit,468212.24,INR Lakh Cr
+ONGC,CPSE,RJ,2019,Dividend,405052.24,%
+ONGC,Institution,RJ,2019,Credit Deployed,447814.5,%
+ONGC,Bank,TN,2019,GNPA Ratio,469573.69,%
+ONGC,Bank,HR,2019,Recovery Rate,199313.59,INR Cr
+ONGC,CPSE,KL,2020,Gross Turnover,516581.92,INR Cr
+ONGC,CPSE,BR,2020,Net Profit,664468.58,%
+ONGC,Institution,OD,2020,Dividend,435771.21,%
+ONGC,CPSE,RJ,2020,Credit Deployed,471743.96,INR Lakh Cr
+ONGC,Institution,BR,2020,GNPA Ratio,77224.0,INR Cr
+ONGC,CPSE,AP,2020,Recovery Rate,38862.83,INR Lakh Cr
+ONGC,Institution,KA,2021,Gross Turnover,752016.18,INR Lakh Cr
+ONGC,Institution,MH,2021,Net Profit,247894.16,INR Lakh Cr
+ONGC,CPSE,PB,2021,Dividend,863122.17,INR Lakh Cr
+ONGC,Bank,KL,2021,Credit Deployed,281473.88,%
+ONGC,Bank,UP,2021,GNPA Ratio,220278.12,INR Cr
+ONGC,Institution,WB,2021,Recovery Rate,648302.83,%
+ONGC,Institution,TG,2022,Gross Turnover,619564.28,INR Cr
+ONGC,CPSE,RJ,2022,Net Profit,279939.89,%
+ONGC,CPSE,GJ,2022,Dividend,623318.59,%
+ONGC,Institution,OD,2022,Credit Deployed,110242.05,INR Lakh Cr
+ONGC,Institution,BR,2022,GNPA Ratio,74199.12,INR Cr
+ONGC,Bank,AP,2022,Recovery Rate,430836.76,INR Lakh Cr
+ONGC,Institution,TG,2023,Gross Turnover,254407.8,INR Lakh Cr
+ONGC,Bank,PB,2023,Net Profit,145973.41,INR Lakh Cr
+ONGC,Bank,MP,2023,Dividend,780171.02,INR Cr
+ONGC,Institution,GJ,2023,Credit Deployed,662631.19,INR Lakh Cr
+ONGC,Institution,TN,2023,GNPA Ratio,119325.34,%
+ONGC,Bank,UP,2023,Recovery Rate,647966.39,INR Lakh Cr
+ONGC,Bank,OD,2024,Gross Turnover,69439.17,%
+ONGC,CPSE,WB,2024,Net Profit,866129.16,INR Lakh Cr
+ONGC,Bank,HR,2024,Dividend,740485.99,%
+ONGC,Bank,HR,2024,Credit Deployed,657837.92,INR Cr
+ONGC,CPSE,KL,2024,GNPA Ratio,656902.91,INR Lakh Cr
+ONGC,Bank,WB,2024,Recovery Rate,449614.82,%
+ONGC,CPSE,MP,2025,Gross Turnover,561776.62,%
+ONGC,Bank,PB,2025,Net Profit,236181.85,INR Cr
+ONGC,CPSE,MP,2025,Dividend,798149.52,%
+ONGC,CPSE,MP,2025,Credit Deployed,320757.89,INR Lakh Cr
+ONGC,CPSE,WB,2025,GNPA Ratio,587345.29,INR Lakh Cr
+ONGC,Bank,OD,2025,Recovery Rate,210269.95,INR Cr
+SBI,CPSE,MP,2005,Gross Turnover,694104.62,INR Lakh Cr
+SBI,CPSE,HR,2005,Net Profit,424235.12,INR Lakh Cr
+SBI,CPSE,UP,2005,Dividend,451747.0,INR Lakh Cr
+SBI,Institution,MP,2005,Credit Deployed,437769.67,INR Lakh Cr
+SBI,CPSE,OD,2005,GNPA Ratio,728795.27,%
+SBI,Institution,KL,2005,Recovery Rate,117980.56,%
+SBI,Institution,RJ,2006,Gross Turnover,238587.6,%
+SBI,Institution,BR,2006,Net Profit,787490.17,INR Lakh Cr
+SBI,Bank,AP,2006,Dividend,840589.34,INR Lakh Cr
+SBI,CPSE,GJ,2006,Credit Deployed,394755.91,%
+SBI,Institution,KL,2006,GNPA Ratio,715198.66,INR Lakh Cr
+SBI,CPSE,GJ,2006,Recovery Rate,240496.23,INR Lakh Cr
+SBI,Bank,UP,2007,Gross Turnover,550493.99,%
+SBI,CPSE,UP,2007,Net Profit,91056.42,%
+SBI,Institution,HR,2007,Dividend,851468.6,INR Lakh Cr
+SBI,CPSE,MP,2007,Credit Deployed,486686.34,INR Lakh Cr
+SBI,Bank,WB,2007,GNPA Ratio,874848.41,INR Cr
+SBI,Bank,KL,2007,Recovery Rate,512533.17,INR Lakh Cr
+SBI,Institution,AP,2008,Gross Turnover,398159.94,INR Lakh Cr
+SBI,CPSE,MP,2008,Net Profit,304705.24,INR Cr
+SBI,Institution,MH,2008,Dividend,781922.3,INR Lakh Cr
+SBI,CPSE,HR,2008,Credit Deployed,871301.33,INR Lakh Cr
+SBI,Institution,KL,2008,GNPA Ratio,478744.36,%
+SBI,CPSE,MH,2008,Recovery Rate,50411.52,%
+SBI,Institution,HR,2009,Gross Turnover,146620.76,INR Cr
+SBI,CPSE,AP,2009,Net Profit,749890.39,INR Lakh Cr
+SBI,Bank,MP,2009,Dividend,288603.27,INR Lakh Cr
+SBI,CPSE,KL,2009,Credit Deployed,883921.84,INR Lakh Cr
+SBI,CPSE,OD,2009,GNPA Ratio,707104.38,%
+SBI,Bank,AP,2009,Recovery Rate,602961.44,INR Cr
+SBI,Bank,RJ,2010,Gross Turnover,670381.37,INR Cr
+SBI,Institution,MP,2010,Net Profit,347618.89,INR Lakh Cr
+SBI,Institution,BR,2010,Dividend,288647.74,INR Lakh Cr
+SBI,Institution,BR,2010,Credit Deployed,387164.02,INR Lakh Cr
+SBI,CPSE,PB,2010,GNPA Ratio,388431.58,INR Cr
+SBI,CPSE,AP,2010,Recovery Rate,545416.39,INR Lakh Cr
+SBI,CPSE,BR,2011,Gross Turnover,94115.53,INR Cr
+SBI,CPSE,HR,2011,Net Profit,742355.2,INR Cr
+SBI,CPSE,RJ,2011,Dividend,854846.79,INR Cr
+SBI,CPSE,RJ,2011,Credit Deployed,70203.7,INR Cr
+SBI,CPSE,UP,2011,GNPA Ratio,578502.47,INR Lakh Cr
+SBI,Bank,TN,2011,Recovery Rate,142676.63,%
+SBI,CPSE,TG,2012,Gross Turnover,575451.39,INR Cr
+SBI,Bank,KL,2012,Net Profit,336192.53,INR Cr
+SBI,Bank,TN,2012,Dividend,642513.7,INR Lakh Cr
+SBI,CPSE,TG,2012,Credit Deployed,136320.35,INR Lakh Cr
+SBI,Institution,AP,2012,GNPA Ratio,272959.89,%
+SBI,Bank,RJ,2012,Recovery Rate,890414.67,INR Lakh Cr
+SBI,Bank,TG,2013,Gross Turnover,398467.91,INR Cr
+SBI,Bank,WB,2013,Net Profit,478882.82,INR Cr
+SBI,CPSE,HR,2013,Dividend,61218.53,%
+SBI,Bank,BR,2013,Credit Deployed,595435.34,%
+SBI,Institution,WB,2013,GNPA Ratio,516146.85,INR Cr
+SBI,Institution,OD,2013,Recovery Rate,50631.46,INR Cr
+SBI,Bank,KA,2014,Gross Turnover,210659.66,%
+SBI,Institution,KL,2014,Net Profit,588815.66,%
+SBI,Institution,KL,2014,Dividend,356655.57,INR Lakh Cr
+SBI,Institution,HR,2014,Credit Deployed,382351.43,%
+SBI,Bank,TN,2014,GNPA Ratio,409461.15,INR Lakh Cr
+SBI,CPSE,MP,2014,Recovery Rate,699601.49,%
+SBI,CPSE,PB,2015,Gross Turnover,37990.0,INR Cr
+SBI,Bank,UP,2015,Net Profit,684420.54,INR Lakh Cr
+SBI,CPSE,OD,2015,Dividend,645049.56,%
+SBI,Bank,HR,2015,Credit Deployed,634047.23,INR Cr
+SBI,Institution,KA,2015,GNPA Ratio,175101.23,INR Lakh Cr
+SBI,CPSE,OD,2015,Recovery Rate,770080.74,%
+SBI,CPSE,MP,2016,Gross Turnover,606771.51,%
+SBI,Bank,BR,2016,Net Profit,268510.99,INR Cr
+SBI,Institution,RJ,2016,Dividend,474584.53,INR Cr
+SBI,Institution,GJ,2016,Credit Deployed,80309.06,INR Cr
+SBI,Bank,RJ,2016,GNPA Ratio,700152.3,INR Cr
+SBI,Institution,TG,2016,Recovery Rate,618696.3,%
+SBI,Institution,AP,2017,Gross Turnover,805383.33,%
+SBI,CPSE,PB,2017,Net Profit,381433.13,%
+SBI,CPSE,PB,2017,Dividend,530361.26,INR Lakh Cr
+SBI,CPSE,MP,2017,Credit Deployed,731353.25,INR Cr
+SBI,Institution,BR,2017,GNPA Ratio,617424.94,INR Cr
+SBI,CPSE,TG,2017,Recovery Rate,563389.26,%
+SBI,Bank,MH,2018,Gross Turnover,453987.23,%
+SBI,Institution,KL,2018,Net Profit,446126.74,%
+SBI,CPSE,AP,2018,Dividend,80577.28,%
+SBI,CPSE,WB,2018,Credit Deployed,464526.16,%
+SBI,CPSE,KL,2018,GNPA Ratio,489069.83,%
+SBI,CPSE,AP,2018,Recovery Rate,77328.49,INR Lakh Cr
+SBI,Institution,KA,2019,Gross Turnover,169222.27,INR Cr
+SBI,Institution,KA,2019,Net Profit,330943.98,INR Cr
+SBI,Institution,BR,2019,Dividend,597364.29,%
+SBI,Bank,AP,2019,Credit Deployed,414097.76,INR Cr
+SBI,Bank,HR,2019,GNPA Ratio,735810.62,INR Cr
+SBI,Institution,TN,2019,Recovery Rate,189643.89,INR Cr
+SBI,CPSE,AP,2020,Gross Turnover,31666.82,INR Cr
+SBI,Bank,BR,2020,Net Profit,67637.91,INR Lakh Cr
+SBI,Bank,MP,2020,Dividend,860075.96,%
+SBI,Institution,KA,2020,Credit Deployed,684548.32,INR Cr
+SBI,CPSE,MP,2020,GNPA Ratio,175605.99,INR Lakh Cr
+SBI,CPSE,BR,2020,Recovery Rate,241093.55,%
+SBI,CPSE,OD,2021,Gross Turnover,899014.24,%
+SBI,CPSE,KL,2021,Net Profit,202694.14,%
+SBI,Bank,AP,2021,Dividend,760997.62,INR Cr
+SBI,CPSE,MP,2021,Credit Deployed,331472.24,INR Cr
+SBI,CPSE,MH,2021,GNPA Ratio,752959.82,%
+SBI,Institution,MH,2021,Recovery Rate,628359.49,INR Cr
+SBI,CPSE,KA,2022,Gross Turnover,34537.09,%
+SBI,CPSE,PB,2022,Net Profit,628953.32,INR Lakh Cr
+SBI,Bank,UP,2022,Dividend,784397.96,%
+SBI,Institution,TG,2022,Credit Deployed,48800.03,INR Cr
+SBI,Institution,GJ,2022,GNPA Ratio,644810.52,INR Cr
+SBI,CPSE,TG,2022,Recovery Rate,378812.67,INR Cr
+SBI,Institution,OD,2023,Gross Turnover,726732.07,%
+SBI,Bank,OD,2023,Net Profit,303169.56,INR Lakh Cr
+SBI,Bank,RJ,2023,Dividend,543231.17,INR Cr
+SBI,CPSE,AP,2023,Credit Deployed,191572.95,%
+SBI,Bank,KA,2023,GNPA Ratio,112588.77,INR Cr
+SBI,Bank,TG,2023,Recovery Rate,202723.66,INR Cr
+SBI,Institution,MH,2024,Gross Turnover,795361.21,INR Cr
+SBI,CPSE,RJ,2024,Net Profit,753236.68,INR Cr
+SBI,CPSE,GJ,2024,Dividend,865442.21,INR Lakh Cr
+SBI,Institution,TG,2024,Credit Deployed,738520.59,INR Lakh Cr
+SBI,CPSE,BR,2024,GNPA Ratio,705537.89,%
+SBI,Bank,UP,2024,Recovery Rate,592013.32,INR Lakh Cr
+SBI,Bank,OD,2025,Gross Turnover,551419.78,INR Cr
+SBI,Bank,RJ,2025,Net Profit,761370.27,INR Lakh Cr
+SBI,Institution,HR,2025,Dividend,345750.84,INR Cr
+SBI,Institution,MH,2025,Credit Deployed,450183.14,INR Cr
+SBI,Institution,KL,2025,GNPA Ratio,744069.92,INR Cr
+SBI,CPSE,UP,2025,Recovery Rate,172693.95,INR Lakh Cr
+PNB,Institution,PB,2005,Gross Turnover,376122.56,INR Cr
+PNB,Bank,OD,2005,Net Profit,42025.87,INR Cr
+PNB,Bank,KL,2005,Dividend,746681.13,%
+PNB,Institution,TN,2005,Credit Deployed,515418.81,INR Cr
+PNB,Institution,KA,2005,GNPA Ratio,404644.52,INR Cr
+PNB,Institution,OD,2005,Recovery Rate,209747.83,INR Lakh Cr
+PNB,Bank,TN,2006,Gross Turnover,567769.63,%
+PNB,CPSE,HR,2006,Net Profit,450279.64,%
+PNB,CPSE,MH,2006,Dividend,659840.39,INR Lakh Cr
+PNB,Institution,KL,2006,Credit Deployed,488074.56,INR Lakh Cr
+PNB,CPSE,BR,2006,GNPA Ratio,268242.42,INR Lakh Cr
+PNB,Institution,WB,2006,Recovery Rate,642951.66,%
+PNB,CPSE,TN,2007,Gross Turnover,354913.09,INR Cr
+PNB,CPSE,UP,2007,Net Profit,635096.34,INR Cr
+PNB,CPSE,RJ,2007,Dividend,199881.75,INR Cr
+PNB,Institution,AP,2007,Credit Deployed,66767.83,INR Lakh Cr
+PNB,CPSE,GJ,2007,GNPA Ratio,43064.45,INR Lakh Cr
+PNB,CPSE,TG,2007,Recovery Rate,798249.03,INR Lakh Cr
+PNB,CPSE,RJ,2008,Gross Turnover,10611.77,INR Cr
+PNB,Bank,KA,2008,Net Profit,274124.78,%
+PNB,Bank,TG,2008,Dividend,522209.88,INR Cr
+PNB,Institution,TG,2008,Credit Deployed,756570.97,%
+PNB,Institution,HR,2008,GNPA Ratio,302811.95,%
+PNB,Bank,MP,2008,Recovery Rate,266247.49,INR Cr
+PNB,Bank,MH,2009,Gross Turnover,220758.92,INR Cr
+PNB,CPSE,KA,2009,Net Profit,874098.21,INR Cr
+PNB,CPSE,RJ,2009,Dividend,608753.68,INR Cr
+PNB,Institution,TN,2009,Credit Deployed,312565.43,INR Lakh Cr
+PNB,Bank,RJ,2009,GNPA Ratio,800719.77,INR Cr
+PNB,Bank,TG,2009,Recovery Rate,101415.05,%
+PNB,CPSE,AP,2010,Gross Turnover,474592.44,INR Lakh Cr
+PNB,Institution,KA,2010,Net Profit,600619.37,%
+PNB,Institution,PB,2010,Dividend,94084.05,INR Cr
+PNB,Institution,MP,2010,Credit Deployed,21505.53,INR Cr
+PNB,CPSE,UP,2010,GNPA Ratio,394474.36,INR Cr
+PNB,CPSE,MH,2010,Recovery Rate,620232.13,%
+PNB,Bank,KL,2011,Gross Turnover,435175.03,INR Lakh Cr
+PNB,Bank,KA,2011,Net Profit,801423.71,%
+PNB,CPSE,RJ,2011,Dividend,677170.79,INR Cr
+PNB,CPSE,OD,2011,Credit Deployed,649161.33,INR Cr
+PNB,Institution,PB,2011,GNPA Ratio,34535.02,%
+PNB,CPSE,KA,2011,Recovery Rate,450327.52,INR Cr
+PNB,Bank,UP,2012,Gross Turnover,28311.05,INR Cr
+PNB,Bank,BR,2012,Net Profit,783872.13,%
+PNB,CPSE,OD,2012,Dividend,157158.08,%
+PNB,Bank,RJ,2012,Credit Deployed,475035.62,INR Lakh Cr
+PNB,Bank,HR,2012,GNPA Ratio,470462.38,INR Cr
+PNB,CPSE,AP,2012,Recovery Rate,48100.61,%
+PNB,Institution,GJ,2013,Gross Turnover,521673.42,%
+PNB,Institution,OD,2013,Net Profit,449323.62,INR Lakh Cr
+PNB,Institution,MP,2013,Dividend,280539.87,INR Lakh Cr
+PNB,CPSE,OD,2013,Credit Deployed,65130.81,INR Cr
+PNB,Institution,TN,2013,GNPA Ratio,794224.35,%
+PNB,Institution,AP,2013,Recovery Rate,610313.47,%
+PNB,CPSE,BR,2014,Gross Turnover,807807.0,INR Cr
+PNB,CPSE,AP,2014,Net Profit,89995.72,INR Lakh Cr
+PNB,Institution,GJ,2014,Dividend,319767.13,%
+PNB,Institution,HR,2014,Credit Deployed,5882.8,INR Lakh Cr
+PNB,Institution,HR,2014,GNPA Ratio,756708.16,INR Cr
+PNB,CPSE,PB,2014,Recovery Rate,393460.47,INR Lakh Cr
+PNB,Bank,BR,2015,Gross Turnover,65148.03,INR Cr
+PNB,Institution,MP,2015,Net Profit,625735.61,INR Lakh Cr
+PNB,CPSE,OD,2015,Dividend,886971.86,INR Lakh Cr
+PNB,Institution,AP,2015,Credit Deployed,4824.04,INR Lakh Cr
+PNB,CPSE,TG,2015,GNPA Ratio,125757.11,%
+PNB,Institution,AP,2015,Recovery Rate,840311.68,%
+PNB,Bank,KL,2016,Gross Turnover,863635.19,INR Cr
+PNB,Bank,TG,2016,Net Profit,78826.23,INR Lakh Cr
+PNB,CPSE,KA,2016,Dividend,464804.74,%
+PNB,Bank,RJ,2016,Credit Deployed,543383.59,INR Cr
+PNB,Bank,HR,2016,GNPA Ratio,271115.15,INR Lakh Cr
+PNB,CPSE,TG,2016,Recovery Rate,154154.36,INR Cr
+PNB,Bank,BR,2017,Gross Turnover,596138.05,INR Cr
+PNB,CPSE,KL,2017,Net Profit,115377.98,INR Lakh Cr
+PNB,CPSE,BR,2017,Dividend,673540.24,INR Lakh Cr
+PNB,CPSE,OD,2017,Credit Deployed,542406.94,INR Lakh Cr
+PNB,Institution,RJ,2017,GNPA Ratio,519458.69,%
+PNB,CPSE,UP,2017,Recovery Rate,884321.2,INR Lakh Cr
+PNB,Bank,GJ,2018,Gross Turnover,756361.89,INR Cr
+PNB,Institution,GJ,2018,Net Profit,453504.88,INR Cr
+PNB,Bank,AP,2018,Dividend,268700.15,INR Cr
+PNB,Bank,TN,2018,Credit Deployed,23177.91,%
+PNB,CPSE,GJ,2018,GNPA Ratio,674642.0,INR Cr
+PNB,CPSE,BR,2018,Recovery Rate,409956.97,INR Cr
+PNB,Institution,RJ,2019,Gross Turnover,264276.22,%
+PNB,Institution,PB,2019,Net Profit,831797.35,INR Cr
+PNB,CPSE,AP,2019,Dividend,352777.05,INR Cr
+PNB,CPSE,KL,2019,Credit Deployed,543227.09,%
+PNB,CPSE,TN,2019,GNPA Ratio,132213.28,INR Lakh Cr
+PNB,Institution,UP,2019,Recovery Rate,210230.05,INR Lakh Cr
+PNB,CPSE,HR,2020,Gross Turnover,110755.68,INR Cr
+PNB,Bank,OD,2020,Net Profit,286523.64,INR Cr
+PNB,CPSE,HR,2020,Dividend,647516.78,INR Lakh Cr
+PNB,Bank,WB,2020,Credit Deployed,759963.66,INR Lakh Cr
+PNB,CPSE,GJ,2020,GNPA Ratio,50873.56,INR Lakh Cr
+PNB,CPSE,UP,2020,Recovery Rate,206934.23,INR Cr
+PNB,Institution,WB,2021,Gross Turnover,561939.18,%
+PNB,CPSE,MP,2021,Net Profit,510129.83,INR Lakh Cr
+PNB,CPSE,TG,2021,Dividend,370672.94,INR Lakh Cr
+PNB,Bank,KA,2021,Credit Deployed,769268.01,%
+PNB,Institution,OD,2021,GNPA Ratio,393179.66,INR Cr
+PNB,Bank,HR,2021,Recovery Rate,185590.38,INR Lakh Cr
+PNB,CPSE,HR,2022,Gross Turnover,595693.93,%
+PNB,CPSE,MH,2022,Net Profit,622680.6,INR Cr
+PNB,Bank,PB,2022,Dividend,370039.93,%
+PNB,Bank,OD,2022,Credit Deployed,60525.9,INR Lakh Cr
+PNB,Institution,OD,2022,GNPA Ratio,553090.77,%
+PNB,Bank,TG,2022,Recovery Rate,106624.35,INR Cr
+PNB,Bank,BR,2023,Gross Turnover,628194.44,%
+PNB,Institution,MP,2023,Net Profit,121725.72,INR Lakh Cr
+PNB,Institution,OD,2023,Dividend,595306.42,%
+PNB,Institution,GJ,2023,Credit Deployed,49808.6,INR Lakh Cr
+PNB,CPSE,RJ,2023,GNPA Ratio,564536.29,INR Lakh Cr
+PNB,Bank,TG,2023,Recovery Rate,311252.25,%
+PNB,CPSE,GJ,2024,Gross Turnover,539737.98,%
+PNB,Institution,UP,2024,Net Profit,295903.57,INR Cr
+PNB,Bank,HR,2024,Dividend,489240.58,INR Lakh Cr
+PNB,Bank,KL,2024,Credit Deployed,349775.18,INR Lakh Cr
+PNB,Bank,BR,2024,GNPA Ratio,411512.81,INR Cr
+PNB,Institution,HR,2024,Recovery Rate,444746.9,%
+PNB,Institution,MP,2025,Gross Turnover,850470.91,INR Cr
+PNB,Bank,AP,2025,Net Profit,453218.03,%
+PNB,Institution,KL,2025,Dividend,637008.5,%
+PNB,Institution,OD,2025,Credit Deployed,884412.22,%
+PNB,CPSE,KL,2025,GNPA Ratio,367172.26,INR Cr
+PNB,Institution,TN,2025,Recovery Rate,242215.09,INR Cr
+Bank of Baroda,Institution,WB,2005,Gross Turnover,40204.65,INR Cr
+Bank of Baroda,CPSE,GJ,2005,Net Profit,355303.84,%
+Bank of Baroda,Institution,RJ,2005,Dividend,371625.94,%
+Bank of Baroda,Institution,AP,2005,Credit Deployed,611756.42,INR Cr
+Bank of Baroda,CPSE,OD,2005,GNPA Ratio,402098.38,INR Cr
+Bank of Baroda,Institution,OD,2005,Recovery Rate,369870.44,INR Cr
+Bank of Baroda,Institution,WB,2006,Gross Turnover,874756.04,INR Lakh Cr
+Bank of Baroda,Institution,TN,2006,Net Profit,282705.7,%
+Bank of Baroda,CPSE,TG,2006,Dividend,777143.67,%
+Bank of Baroda,CPSE,KL,2006,Credit Deployed,739623.1,INR Cr
+Bank of Baroda,Institution,OD,2006,GNPA Ratio,879680.88,%
+Bank of Baroda,Bank,AP,2006,Recovery Rate,109709.07,%
+Bank of Baroda,CPSE,OD,2007,Gross Turnover,898400.22,%
+Bank of Baroda,Institution,BR,2007,Net Profit,583043.6,INR Cr
+Bank of Baroda,CPSE,AP,2007,Dividend,343274.11,INR Cr
+Bank of Baroda,Bank,WB,2007,Credit Deployed,655986.17,%
+Bank of Baroda,Institution,OD,2007,GNPA Ratio,311163.77,%
+Bank of Baroda,Institution,BR,2007,Recovery Rate,542716.45,INR Lakh Cr
+Bank of Baroda,Institution,MH,2008,Gross Turnover,476832.85,INR Lakh Cr
+Bank of Baroda,Institution,WB,2008,Net Profit,899767.15,%
+Bank of Baroda,Bank,PB,2008,Dividend,790994.24,INR Cr
+Bank of Baroda,Institution,KL,2008,Credit Deployed,808109.32,INR Cr
+Bank of Baroda,Institution,OD,2008,GNPA Ratio,619500.8,INR Cr
+Bank of Baroda,Bank,TN,2008,Recovery Rate,805591.08,%
+Bank of Baroda,Bank,TN,2009,Gross Turnover,233301.21,%
+Bank of Baroda,Institution,BR,2009,Net Profit,464627.88,INR Cr
+Bank of Baroda,CPSE,UP,2009,Dividend,369733.99,INR Cr
+Bank of Baroda,Bank,OD,2009,Credit Deployed,638265.54,%
+Bank of Baroda,CPSE,OD,2009,GNPA Ratio,678405.0,%
+Bank of Baroda,Bank,OD,2009,Recovery Rate,705559.43,%
+Bank of Baroda,CPSE,MH,2010,Gross Turnover,593790.68,%
+Bank of Baroda,CPSE,PB,2010,Net Profit,205590.98,%
+Bank of Baroda,Bank,TG,2010,Dividend,105132.53,INR Lakh Cr
+Bank of Baroda,Institution,TN,2010,Credit Deployed,409801.32,INR Cr
+Bank of Baroda,Bank,KL,2010,GNPA Ratio,661895.58,INR Lakh Cr
+Bank of Baroda,Bank,MP,2010,Recovery Rate,86187.82,INR Lakh Cr
+Bank of Baroda,CPSE,GJ,2011,Gross Turnover,327359.33,INR Cr
+Bank of Baroda,Bank,RJ,2011,Net Profit,606609.88,INR Lakh Cr
+Bank of Baroda,CPSE,PB,2011,Dividend,403359.28,INR Cr
+Bank of Baroda,Institution,WB,2011,Credit Deployed,609369.57,%
+Bank of Baroda,Bank,MH,2011,GNPA Ratio,555958.05,INR Lakh Cr
+Bank of Baroda,CPSE,BR,2011,Recovery Rate,448087.28,%
+Bank of Baroda,Bank,OD,2012,Gross Turnover,408985.54,%
+Bank of Baroda,Bank,TG,2012,Net Profit,743597.38,INR Cr
+Bank of Baroda,CPSE,RJ,2012,Dividend,739486.18,%
+Bank of Baroda,Bank,TN,2012,Credit Deployed,221075.96,INR Cr
+Bank of Baroda,CPSE,HR,2012,GNPA Ratio,765904.88,%
+Bank of Baroda,Bank,RJ,2012,Recovery Rate,769599.93,INR Lakh Cr
+Bank of Baroda,Institution,WB,2013,Gross Turnover,47490.43,INR Cr
+Bank of Baroda,Bank,TG,2013,Net Profit,799074.54,%
+Bank of Baroda,CPSE,PB,2013,Dividend,725215.52,%
+Bank of Baroda,Institution,AP,2013,Credit Deployed,783178.32,%
+Bank of Baroda,Bank,UP,2013,GNPA Ratio,101526.1,INR Cr
+Bank of Baroda,Institution,WB,2013,Recovery Rate,587239.73,INR Cr
+Bank of Baroda,Institution,MH,2014,Gross Turnover,164886.59,INR Cr
+Bank of Baroda,CPSE,MH,2014,Net Profit,496650.34,%
+Bank of Baroda,Bank,HR,2014,Dividend,152790.95,INR Cr
+Bank of Baroda,CPSE,TG,2014,Credit Deployed,433018.31,INR Cr
+Bank of Baroda,CPSE,KL,2014,GNPA Ratio,513602.41,INR Lakh Cr
+Bank of Baroda,Institution,TG,2014,Recovery Rate,643895.43,INR Lakh Cr
+Bank of Baroda,CPSE,HR,2015,Gross Turnover,749945.82,INR Lakh Cr
+Bank of Baroda,Bank,TG,2015,Net Profit,657377.33,INR Lakh Cr
+Bank of Baroda,Institution,BR,2015,Dividend,437456.93,%
+Bank of Baroda,Institution,AP,2015,Credit Deployed,699914.56,INR Lakh Cr
+Bank of Baroda,CPSE,KL,2015,GNPA Ratio,594658.05,INR Cr
+Bank of Baroda,Institution,HR,2015,Recovery Rate,765340.72,INR Lakh Cr
+Bank of Baroda,Bank,OD,2016,Gross Turnover,398993.86,INR Lakh Cr
+Bank of Baroda,CPSE,MH,2016,Net Profit,121049.75,INR Cr
+Bank of Baroda,Institution,KL,2016,Dividend,368308.84,INR Lakh Cr
+Bank of Baroda,Institution,AP,2016,Credit Deployed,222815.58,INR Lakh Cr
+Bank of Baroda,Bank,WB,2016,GNPA Ratio,349972.46,%
+Bank of Baroda,Institution,BR,2016,Recovery Rate,178696.59,INR Lakh Cr
+Bank of Baroda,Bank,BR,2017,Gross Turnover,693372.9,INR Lakh Cr
+Bank of Baroda,Bank,MH,2017,Net Profit,876368.59,INR Cr
+Bank of Baroda,Bank,MH,2017,Dividend,297921.32,INR Lakh Cr
+Bank of Baroda,Institution,UP,2017,Credit Deployed,217972.68,INR Lakh Cr
+Bank of Baroda,CPSE,TG,2017,GNPA Ratio,890406.68,INR Cr
+Bank of Baroda,Institution,GJ,2017,Recovery Rate,589450.44,INR Cr
+Bank of Baroda,Institution,PB,2018,Gross Turnover,114251.18,INR Lakh Cr
+Bank of Baroda,CPSE,OD,2018,Net Profit,29100.62,INR Lakh Cr
+Bank of Baroda,CPSE,WB,2018,Dividend,547718.35,INR Cr
+Bank of Baroda,Bank,KA,2018,Credit Deployed,711544.76,INR Lakh Cr
+Bank of Baroda,CPSE,MP,2018,GNPA Ratio,356628.65,INR Cr
+Bank of Baroda,CPSE,MH,2018,Recovery Rate,363739.55,INR Lakh Cr
+Bank of Baroda,CPSE,BR,2019,Gross Turnover,362504.49,INR Lakh Cr
+Bank of Baroda,Bank,PB,2019,Net Profit,855847.71,INR Lakh Cr
+Bank of Baroda,Bank,HR,2019,Dividend,274896.44,%
+Bank of Baroda,Institution,HR,2019,Credit Deployed,227035.03,%
+Bank of Baroda,Bank,OD,2019,GNPA Ratio,177090.93,%
+Bank of Baroda,Institution,KL,2019,Recovery Rate,449598.84,INR Lakh Cr
+Bank of Baroda,Bank,MP,2020,Gross Turnover,610108.65,%
+Bank of Baroda,CPSE,TN,2020,Net Profit,113999.02,%
+Bank of Baroda,CPSE,UP,2020,Dividend,843968.11,INR Lakh Cr
+Bank of Baroda,Institution,MH,2020,Credit Deployed,47051.28,%
+Bank of Baroda,Bank,TN,2020,GNPA Ratio,888027.25,INR Cr
+Bank of Baroda,Bank,BR,2020,Recovery Rate,437757.6,%
+Bank of Baroda,Institution,WB,2021,Gross Turnover,818755.06,INR Cr
+Bank of Baroda,CPSE,TN,2021,Net Profit,120716.32,INR Cr
+Bank of Baroda,Institution,GJ,2021,Dividend,265250.42,%
+Bank of Baroda,Institution,OD,2021,Credit Deployed,896222.17,INR Cr
+Bank of Baroda,Institution,AP,2021,GNPA Ratio,842513.65,INR Lakh Cr
+Bank of Baroda,Bank,HR,2021,Recovery Rate,786053.58,INR Cr
+Bank of Baroda,Bank,KA,2022,Gross Turnover,108234.69,INR Lakh Cr
+Bank of Baroda,CPSE,MH,2022,Net Profit,285022.75,INR Cr
+Bank of Baroda,CPSE,RJ,2022,Dividend,510315.42,INR Lakh Cr
+Bank of Baroda,Institution,TN,2022,Credit Deployed,837809.02,INR Cr
+Bank of Baroda,CPSE,BR,2022,GNPA Ratio,597670.07,INR Lakh Cr
+Bank of Baroda,CPSE,AP,2022,Recovery Rate,52692.35,INR Lakh Cr
+Bank of Baroda,Institution,BR,2023,Gross Turnover,729747.19,%
+Bank of Baroda,CPSE,OD,2023,Net Profit,502033.54,INR Cr
+Bank of Baroda,Bank,TN,2023,Dividend,282037.79,INR Cr
+Bank of Baroda,Bank,OD,2023,Credit Deployed,784150.58,INR Lakh Cr
+Bank of Baroda,Bank,GJ,2023,GNPA Ratio,224290.9,%
+Bank of Baroda,CPSE,BR,2023,Recovery Rate,496190.14,INR Lakh Cr
+Bank of Baroda,Institution,MP,2024,Gross Turnover,685315.34,%
+Bank of Baroda,Bank,KL,2024,Net Profit,182702.17,INR Cr
+Bank of Baroda,Institution,UP,2024,Dividend,291832.54,INR Lakh Cr
+Bank of Baroda,CPSE,MP,2024,Credit Deployed,818310.05,INR Lakh Cr
+Bank of Baroda,Bank,TG,2024,GNPA Ratio,4792.7,INR Lakh Cr
+Bank of Baroda,Bank,RJ,2024,Recovery Rate,21993.95,INR Cr
+Bank of Baroda,Bank,MH,2025,Gross Turnover,615898.94,%
+Bank of Baroda,CPSE,KA,2025,Net Profit,531788.82,%
+Bank of Baroda,Institution,KL,2025,Dividend,711766.8,INR Lakh Cr
+Bank of Baroda,Bank,BR,2025,Credit Deployed,560470.92,INR Cr
+Bank of Baroda,Bank,RJ,2025,GNPA Ratio,162604.62,%
+Bank of Baroda,CPSE,RJ,2025,Recovery Rate,714185.73,INR Lakh Cr
+Power Finance Corporation,Institution,MP,2005,Gross Turnover,682565.72,%
+Power Finance Corporation,Institution,HR,2005,Net Profit,536996.14,INR Cr
+Power Finance Corporation,CPSE,GJ,2005,Dividend,56459.33,INR Lakh Cr
+Power Finance Corporation,Bank,MP,2005,Credit Deployed,62690.58,INR Lakh Cr
+Power Finance Corporation,CPSE,UP,2005,GNPA Ratio,584309.41,INR Lakh Cr
+Power Finance Corporation,Institution,RJ,2005,Recovery Rate,380206.99,INR Cr
+Power Finance Corporation,CPSE,AP,2006,Gross Turnover,161374.82,INR Cr
+Power Finance Corporation,Institution,TN,2006,Net Profit,296446.97,INR Lakh Cr
+Power Finance Corporation,Institution,MP,2006,Dividend,114820.06,INR Cr
+Power Finance Corporation,Bank,BR,2006,Credit Deployed,67068.67,%
+Power Finance Corporation,CPSE,BR,2006,GNPA Ratio,393265.01,INR Cr
+Power Finance Corporation,CPSE,OD,2006,Recovery Rate,752747.45,INR Lakh Cr
+Power Finance Corporation,Institution,OD,2007,Gross Turnover,579984.41,INR Lakh Cr
+Power Finance Corporation,Bank,UP,2007,Net Profit,18262.08,INR Lakh Cr
+Power Finance Corporation,CPSE,PB,2007,Dividend,637811.96,%
+Power Finance Corporation,CPSE,WB,2007,Credit Deployed,527591.49,INR Lakh Cr
+Power Finance Corporation,Bank,TN,2007,GNPA Ratio,303979.82,%
+Power Finance Corporation,Institution,TN,2007,Recovery Rate,554818.63,%
+Power Finance Corporation,Bank,BR,2008,Gross Turnover,26263.31,INR Lakh Cr
+Power Finance Corporation,Institution,BR,2008,Net Profit,836873.35,%
+Power Finance Corporation,Institution,UP,2008,Dividend,672071.51,%
+Power Finance Corporation,Institution,KL,2008,Credit Deployed,117846.82,INR Lakh Cr
+Power Finance Corporation,CPSE,PB,2008,GNPA Ratio,640516.74,INR Cr
+Power Finance Corporation,Institution,KA,2008,Recovery Rate,113355.32,INR Cr
+Power Finance Corporation,Institution,HR,2009,Gross Turnover,669933.94,INR Lakh Cr
+Power Finance Corporation,CPSE,PB,2009,Net Profit,114050.19,INR Lakh Cr
+Power Finance Corporation,Bank,OD,2009,Dividend,416216.51,%
+Power Finance Corporation,CPSE,TG,2009,Credit Deployed,547167.34,INR Lakh Cr
+Power Finance Corporation,Institution,WB,2009,GNPA Ratio,112436.58,%
+Power Finance Corporation,Bank,KA,2009,Recovery Rate,791830.59,%
+Power Finance Corporation,Bank,WB,2010,Gross Turnover,784787.87,INR Lakh Cr
+Power Finance Corporation,CPSE,PB,2010,Net Profit,866073.06,INR Cr
+Power Finance Corporation,Bank,AP,2010,Dividend,177590.6,INR Lakh Cr
+Power Finance Corporation,Institution,MP,2010,Credit Deployed,802938.7,INR Cr
+Power Finance Corporation,Bank,MP,2010,GNPA Ratio,142690.96,INR Cr
+Power Finance Corporation,Bank,KA,2010,Recovery Rate,465413.63,INR Lakh Cr
+Power Finance Corporation,Bank,UP,2011,Gross Turnover,710880.26,INR Lakh Cr
+Power Finance Corporation,Institution,MH,2011,Net Profit,56581.11,INR Cr
+Power Finance Corporation,Institution,PB,2011,Dividend,546942.75,INR Lakh Cr
+Power Finance Corporation,Institution,TG,2011,Credit Deployed,349325.89,INR Lakh Cr
+Power Finance Corporation,Institution,MP,2011,GNPA Ratio,450213.33,%
+Power Finance Corporation,Institution,TG,2011,Recovery Rate,291588.11,%
+Power Finance Corporation,Institution,WB,2012,Gross Turnover,746703.52,%
+Power Finance Corporation,Bank,WB,2012,Net Profit,632787.48,INR Cr
+Power Finance Corporation,CPSE,WB,2012,Dividend,81185.23,%
+Power Finance Corporation,CPSE,MH,2012,Credit Deployed,872601.49,%
+Power Finance Corporation,Institution,UP,2012,GNPA Ratio,58091.65,INR Lakh Cr
+Power Finance Corporation,Institution,OD,2012,Recovery Rate,772537.46,%
+Power Finance Corporation,CPSE,KA,2013,Gross Turnover,285307.7,%
+Power Finance Corporation,CPSE,OD,2013,Net Profit,484550.38,%
+Power Finance Corporation,CPSE,KL,2013,Dividend,765702.13,INR Cr
+Power Finance Corporation,CPSE,TG,2013,Credit Deployed,458755.76,INR Lakh Cr
+Power Finance Corporation,Institution,AP,2013,GNPA Ratio,309674.5,%
+Power Finance Corporation,Institution,GJ,2013,Recovery Rate,685150.3,INR Lakh Cr
+Power Finance Corporation,Institution,WB,2014,Gross Turnover,286375.55,%
+Power Finance Corporation,CPSE,TN,2014,Net Profit,340452.72,INR Lakh Cr
+Power Finance Corporation,Bank,HR,2014,Dividend,377184.79,INR Lakh Cr
+Power Finance Corporation,Institution,MP,2014,Credit Deployed,887272.74,INR Cr
+Power Finance Corporation,CPSE,HR,2014,GNPA Ratio,641481.25,INR Cr
+Power Finance Corporation,CPSE,RJ,2014,Recovery Rate,447487.19,INR Lakh Cr
+Power Finance Corporation,CPSE,TN,2015,Gross Turnover,300440.08,%
+Power Finance Corporation,Institution,KL,2015,Net Profit,372539.31,INR Lakh Cr
+Power Finance Corporation,Institution,KA,2015,Dividend,47750.76,INR Cr
+Power Finance Corporation,Bank,OD,2015,Credit Deployed,528925.24,INR Cr
+Power Finance Corporation,Bank,PB,2015,GNPA Ratio,772806.26,INR Lakh Cr
+Power Finance Corporation,CPSE,TG,2015,Recovery Rate,606168.37,INR Cr
+Power Finance Corporation,Institution,TN,2016,Gross Turnover,397398.14,INR Cr
+Power Finance Corporation,Institution,UP,2016,Net Profit,178050.01,INR Cr
+Power Finance Corporation,CPSE,GJ,2016,Dividend,617045.9,INR Cr
+Power Finance Corporation,Bank,GJ,2016,Credit Deployed,574857.18,INR Cr
+Power Finance Corporation,Bank,KA,2016,GNPA Ratio,393105.08,%
+Power Finance Corporation,Institution,TN,2016,Recovery Rate,13748.2,INR Cr
+Power Finance Corporation,Bank,WB,2017,Gross Turnover,47174.59,%
+Power Finance Corporation,CPSE,PB,2017,Net Profit,76689.58,INR Cr
+Power Finance Corporation,Bank,KA,2017,Dividend,140091.64,INR Cr
+Power Finance Corporation,Bank,OD,2017,Credit Deployed,223146.73,INR Cr
+Power Finance Corporation,Institution,KL,2017,GNPA Ratio,648530.57,INR Cr
+Power Finance Corporation,Institution,RJ,2017,Recovery Rate,462493.11,INR Lakh Cr
+Power Finance Corporation,Bank,WB,2018,Gross Turnover,77791.3,INR Cr
+Power Finance Corporation,CPSE,RJ,2018,Net Profit,847022.62,INR Lakh Cr
+Power Finance Corporation,Institution,AP,2018,Dividend,880194.3,INR Cr
+Power Finance Corporation,CPSE,GJ,2018,Credit Deployed,20054.99,%
+Power Finance Corporation,Institution,HR,2018,GNPA Ratio,547854.56,INR Lakh Cr
+Power Finance Corporation,Bank,OD,2018,Recovery Rate,621771.25,INR Lakh Cr
+Power Finance Corporation,CPSE,AP,2019,Gross Turnover,536568.44,INR Lakh Cr
+Power Finance Corporation,CPSE,AP,2019,Net Profit,166981.52,INR Lakh Cr
+Power Finance Corporation,Institution,RJ,2019,Dividend,771475.09,%
+Power Finance Corporation,CPSE,WB,2019,Credit Deployed,226989.64,INR Cr
+Power Finance Corporation,CPSE,TG,2019,GNPA Ratio,237163.8,%
+Power Finance Corporation,CPSE,OD,2019,Recovery Rate,407096.61,INR Lakh Cr
+Power Finance Corporation,Institution,KA,2020,Gross Turnover,595227.74,%
+Power Finance Corporation,Bank,BR,2020,Net Profit,20263.67,INR Cr
+Power Finance Corporation,Institution,KL,2020,Dividend,352514.12,INR Cr
+Power Finance Corporation,CPSE,GJ,2020,Credit Deployed,85426.17,%
+Power Finance Corporation,CPSE,MP,2020,GNPA Ratio,708616.09,INR Cr
+Power Finance Corporation,Bank,HR,2020,Recovery Rate,158986.96,INR Lakh Cr
+Power Finance Corporation,CPSE,KL,2021,Gross Turnover,660700.38,INR Cr
+Power Finance Corporation,CPSE,MH,2021,Net Profit,723837.0,%
+Power Finance Corporation,Institution,KL,2021,Dividend,462274.91,%
+Power Finance Corporation,Bank,GJ,2021,Credit Deployed,349315.43,%
+Power Finance Corporation,CPSE,OD,2021,GNPA Ratio,321729.11,INR Cr
+Power Finance Corporation,CPSE,HR,2021,Recovery Rate,365063.4,%
+Power Finance Corporation,Bank,HR,2022,Gross Turnover,259389.54,%
+Power Finance Corporation,CPSE,UP,2022,Net Profit,153485.65,%
+Power Finance Corporation,CPSE,KA,2022,Dividend,615461.89,%
+Power Finance Corporation,Institution,GJ,2022,Credit Deployed,71276.98,INR Cr
+Power Finance Corporation,CPSE,MP,2022,GNPA Ratio,181882.83,INR Cr
+Power Finance Corporation,Bank,PB,2022,Recovery Rate,258187.32,INR Lakh Cr
+Power Finance Corporation,Bank,TN,2023,Gross Turnover,899384.65,INR Lakh Cr
+Power Finance Corporation,Institution,KA,2023,Net Profit,155546.32,INR Cr
+Power Finance Corporation,CPSE,KL,2023,Dividend,194231.67,INR Lakh Cr
+Power Finance Corporation,Institution,TN,2023,Credit Deployed,796514.94,%
+Power Finance Corporation,CPSE,AP,2023,GNPA Ratio,423296.94,%
+Power Finance Corporation,Bank,UP,2023,Recovery Rate,717790.26,%
+Power Finance Corporation,Institution,TN,2024,Gross Turnover,762621.07,%
+Power Finance Corporation,Bank,KL,2024,Net Profit,541252.27,INR Cr
+Power Finance Corporation,Institution,OD,2024,Dividend,488561.81,INR Cr
+Power Finance Corporation,CPSE,UP,2024,Credit Deployed,330131.63,INR Cr
+Power Finance Corporation,Institution,HR,2024,GNPA Ratio,376532.55,%
+Power Finance Corporation,Bank,GJ,2024,Recovery Rate,740943.56,INR Cr
+Power Finance Corporation,Bank,HR,2025,Gross Turnover,71576.95,INR Cr
+Power Finance Corporation,Bank,KL,2025,Net Profit,332685.11,%
+Power Finance Corporation,CPSE,KA,2025,Dividend,893847.43,INR Lakh Cr
+Power Finance Corporation,Institution,PB,2025,Credit Deployed,355042.22,INR Lakh Cr
+Power Finance Corporation,Bank,MP,2025,GNPA Ratio,460337.83,INR Lakh Cr
+Power Finance Corporation,CPSE,OD,2025,Recovery Rate,896411.54,%
+REC Limited,CPSE,TN,2005,Gross Turnover,763577.47,INR Lakh Cr
+REC Limited,CPSE,UP,2005,Net Profit,776102.8,%
+REC Limited,Institution,MH,2005,Dividend,606800.93,INR Lakh Cr
+REC Limited,CPSE,AP,2005,Credit Deployed,488297.65,INR Cr
+REC Limited,Bank,TN,2005,GNPA Ratio,728081.88,%
+REC Limited,Institution,BR,2005,Recovery Rate,454392.28,%
+REC Limited,Institution,BR,2006,Gross Turnover,744444.06,INR Cr
+REC Limited,CPSE,KL,2006,Net Profit,238538.78,INR Cr
+REC Limited,CPSE,TG,2006,Dividend,275407.82,%
+REC Limited,CPSE,WB,2006,Credit Deployed,366971.22,INR Cr
+REC Limited,Institution,WB,2006,GNPA Ratio,371488.36,INR Lakh Cr
+REC Limited,Bank,TG,2006,Recovery Rate,396694.81,%
+REC Limited,Bank,BR,2007,Gross Turnover,792380.91,%
+REC Limited,Institution,MH,2007,Net Profit,7388.41,INR Cr
+REC Limited,Institution,RJ,2007,Dividend,864919.23,%
+REC Limited,Bank,OD,2007,Credit Deployed,159741.88,%
+REC Limited,Bank,PB,2007,GNPA Ratio,57257.46,INR Lakh Cr
+REC Limited,Bank,HR,2007,Recovery Rate,447889.62,INR Lakh Cr
+REC Limited,Institution,GJ,2008,Gross Turnover,153338.82,%
+REC Limited,Bank,TN,2008,Net Profit,638942.67,%
+REC Limited,CPSE,GJ,2008,Dividend,8327.34,INR Cr
+REC Limited,Institution,MP,2008,Credit Deployed,793508.24,INR Cr
+REC Limited,Bank,TG,2008,GNPA Ratio,526941.49,INR Lakh Cr
+REC Limited,Bank,GJ,2008,Recovery Rate,200662.78,INR Lakh Cr
+REC Limited,CPSE,WB,2009,Gross Turnover,22041.99,INR Cr
+REC Limited,Bank,MP,2009,Net Profit,263847.42,INR Lakh Cr
+REC Limited,CPSE,BR,2009,Dividend,866583.82,%
+REC Limited,CPSE,WB,2009,Credit Deployed,314871.71,INR Lakh Cr
+REC Limited,Bank,UP,2009,GNPA Ratio,583335.59,INR Cr
+REC Limited,CPSE,MP,2009,Recovery Rate,777193.24,INR Lakh Cr
+REC Limited,Bank,MP,2010,Gross Turnover,651225.39,INR Lakh Cr
+REC Limited,Bank,BR,2010,Net Profit,749640.15,%
+REC Limited,Bank,TN,2010,Dividend,760704.55,INR Cr
+REC Limited,CPSE,WB,2010,Credit Deployed,795015.9,INR Cr
+REC Limited,CPSE,RJ,2010,GNPA Ratio,678301.99,%
+REC Limited,CPSE,PB,2010,Recovery Rate,779155.86,%
+REC Limited,CPSE,AP,2011,Gross Turnover,193277.9,INR Lakh Cr
+REC Limited,Institution,OD,2011,Net Profit,137674.15,INR Lakh Cr
+REC Limited,CPSE,GJ,2011,Dividend,432608.29,INR Lakh Cr
+REC Limited,CPSE,MP,2011,Credit Deployed,80852.28,INR Cr
+REC Limited,Institution,WB,2011,GNPA Ratio,144296.82,INR Lakh Cr
+REC Limited,Bank,HR,2011,Recovery Rate,48548.79,%
+REC Limited,CPSE,KL,2012,Gross Turnover,684597.6,INR Cr
+REC Limited,Institution,UP,2012,Net Profit,90934.41,INR Lakh Cr
+REC Limited,CPSE,MH,2012,Dividend,699568.25,%
+REC Limited,Bank,BR,2012,Credit Deployed,192034.63,INR Lakh Cr
+REC Limited,Institution,UP,2012,GNPA Ratio,375880.93,%
+REC Limited,Institution,PB,2012,Recovery Rate,604234.49,%
+REC Limited,CPSE,KL,2013,Gross Turnover,147961.77,INR Lakh Cr
+REC Limited,CPSE,AP,2013,Net Profit,23677.69,INR Cr
+REC Limited,Bank,UP,2013,Dividend,153145.68,INR Cr
+REC Limited,Institution,GJ,2013,Credit Deployed,441406.91,INR Lakh Cr
+REC Limited,Institution,MH,2013,GNPA Ratio,113741.86,INR Lakh Cr
+REC Limited,CPSE,UP,2013,Recovery Rate,250718.37,INR Lakh Cr
+REC Limited,Institution,BR,2014,Gross Turnover,730785.22,INR Lakh Cr
+REC Limited,CPSE,OD,2014,Net Profit,392269.17,%
+REC Limited,Institution,KA,2014,Dividend,105349.39,%
+REC Limited,CPSE,TN,2014,Credit Deployed,601365.91,INR Cr
+REC Limited,CPSE,MH,2014,GNPA Ratio,564804.15,INR Lakh Cr
+REC Limited,Institution,TG,2014,Recovery Rate,113899.51,INR Cr
+REC Limited,CPSE,TN,2015,Gross Turnover,443411.97,INR Lakh Cr
+REC Limited,Institution,TG,2015,Net Profit,496949.22,INR Lakh Cr
+REC Limited,Bank,KA,2015,Dividend,469746.25,INR Lakh Cr
+REC Limited,CPSE,GJ,2015,Credit Deployed,361762.71,%
+REC Limited,Bank,PB,2015,GNPA Ratio,558263.58,INR Cr
+REC Limited,CPSE,HR,2015,Recovery Rate,321524.2,%
+REC Limited,Institution,OD,2016,Gross Turnover,564589.1,INR Lakh Cr
+REC Limited,Institution,MH,2016,Net Profit,123058.68,%
+REC Limited,CPSE,OD,2016,Dividend,352314.93,INR Cr
+REC Limited,CPSE,TN,2016,Credit Deployed,369636.25,%
+REC Limited,Bank,PB,2016,GNPA Ratio,701966.61,INR Cr
+REC Limited,Institution,GJ,2016,Recovery Rate,263204.7,INR Lakh Cr
+REC Limited,CPSE,AP,2017,Gross Turnover,317078.6,INR Cr
+REC Limited,Bank,KL,2017,Net Profit,217742.54,INR Cr
+REC Limited,Bank,KL,2017,Dividend,659211.84,%
+REC Limited,Bank,TG,2017,Credit Deployed,893017.8,INR Cr
+REC Limited,Bank,KA,2017,GNPA Ratio,473026.18,INR Cr
+REC Limited,Institution,AP,2017,Recovery Rate,620842.07,INR Lakh Cr
+REC Limited,Bank,RJ,2018,Gross Turnover,192852.49,%
+REC Limited,Institution,WB,2018,Net Profit,94295.24,INR Lakh Cr
+REC Limited,Institution,MP,2018,Dividend,735393.75,INR Lakh Cr
+REC Limited,Bank,WB,2018,Credit Deployed,11490.7,INR Lakh Cr
+REC Limited,CPSE,HR,2018,GNPA Ratio,180753.87,INR Cr
+REC Limited,CPSE,GJ,2018,Recovery Rate,573656.87,%
+REC Limited,CPSE,WB,2019,Gross Turnover,604363.91,INR Cr
+REC Limited,Institution,MP,2019,Net Profit,504159.1,%
+REC Limited,Institution,HR,2019,Dividend,299713.54,%
+REC Limited,Institution,OD,2019,Credit Deployed,735673.04,INR Cr
+REC Limited,Bank,UP,2019,GNPA Ratio,30767.69,INR Lakh Cr
+REC Limited,Institution,WB,2019,Recovery Rate,620734.48,INR Lakh Cr
+REC Limited,Bank,WB,2020,Gross Turnover,385960.83,INR Lakh Cr
+REC Limited,Bank,MP,2020,Net Profit,882423.91,%
+REC Limited,CPSE,HR,2020,Dividend,289879.3,INR Lakh Cr
+REC Limited,CPSE,GJ,2020,Credit Deployed,474508.11,INR Cr
+REC Limited,Bank,OD,2020,GNPA Ratio,304680.59,INR Lakh Cr
+REC Limited,Institution,MP,2020,Recovery Rate,784680.9,INR Cr
+REC Limited,CPSE,MH,2021,Gross Turnover,887772.75,INR Lakh Cr
+REC Limited,Institution,RJ,2021,Net Profit,25074.52,INR Lakh Cr
+REC Limited,Bank,RJ,2021,Dividend,747622.34,INR Cr
+REC Limited,CPSE,OD,2021,Credit Deployed,746265.31,INR Cr
+REC Limited,CPSE,TN,2021,GNPA Ratio,99444.16,INR Cr
+REC Limited,Institution,MP,2021,Recovery Rate,553697.25,INR Cr
+REC Limited,Bank,MP,2022,Gross Turnover,534902.62,%
+REC Limited,Bank,MH,2022,Net Profit,762667.05,INR Lakh Cr
+REC Limited,Institution,WB,2022,Dividend,378795.32,%
+REC Limited,Bank,MH,2022,Credit Deployed,600844.87,INR Lakh Cr
+REC Limited,Bank,KL,2022,GNPA Ratio,79214.54,INR Cr
+REC Limited,CPSE,TG,2022,Recovery Rate,680214.56,INR Cr
+REC Limited,Institution,PB,2023,Gross Turnover,836335.59,INR Cr
+REC Limited,Institution,TN,2023,Net Profit,703373.0,%
+REC Limited,CPSE,WB,2023,Dividend,501196.96,INR Cr
+REC Limited,Bank,OD,2023,Credit Deployed,153125.59,INR Lakh Cr
+REC Limited,Institution,MH,2023,GNPA Ratio,305289.7,INR Lakh Cr
+REC Limited,Bank,MH,2023,Recovery Rate,766337.49,INR Lakh Cr
+REC Limited,Bank,GJ,2024,Gross Turnover,706462.2,%
+REC Limited,Institution,MP,2024,Net Profit,405488.38,INR Lakh Cr
+REC Limited,CPSE,UP,2024,Dividend,697647.08,INR Cr
+REC Limited,CPSE,UP,2024,Credit Deployed,662654.55,INR Lakh Cr
+REC Limited,Bank,MP,2024,GNPA Ratio,494545.12,INR Cr
+REC Limited,Institution,AP,2024,Recovery Rate,354586.11,INR Cr
+REC Limited,CPSE,UP,2025,Gross Turnover,624463.91,INR Lakh Cr
+REC Limited,CPSE,GJ,2025,Net Profit,335280.98,INR Cr
+REC Limited,Institution,UP,2025,Dividend,583829.05,INR Lakh Cr
+REC Limited,Institution,HR,2025,Credit Deployed,10260.59,%
+REC Limited,Bank,TN,2025,GNPA Ratio,848349.31,INR Lakh Cr
+REC Limited,CPSE,AP,2025,Recovery Rate,412797.58,INR Cr
+LIC,Institution,OD,2005,Gross Turnover,502860.91,%
+LIC,CPSE,KA,2005,Net Profit,711697.85,INR Cr
+LIC,Bank,KA,2005,Dividend,37114.62,INR Cr
+LIC,CPSE,UP,2005,Credit Deployed,766934.45,INR Lakh Cr
+LIC,CPSE,AP,2005,GNPA Ratio,362084.56,INR Cr
+LIC,Institution,KA,2005,Recovery Rate,521586.94,INR Lakh Cr
+LIC,Bank,AP,2006,Gross Turnover,75517.33,INR Cr
+LIC,CPSE,OD,2006,Net Profit,81111.37,INR Lakh Cr
+LIC,Institution,MH,2006,Dividend,731637.44,INR Lakh Cr
+LIC,Institution,GJ,2006,Credit Deployed,615507.18,%
+LIC,Institution,WB,2006,GNPA Ratio,436498.21,%
+LIC,Bank,MP,2006,Recovery Rate,343768.4,INR Lakh Cr
+LIC,Bank,GJ,2007,Gross Turnover,112579.15,%
+LIC,Bank,KL,2007,Net Profit,639191.76,INR Lakh Cr
+LIC,Institution,UP,2007,Dividend,19574.74,INR Lakh Cr
+LIC,CPSE,TG,2007,Credit Deployed,96716.82,INR Cr
+LIC,Bank,OD,2007,GNPA Ratio,570686.41,INR Cr
+LIC,Bank,RJ,2007,Recovery Rate,386769.01,INR Lakh Cr
+LIC,Bank,WB,2008,Gross Turnover,597421.91,INR Lakh Cr
+LIC,Bank,KA,2008,Net Profit,514192.3,INR Lakh Cr
+LIC,Bank,RJ,2008,Dividend,737198.4,%
+LIC,Institution,TG,2008,Credit Deployed,755789.85,%
+LIC,Institution,AP,2008,GNPA Ratio,322012.86,INR Lakh Cr
+LIC,Institution,PB,2008,Recovery Rate,266081.54,%
+LIC,Institution,HR,2009,Gross Turnover,767401.01,%
+LIC,Institution,MH,2009,Net Profit,228065.76,INR Cr
+LIC,Institution,MP,2009,Dividend,118638.02,INR Lakh Cr
+LIC,CPSE,MP,2009,Credit Deployed,463079.1,%
+LIC,Bank,TN,2009,GNPA Ratio,333005.3,%
+LIC,Bank,WB,2009,Recovery Rate,686959.04,%
+LIC,CPSE,UP,2010,Gross Turnover,634943.54,INR Lakh Cr
+LIC,CPSE,TG,2010,Net Profit,672971.61,%
+LIC,Bank,OD,2010,Dividend,124417.5,INR Cr
+LIC,Bank,KA,2010,Credit Deployed,722215.81,%
+LIC,CPSE,RJ,2010,GNPA Ratio,389681.42,INR Lakh Cr
+LIC,CPSE,MH,2010,Recovery Rate,541273.64,%
+LIC,CPSE,UP,2011,Gross Turnover,405985.85,INR Cr
+LIC,Institution,GJ,2011,Net Profit,467705.91,INR Lakh Cr
+LIC,Bank,WB,2011,Dividend,142291.52,%
+LIC,Bank,GJ,2011,Credit Deployed,121885.61,INR Lakh Cr
+LIC,CPSE,OD,2011,GNPA Ratio,730109.39,INR Cr
+LIC,CPSE,OD,2011,Recovery Rate,239055.86,INR Lakh Cr
+LIC,CPSE,WB,2012,Gross Turnover,486030.87,%
+LIC,CPSE,MP,2012,Net Profit,428094.77,INR Lakh Cr
+LIC,Institution,MP,2012,Dividend,843988.73,%
+LIC,Bank,OD,2012,Credit Deployed,421069.59,INR Cr
+LIC,Institution,OD,2012,GNPA Ratio,864814.13,INR Lakh Cr
+LIC,CPSE,MP,2012,Recovery Rate,374213.3,%
+LIC,Bank,RJ,2013,Gross Turnover,845198.91,INR Cr
+LIC,CPSE,KL,2013,Net Profit,671520.42,%
+LIC,Bank,KL,2013,Dividend,227058.54,INR Cr
+LIC,Institution,BR,2013,Credit Deployed,427576.33,INR Cr
+LIC,Institution,TG,2013,GNPA Ratio,844884.73,INR Lakh Cr
+LIC,Bank,BR,2013,Recovery Rate,865476.83,INR Lakh Cr
+LIC,CPSE,RJ,2014,Gross Turnover,569644.16,%
+LIC,Bank,UP,2014,Net Profit,56683.64,INR Lakh Cr
+LIC,Bank,GJ,2014,Dividend,489127.45,INR Lakh Cr
+LIC,Bank,KL,2014,Credit Deployed,446472.97,INR Cr
+LIC,Institution,OD,2014,GNPA Ratio,839381.82,INR Cr
+LIC,CPSE,AP,2014,Recovery Rate,216070.29,INR Lakh Cr
+LIC,CPSE,MH,2015,Gross Turnover,574141.06,%
+LIC,Bank,RJ,2015,Net Profit,197080.92,%
+LIC,CPSE,BR,2015,Dividend,768555.08,%
+LIC,CPSE,OD,2015,Credit Deployed,257071.08,%
+LIC,Bank,KA,2015,GNPA Ratio,27273.6,INR Lakh Cr
+LIC,Institution,AP,2015,Recovery Rate,246530.64,%
+LIC,CPSE,BR,2016,Gross Turnover,531285.95,INR Cr
+LIC,Institution,AP,2016,Net Profit,172352.15,INR Cr
+LIC,Bank,BR,2016,Dividend,608530.85,INR Lakh Cr
+LIC,CPSE,PB,2016,Credit Deployed,892601.07,INR Cr
+LIC,CPSE,UP,2016,GNPA Ratio,858529.18,INR Cr
+LIC,Institution,KL,2016,Recovery Rate,14088.81,INR Lakh Cr
+LIC,CPSE,PB,2017,Gross Turnover,185429.29,INR Lakh Cr
+LIC,Institution,PB,2017,Net Profit,513509.56,%
+LIC,Institution,GJ,2017,Dividend,113458.63,INR Lakh Cr
+LIC,Institution,AP,2017,Credit Deployed,68485.49,INR Lakh Cr
+LIC,Institution,PB,2017,GNPA Ratio,834126.77,%
+LIC,Bank,KA,2017,Recovery Rate,499384.68,INR Cr
+LIC,CPSE,TN,2018,Gross Turnover,568243.38,%
+LIC,Bank,RJ,2018,Net Profit,406286.19,INR Lakh Cr
+LIC,Bank,OD,2018,Dividend,571085.09,INR Lakh Cr
+LIC,Institution,KL,2018,Credit Deployed,478910.85,INR Lakh Cr
+LIC,Institution,TN,2018,GNPA Ratio,451307.66,%
+LIC,Bank,WB,2018,Recovery Rate,230487.02,INR Cr
+LIC,Bank,TN,2019,Gross Turnover,110333.62,%
+LIC,Institution,BR,2019,Net Profit,717767.69,INR Lakh Cr
+LIC,Institution,WB,2019,Dividend,113840.97,INR Lakh Cr
+LIC,CPSE,MH,2019,Credit Deployed,628775.04,INR Lakh Cr
+LIC,CPSE,PB,2019,GNPA Ratio,823398.39,INR Cr
+LIC,Bank,KA,2019,Recovery Rate,179450.74,INR Cr
+LIC,Institution,RJ,2020,Gross Turnover,361661.7,%
+LIC,Institution,HR,2020,Net Profit,273746.69,%
+LIC,Bank,TN,2020,Dividend,681664.4,INR Lakh Cr
+LIC,Institution,MP,2020,Credit Deployed,697374.81,INR Lakh Cr
+LIC,Institution,OD,2020,GNPA Ratio,456242.04,%
+LIC,Bank,HR,2020,Recovery Rate,160804.74,INR Cr
+LIC,Institution,MP,2021,Gross Turnover,509911.94,INR Cr
+LIC,Bank,PB,2021,Net Profit,197664.94,INR Cr
+LIC,Institution,HR,2021,Dividend,202423.12,INR Lakh Cr
+LIC,CPSE,RJ,2021,Credit Deployed,302555.44,INR Cr
+LIC,Institution,KL,2021,GNPA Ratio,71819.41,INR Cr
+LIC,Bank,KA,2021,Recovery Rate,649363.39,INR Cr
+LIC,Bank,UP,2022,Gross Turnover,659073.37,INR Lakh Cr
+LIC,Bank,HR,2022,Net Profit,199358.73,INR Cr
+LIC,CPSE,PB,2022,Dividend,420563.95,INR Cr
+LIC,CPSE,HR,2022,Credit Deployed,601643.07,INR Cr
+LIC,CPSE,MH,2022,GNPA Ratio,721277.12,INR Cr
+LIC,CPSE,HR,2022,Recovery Rate,232792.29,%
+LIC,CPSE,PB,2023,Gross Turnover,125072.53,INR Lakh Cr
+LIC,Bank,WB,2023,Net Profit,792602.81,%
+LIC,Institution,KL,2023,Dividend,238386.98,INR Lakh Cr
+LIC,Institution,AP,2023,Credit Deployed,331068.78,INR Cr
+LIC,Institution,RJ,2023,GNPA Ratio,707179.59,%
+LIC,CPSE,MP,2023,Recovery Rate,224896.09,%
+LIC,Bank,TG,2024,Gross Turnover,890267.13,%
+LIC,Institution,MH,2024,Net Profit,848071.42,INR Lakh Cr
+LIC,Institution,GJ,2024,Dividend,160433.35,INR Lakh Cr
+LIC,Institution,HR,2024,Credit Deployed,339407.01,INR Cr
+LIC,Institution,MP,2024,GNPA Ratio,644831.47,INR Cr
+LIC,CPSE,KA,2024,Recovery Rate,649890.48,INR Cr
+LIC,Bank,TG,2025,Gross Turnover,625749.77,%
+LIC,CPSE,MP,2025,Net Profit,759086.58,%
+LIC,Bank,MP,2025,Dividend,543788.89,INR Cr
+LIC,CPSE,KA,2025,Credit Deployed,356618.01,%
+LIC,Institution,BR,2025,GNPA Ratio,205575.78,%
+LIC,CPSE,BR,2025,Recovery Rate,70427.11,INR Lakh Cr
+EPFO,CPSE,WB,2005,Gross Turnover,527311.98,INR Lakh Cr
+EPFO,Bank,AP,2005,Net Profit,169766.58,%
+EPFO,Institution,UP,2005,Dividend,377330.13,%
+EPFO,Bank,HR,2005,Credit Deployed,728131.34,INR Cr
+EPFO,Bank,WB,2005,GNPA Ratio,702709.13,INR Lakh Cr
+EPFO,Institution,RJ,2005,Recovery Rate,786271.7,%
+EPFO,Bank,WB,2006,Gross Turnover,625790.1,INR Lakh Cr
+EPFO,Institution,TG,2006,Net Profit,51057.39,%
+EPFO,CPSE,TN,2006,Dividend,270597.07,%
+EPFO,Institution,AP,2006,Credit Deployed,553180.86,%
+EPFO,Institution,RJ,2006,GNPA Ratio,731483.04,INR Cr
+EPFO,Bank,TG,2006,Recovery Rate,494234.12,INR Cr
+EPFO,Bank,KA,2007,Gross Turnover,647727.92,INR Cr
+EPFO,Institution,RJ,2007,Net Profit,340234.18,INR Cr
+EPFO,Bank,MP,2007,Dividend,485658.87,%
+EPFO,Institution,BR,2007,Credit Deployed,162328.57,%
+EPFO,Institution,AP,2007,GNPA Ratio,280922.33,INR Cr
+EPFO,Bank,PB,2007,Recovery Rate,209053.71,INR Cr
+EPFO,CPSE,GJ,2008,Gross Turnover,457570.29,INR Cr
+EPFO,Bank,UP,2008,Net Profit,47387.37,INR Cr
+EPFO,Bank,GJ,2008,Dividend,421027.49,INR Cr
+EPFO,CPSE,TN,2008,Credit Deployed,693120.46,INR Lakh Cr
+EPFO,Bank,MH,2008,GNPA Ratio,465719.73,INR Cr
+EPFO,Institution,TG,2008,Recovery Rate,524702.8,INR Cr
+EPFO,CPSE,PB,2009,Gross Turnover,27315.02,%
+EPFO,CPSE,WB,2009,Net Profit,502840.71,INR Lakh Cr
+EPFO,CPSE,TG,2009,Dividend,832197.17,%
+EPFO,CPSE,UP,2009,Credit Deployed,261585.77,INR Cr
+EPFO,CPSE,MH,2009,GNPA Ratio,653014.17,INR Lakh Cr
+EPFO,Bank,PB,2009,Recovery Rate,347237.41,%
+EPFO,Bank,GJ,2010,Gross Turnover,874950.24,INR Cr
+EPFO,Institution,WB,2010,Net Profit,873516.29,INR Lakh Cr
+EPFO,Bank,KA,2010,Dividend,135832.88,INR Cr
+EPFO,Bank,MH,2010,Credit Deployed,394173.19,INR Cr
+EPFO,Bank,UP,2010,GNPA Ratio,742675.39,%
+EPFO,CPSE,AP,2010,Recovery Rate,307547.27,INR Lakh Cr
+EPFO,Bank,KA,2011,Gross Turnover,403410.73,INR Lakh Cr
+EPFO,CPSE,UP,2011,Net Profit,644009.39,INR Cr
+EPFO,CPSE,OD,2011,Dividend,751777.46,INR Lakh Cr
+EPFO,CPSE,RJ,2011,Credit Deployed,108908.58,INR Cr
+EPFO,Institution,WB,2011,GNPA Ratio,826374.66,INR Cr
+EPFO,Institution,TN,2011,Recovery Rate,70064.46,INR Lakh Cr
+EPFO,CPSE,BR,2012,Gross Turnover,101025.84,INR Lakh Cr
+EPFO,CPSE,OD,2012,Net Profit,677685.93,INR Lakh Cr
+EPFO,Institution,HR,2012,Dividend,5078.13,%
+EPFO,CPSE,RJ,2012,Credit Deployed,573901.26,%
+EPFO,CPSE,OD,2012,GNPA Ratio,161269.92,%
+EPFO,Bank,KA,2012,Recovery Rate,525505.0,INR Lakh Cr
+EPFO,Bank,MP,2013,Gross Turnover,860418.18,INR Cr
+EPFO,CPSE,MP,2013,Net Profit,662418.27,INR Lakh Cr
+EPFO,CPSE,KA,2013,Dividend,855062.74,%
+EPFO,Institution,PB,2013,Credit Deployed,548103.11,INR Lakh Cr
+EPFO,Institution,KA,2013,GNPA Ratio,55487.08,%
+EPFO,CPSE,HR,2013,Recovery Rate,274257.48,INR Cr
+EPFO,CPSE,OD,2014,Gross Turnover,170123.66,INR Lakh Cr
+EPFO,CPSE,TG,2014,Net Profit,476496.87,INR Lakh Cr
+EPFO,Bank,OD,2014,Dividend,549358.38,%
+EPFO,Institution,MH,2014,Credit Deployed,67280.57,INR Cr
+EPFO,Bank,KA,2014,GNPA Ratio,321741.22,INR Lakh Cr
+EPFO,Institution,BR,2014,Recovery Rate,840072.65,INR Cr
+EPFO,CPSE,TN,2015,Gross Turnover,203132.95,INR Cr
+EPFO,Institution,MP,2015,Net Profit,570822.44,%
+EPFO,CPSE,GJ,2015,Dividend,64199.98,INR Cr
+EPFO,Institution,KL,2015,Credit Deployed,311361.11,%
+EPFO,Bank,TG,2015,GNPA Ratio,39692.55,INR Cr
+EPFO,Institution,GJ,2015,Recovery Rate,30103.85,INR Lakh Cr
+EPFO,Institution,HR,2016,Gross Turnover,633550.83,%
+EPFO,Bank,TG,2016,Net Profit,573752.55,INR Lakh Cr
+EPFO,CPSE,OD,2016,Dividend,578282.23,INR Lakh Cr
+EPFO,Bank,KA,2016,Credit Deployed,707665.74,INR Lakh Cr
+EPFO,Institution,KL,2016,GNPA Ratio,65053.82,%
+EPFO,CPSE,PB,2016,Recovery Rate,341250.99,INR Lakh Cr
+EPFO,CPSE,BR,2017,Gross Turnover,801896.93,INR Cr
+EPFO,Institution,HR,2017,Net Profit,361946.72,%
+EPFO,Institution,TG,2017,Dividend,185808.64,INR Lakh Cr
+EPFO,Bank,BR,2017,Credit Deployed,646146.14,INR Cr
+EPFO,Bank,BR,2017,GNPA Ratio,140991.07,INR Lakh Cr
+EPFO,CPSE,MH,2017,Recovery Rate,303504.55,%
+EPFO,CPSE,OD,2018,Gross Turnover,849410.56,INR Lakh Cr
+EPFO,Institution,MH,2018,Net Profit,409519.34,INR Cr
+EPFO,Bank,TG,2018,Dividend,115073.48,INR Lakh Cr
+EPFO,CPSE,MH,2018,Credit Deployed,236639.19,INR Lakh Cr
+EPFO,Bank,BR,2018,GNPA Ratio,57973.96,INR Lakh Cr
+EPFO,Institution,OD,2018,Recovery Rate,818515.62,%
+EPFO,CPSE,MH,2019,Gross Turnover,39523.71,INR Cr
+EPFO,CPSE,KA,2019,Net Profit,745047.47,%
+EPFO,Bank,GJ,2019,Dividend,663507.54,INR Cr
+EPFO,CPSE,RJ,2019,Credit Deployed,363804.0,%
+EPFO,Institution,MP,2019,GNPA Ratio,884419.59,INR Cr
+EPFO,CPSE,PB,2019,Recovery Rate,261438.16,INR Lakh Cr
+EPFO,CPSE,RJ,2020,Gross Turnover,171419.39,INR Cr
+EPFO,Bank,HR,2020,Net Profit,423834.03,INR Cr
+EPFO,CPSE,KA,2020,Dividend,347805.15,%
+EPFO,Institution,PB,2020,Credit Deployed,384425.01,INR Cr
+EPFO,Institution,KL,2020,GNPA Ratio,346929.54,%
+EPFO,CPSE,TG,2020,Recovery Rate,95161.05,%
+EPFO,CPSE,GJ,2021,Gross Turnover,248008.25,INR Cr
+EPFO,Institution,MH,2021,Net Profit,16681.93,%
+EPFO,Bank,TN,2021,Dividend,435238.91,INR Cr
+EPFO,Bank,TG,2021,Credit Deployed,118954.28,INR Lakh Cr
+EPFO,Bank,KA,2021,GNPA Ratio,374720.39,%
+EPFO,CPSE,OD,2021,Recovery Rate,530855.06,INR Cr
+EPFO,CPSE,GJ,2022,Gross Turnover,460173.11,INR Lakh Cr
+EPFO,Bank,HR,2022,Net Profit,467508.71,INR Lakh Cr
+EPFO,Institution,BR,2022,Dividend,811910.99,%
+EPFO,Bank,TN,2022,Credit Deployed,735535.17,INR Cr
+EPFO,CPSE,BR,2022,GNPA Ratio,783357.61,%
+EPFO,CPSE,RJ,2022,Recovery Rate,274906.75,INR Lakh Cr
+EPFO,Bank,OD,2023,Gross Turnover,370800.47,INR Cr
+EPFO,Bank,OD,2023,Net Profit,519966.42,INR Lakh Cr
+EPFO,CPSE,TN,2023,Dividend,349163.07,INR Lakh Cr
+EPFO,Bank,KA,2023,Credit Deployed,382501.47,INR Lakh Cr
+EPFO,Institution,WB,2023,GNPA Ratio,61885.17,%
+EPFO,Bank,HR,2023,Recovery Rate,457485.44,INR Cr
+EPFO,CPSE,PB,2024,Gross Turnover,737883.13,INR Cr
+EPFO,Institution,BR,2024,Net Profit,416125.42,INR Lakh Cr
+EPFO,Institution,TN,2024,Dividend,9073.92,INR Cr
+EPFO,Institution,PB,2024,Credit Deployed,593842.16,%
+EPFO,Bank,PB,2024,GNPA Ratio,384220.52,%
+EPFO,Institution,RJ,2024,Recovery Rate,470688.13,%
+EPFO,Institution,AP,2025,Gross Turnover,728133.0,INR Cr
+EPFO,Institution,KA,2025,Net Profit,455737.7,%
+EPFO,Institution,OD,2025,Dividend,451950.79,INR Lakh Cr
+EPFO,CPSE,PB,2025,Credit Deployed,317195.93,INR Cr
+EPFO,Bank,TG,2025,GNPA Ratio,196121.84,INR Cr
+EPFO,Bank,RJ,2025,Recovery Rate,132130.0,INR Lakh Cr

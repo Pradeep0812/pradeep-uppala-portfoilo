@@ -1,0 +1,1891 @@
+state_code,year,metric,value,unit,geography_level
+AP,2005,Road Length,2393.17,Million Tonnes,State
+AP,2005,NH Construction,6758.31,Million Tonnes,State
+AP,2005,Rail Freight,17624.43,Hours,State
+AP,2005,Port Turnaround Time,16933.05,KM,State
+AP,2005,Airport Passenger Traffic,16834.2,KM,State
+AP,2005,Internet Penetration,13191.33,Hours,State
+AP,2006,Road Length,14981.94,%,State
+AP,2006,NH Construction,4434.63,Hours,State
+AP,2006,Rail Freight,2737.05,Million Tonnes,State
+AP,2006,Port Turnaround Time,15345.23,Hours,State
+AP,2006,Airport Passenger Traffic,18439.73,%,State
+AP,2006,Internet Penetration,5145.55,Million,State
+AP,2007,Road Length,17558.38,KM,State
+AP,2007,NH Construction,1357.17,KM,State
+AP,2007,Rail Freight,483.33,Million,State
+AP,2007,Port Turnaround Time,23413.05,KM,State
+AP,2007,Airport Passenger Traffic,11311.33,KM,State
+AP,2007,Internet Penetration,5590.04,KM,State
+AP,2008,Road Length,21011.06,Million Tonnes,State
+AP,2008,NH Construction,18511.26,KM,State
+AP,2008,Rail Freight,12501.21,Hours,State
+AP,2008,Port Turnaround Time,10896.21,Hours,State
+AP,2008,Airport Passenger Traffic,22262.42,%,State
+AP,2008,Internet Penetration,22872.26,Million,State
+AP,2009,Road Length,21546.86,Million,State
+AP,2009,NH Construction,10916.64,KM,State
+AP,2009,Rail Freight,11015.79,Hours,State
+AP,2009,Port Turnaround Time,14777.4,KM,State
+AP,2009,Airport Passenger Traffic,13717.21,KM,State
+AP,2009,Internet Penetration,6126.35,Million,State
+AP,2010,Road Length,5180.21,KM,State
+AP,2010,NH Construction,20477.4,Million,State
+AP,2010,Rail Freight,442.26,KM,State
+AP,2010,Port Turnaround Time,5438.72,%,State
+AP,2010,Airport Passenger Traffic,2020.91,Million Tonnes,State
+AP,2010,Internet Penetration,1656.9,%,State
+AP,2011,Road Length,10676.81,Million Tonnes,State
+AP,2011,NH Construction,14967.68,Million Tonnes,State
+AP,2011,Rail Freight,9367.79,Million Tonnes,State
+AP,2011,Port Turnaround Time,22135.61,Hours,State
+AP,2011,Airport Passenger Traffic,12388.17,%,State
+AP,2011,Internet Penetration,19690.56,Hours,State
+AP,2012,Road Length,15457.91,KM,State
+AP,2012,NH Construction,6408.59,Hours,State
+AP,2012,Rail Freight,13084.08,Hours,State
+AP,2012,Port Turnaround Time,19291.49,KM,State
+AP,2012,Airport Passenger Traffic,23027.09,Hours,State
+AP,2012,Internet Penetration,13504.47,KM,State
+AP,2013,Road Length,21643.31,KM,State
+AP,2013,NH Construction,22394.12,KM,State
+AP,2013,Rail Freight,971.7,Hours,State
+AP,2013,Port Turnaround Time,11413.2,%,State
+AP,2013,Airport Passenger Traffic,21855.7,Hours,State
+AP,2013,Internet Penetration,17665.97,Million Tonnes,State
+AP,2014,Road Length,12535.85,Million Tonnes,State
+AP,2014,NH Construction,16268.13,%,State
+AP,2014,Rail Freight,19621.29,Million Tonnes,State
+AP,2014,Port Turnaround Time,20636.11,Hours,State
+AP,2014,Airport Passenger Traffic,15011.25,%,State
+AP,2014,Internet Penetration,7596.05,%,State
+AP,2015,Road Length,11791.19,Million,State
+AP,2015,NH Construction,5329.73,KM,State
+AP,2015,Rail Freight,19134.57,Million Tonnes,State
+AP,2015,Port Turnaround Time,10278.55,%,State
+AP,2015,Airport Passenger Traffic,4095.52,%,State
+AP,2015,Internet Penetration,19684.41,Million,State
+AP,2016,Road Length,16639.06,Hours,State
+AP,2016,NH Construction,20371.73,Million,State
+AP,2016,Rail Freight,11210.41,Million,State
+AP,2016,Port Turnaround Time,7300.77,Million,State
+AP,2016,Airport Passenger Traffic,23121.57,Hours,State
+AP,2016,Internet Penetration,12923.64,KM,State
+AP,2017,Road Length,8986.46,Million Tonnes,State
+AP,2017,NH Construction,20731.03,KM,State
+AP,2017,Rail Freight,20720.11,%,State
+AP,2017,Port Turnaround Time,8235.89,Million Tonnes,State
+AP,2017,Airport Passenger Traffic,9400.65,Million Tonnes,State
+AP,2017,Internet Penetration,23533.91,KM,State
+AP,2018,Road Length,8033.36,%,State
+AP,2018,NH Construction,9879.0,Hours,State
+AP,2018,Rail Freight,20738.89,KM,State
+AP,2018,Port Turnaround Time,21484.54,Million Tonnes,State
+AP,2018,Airport Passenger Traffic,22120.98,Million,State
+AP,2018,Internet Penetration,21483.23,Hours,State
+AP,2019,Road Length,10421.45,KM,State
+AP,2019,NH Construction,4093.1,%,State
+AP,2019,Rail Freight,10336.23,Million,State
+AP,2019,Port Turnaround Time,5816.99,%,State
+AP,2019,Airport Passenger Traffic,4215.58,%,State
+AP,2019,Internet Penetration,17996.62,Million,State
+AP,2020,Road Length,12921.84,KM,State
+AP,2020,NH Construction,8696.23,Hours,State
+AP,2020,Rail Freight,18337.11,Hours,State
+AP,2020,Port Turnaround Time,6114.27,Million Tonnes,State
+AP,2020,Airport Passenger Traffic,15902.52,Hours,State
+AP,2020,Internet Penetration,5636.8,KM,State
+AP,2021,Road Length,5376.17,Hours,State
+AP,2021,NH Construction,6209.27,Hours,State
+AP,2021,Rail Freight,8458.28,Million,State
+AP,2021,Port Turnaround Time,14340.61,Hours,State
+AP,2021,Airport Passenger Traffic,13966.27,KM,State
+AP,2021,Internet Penetration,10780.71,Hours,State
+AP,2022,Road Length,17006.56,Million Tonnes,State
+AP,2022,NH Construction,4375.18,Million Tonnes,State
+AP,2022,Rail Freight,8256.05,%,State
+AP,2022,Port Turnaround Time,21776.12,Million Tonnes,State
+AP,2022,Airport Passenger Traffic,651.32,%,State
+AP,2022,Internet Penetration,17446.02,%,State
+AP,2023,Road Length,3018.38,%,State
+AP,2023,NH Construction,11033.48,Million Tonnes,State
+AP,2023,Rail Freight,12855.89,%,State
+AP,2023,Port Turnaround Time,9857.3,KM,State
+AP,2023,Airport Passenger Traffic,17004.55,Million Tonnes,State
+AP,2023,Internet Penetration,12744.35,%,State
+AP,2024,Road Length,19434.58,KM,State
+AP,2024,NH Construction,21446.99,Hours,State
+AP,2024,Rail Freight,11908.95,%,State
+AP,2024,Port Turnaround Time,15747.82,Million Tonnes,State
+AP,2024,Airport Passenger Traffic,6406.48,KM,State
+AP,2024,Internet Penetration,18309.78,KM,State
+AP,2025,Road Length,13437.85,KM,State
+AP,2025,NH Construction,11679.88,KM,State
+AP,2025,Rail Freight,12178.86,Hours,State
+AP,2025,Port Turnaround Time,7209.17,%,State
+AP,2025,Airport Passenger Traffic,4667.71,Million Tonnes,State
+AP,2025,Internet Penetration,10173.76,Hours,State
+TG,2005,Road Length,432.86,KM,State
+TG,2005,NH Construction,20108.09,Hours,State
+TG,2005,Rail Freight,7093.96,Million Tonnes,State
+TG,2005,Port Turnaround Time,1767.64,Million,State
+TG,2005,Airport Passenger Traffic,4624.91,Million,State
+TG,2005,Internet Penetration,21213.4,Million,State
+TG,2006,Road Length,16243.12,%,State
+TG,2006,NH Construction,11316.92,%,State
+TG,2006,Rail Freight,20114.98,Million,State
+TG,2006,Port Turnaround Time,24929.84,Hours,State
+TG,2006,Airport Passenger Traffic,1166.66,Hours,State
+TG,2006,Internet Penetration,5580.77,Hours,State
+TG,2007,Road Length,17695.19,Million,State
+TG,2007,NH Construction,11659.54,Million,State
+TG,2007,Rail Freight,1228.45,Hours,State
+TG,2007,Port Turnaround Time,23239.28,Hours,State
+TG,2007,Airport Passenger Traffic,20801.06,KM,State
+TG,2007,Internet Penetration,9393.7,Million,State
+TG,2008,Road Length,2474.75,KM,State
+TG,2008,NH Construction,14567.28,KM,State
+TG,2008,Rail Freight,14634.47,%,State
+TG,2008,Port Turnaround Time,13074.72,Million Tonnes,State
+TG,2008,Airport Passenger Traffic,18986.7,Hours,State
+TG,2008,Internet Penetration,16811.82,Million,State
+TG,2009,Road Length,18582.1,Million,State
+TG,2009,NH Construction,4954.88,Million,State
+TG,2009,Rail Freight,9829.8,Million Tonnes,State
+TG,2009,Port Turnaround Time,22714.89,Hours,State
+TG,2009,Airport Passenger Traffic,10885.76,Million Tonnes,State
+TG,2009,Internet Penetration,22239.29,%,State
+TG,2010,Road Length,13587.0,Million Tonnes,State
+TG,2010,NH Construction,7741.92,%,State
+TG,2010,Rail Freight,17938.29,Hours,State
+TG,2010,Port Turnaround Time,4715.78,%,State
+TG,2010,Airport Passenger Traffic,5451.32,Million,State
+TG,2010,Internet Penetration,18136.18,Hours,State
+TG,2011,Road Length,4779.22,KM,State
+TG,2011,NH Construction,14658.24,Million Tonnes,State
+TG,2011,Rail Freight,9631.69,Million Tonnes,State
+TG,2011,Port Turnaround Time,11324.33,KM,State
+TG,2011,Airport Passenger Traffic,6871.46,KM,State
+TG,2011,Internet Penetration,6675.14,Hours,State
+TG,2012,Road Length,15945.72,KM,State
+TG,2012,NH Construction,13265.24,Million,State
+TG,2012,Rail Freight,11631.56,%,State
+TG,2012,Port Turnaround Time,16402.26,Million Tonnes,State
+TG,2012,Airport Passenger Traffic,16583.03,Million,State
+TG,2012,Internet Penetration,11591.92,Million,State
+TG,2013,Road Length,19364.2,Million,State
+TG,2013,NH Construction,9271.85,Million,State
+TG,2013,Rail Freight,5509.05,%,State
+TG,2013,Port Turnaround Time,6563.45,%,State
+TG,2013,Airport Passenger Traffic,21991.73,Hours,State
+TG,2013,Internet Penetration,20625.74,Million,State
+TG,2014,Road Length,1070.59,Million Tonnes,State
+TG,2014,NH Construction,19615.93,KM,State
+TG,2014,Rail Freight,22458.19,Hours,State
+TG,2014,Port Turnaround Time,12903.61,%,State
+TG,2014,Airport Passenger Traffic,10966.85,%,State
+TG,2014,Internet Penetration,20652.85,Million Tonnes,State
+TG,2015,Road Length,18725.32,KM,State
+TG,2015,NH Construction,14459.89,Hours,State
+TG,2015,Rail Freight,24972.43,Hours,State
+TG,2015,Port Turnaround Time,23345.92,Hours,State
+TG,2015,Airport Passenger Traffic,20185.96,Million Tonnes,State
+TG,2015,Internet Penetration,242.39,Hours,State
+TG,2016,Road Length,6113.26,%,State
+TG,2016,NH Construction,8020.8,Hours,State
+TG,2016,Rail Freight,658.4,Hours,State
+TG,2016,Port Turnaround Time,21244.56,Hours,State
+TG,2016,Airport Passenger Traffic,441.09,Million,State
+TG,2016,Internet Penetration,16393.12,Hours,State
+TG,2017,Road Length,492.0,Million Tonnes,State
+TG,2017,NH Construction,17683.35,Million,State
+TG,2017,Rail Freight,1069.56,Hours,State
+TG,2017,Port Turnaround Time,233.12,Hours,State
+TG,2017,Airport Passenger Traffic,15652.89,%,State
+TG,2017,Internet Penetration,10118.14,Hours,State
+TG,2018,Road Length,14565.66,%,State
+TG,2018,NH Construction,15994.22,Hours,State
+TG,2018,Rail Freight,11113.12,Million Tonnes,State
+TG,2018,Port Turnaround Time,3547.04,KM,State
+TG,2018,Airport Passenger Traffic,5799.0,Hours,State
+TG,2018,Internet Penetration,21723.43,Hours,State
+TG,2019,Road Length,23235.57,Million,State
+TG,2019,NH Construction,13239.17,Hours,State
+TG,2019,Rail Freight,11785.2,%,State
+TG,2019,Port Turnaround Time,24529.84,Million,State
+TG,2019,Airport Passenger Traffic,21540.03,Million Tonnes,State
+TG,2019,Internet Penetration,17905.99,KM,State
+TG,2020,Road Length,12649.69,Hours,State
+TG,2020,NH Construction,20837.51,Hours,State
+TG,2020,Rail Freight,16970.54,Million Tonnes,State
+TG,2020,Port Turnaround Time,2840.58,Hours,State
+TG,2020,Airport Passenger Traffic,4267.19,%,State
+TG,2020,Internet Penetration,1454.33,Hours,State
+TG,2021,Road Length,17458.68,KM,State
+TG,2021,NH Construction,1838.04,Hours,State
+TG,2021,Rail Freight,18720.08,Million,State
+TG,2021,Port Turnaround Time,10404.3,Million,State
+TG,2021,Airport Passenger Traffic,1154.32,Million Tonnes,State
+TG,2021,Internet Penetration,16727.24,%,State
+TG,2022,Road Length,23723.74,Million Tonnes,State
+TG,2022,NH Construction,576.71,KM,State
+TG,2022,Rail Freight,15281.47,Hours,State
+TG,2022,Port Turnaround Time,11394.12,Million,State
+TG,2022,Airport Passenger Traffic,24026.91,Hours,State
+TG,2022,Internet Penetration,16011.9,Million Tonnes,State
+TG,2023,Road Length,10106.99,%,State
+TG,2023,NH Construction,14654.04,KM,State
+TG,2023,Rail Freight,6997.61,Million,State
+TG,2023,Port Turnaround Time,2056.09,Hours,State
+TG,2023,Airport Passenger Traffic,14861.72,Hours,State
+TG,2023,Internet Penetration,1394.53,%,State
+TG,2024,Road Length,10641.05,KM,State
+TG,2024,NH Construction,15210.49,Million,State
+TG,2024,Rail Freight,6232.52,Hours,State
+TG,2024,Port Turnaround Time,5359.67,%,State
+TG,2024,Airport Passenger Traffic,24407.06,Hours,State
+TG,2024,Internet Penetration,18461.91,KM,State
+TG,2025,Road Length,24931.22,Million,State
+TG,2025,NH Construction,5484.05,KM,State
+TG,2025,Rail Freight,15603.5,KM,State
+TG,2025,Port Turnaround Time,11678.74,%,State
+TG,2025,Airport Passenger Traffic,1653.61,Million,State
+TG,2025,Internet Penetration,8752.93,%,State
+TN,2005,Road Length,24386.04,KM,State
+TN,2005,NH Construction,16765.78,Million Tonnes,State
+TN,2005,Rail Freight,23455.33,Hours,State
+TN,2005,Port Turnaround Time,13841.74,Million Tonnes,State
+TN,2005,Airport Passenger Traffic,1868.77,Million,State
+TN,2005,Internet Penetration,4286.14,Hours,State
+TN,2006,Road Length,11780.77,Million Tonnes,State
+TN,2006,NH Construction,1963.05,%,State
+TN,2006,Rail Freight,13294.04,%,State
+TN,2006,Port Turnaround Time,19006.38,Million,State
+TN,2006,Airport Passenger Traffic,7031.38,Hours,State
+TN,2006,Internet Penetration,8223.72,%,State
+TN,2007,Road Length,5889.4,Million,State
+TN,2007,NH Construction,20682.8,Million,State
+TN,2007,Rail Freight,8947.46,%,State
+TN,2007,Port Turnaround Time,7631.73,Million,State
+TN,2007,Airport Passenger Traffic,5341.62,Million,State
+TN,2007,Internet Penetration,3758.36,Million Tonnes,State
+TN,2008,Road Length,20749.92,Hours,State
+TN,2008,NH Construction,14128.87,%,State
+TN,2008,Rail Freight,12014.55,Million Tonnes,State
+TN,2008,Port Turnaround Time,12687.17,Hours,State
+TN,2008,Airport Passenger Traffic,178.21,Million,State
+TN,2008,Internet Penetration,12247.07,KM,State
+TN,2009,Road Length,11099.49,Million Tonnes,State
+TN,2009,NH Construction,20577.29,Million Tonnes,State
+TN,2009,Rail Freight,7119.78,Million Tonnes,State
+TN,2009,Port Turnaround Time,11514.94,%,State
+TN,2009,Airport Passenger Traffic,8741.85,Million Tonnes,State
+TN,2009,Internet Penetration,16713.59,KM,State
+TN,2010,Road Length,21568.85,%,State
+TN,2010,NH Construction,24737.33,KM,State
+TN,2010,Rail Freight,23516.44,Million Tonnes,State
+TN,2010,Port Turnaround Time,4959.65,Million Tonnes,State
+TN,2010,Airport Passenger Traffic,11824.6,KM,State
+TN,2010,Internet Penetration,12364.97,Million,State
+TN,2011,Road Length,17207.27,Million,State
+TN,2011,NH Construction,9098.95,Hours,State
+TN,2011,Rail Freight,20012.98,Million,State
+TN,2011,Port Turnaround Time,10462.02,%,State
+TN,2011,Airport Passenger Traffic,22258.1,KM,State
+TN,2011,Internet Penetration,4469.74,Hours,State
+TN,2012,Road Length,18432.37,Million,State
+TN,2012,NH Construction,12291.65,Million,State
+TN,2012,Rail Freight,24258.86,KM,State
+TN,2012,Port Turnaround Time,18565.91,Hours,State
+TN,2012,Airport Passenger Traffic,3616.47,Million,State
+TN,2012,Internet Penetration,4216.03,Hours,State
+TN,2013,Road Length,5545.87,%,State
+TN,2013,NH Construction,10223.26,%,State
+TN,2013,Rail Freight,14457.69,KM,State
+TN,2013,Port Turnaround Time,19662.51,Hours,State
+TN,2013,Airport Passenger Traffic,23478.48,Hours,State
+TN,2013,Internet Penetration,8503.26,Hours,State
+TN,2014,Road Length,21143.51,%,State
+TN,2014,NH Construction,4460.57,KM,State
+TN,2014,Rail Freight,728.41,%,State
+TN,2014,Port Turnaround Time,21864.39,Million,State
+TN,2014,Airport Passenger Traffic,116.27,Million Tonnes,State
+TN,2014,Internet Penetration,19835.61,Million,State
+TN,2015,Road Length,9475.6,KM,State
+TN,2015,NH Construction,3886.01,KM,State
+TN,2015,Rail Freight,13903.0,%,State
+TN,2015,Port Turnaround Time,2435.04,Million Tonnes,State
+TN,2015,Airport Passenger Traffic,6003.41,Hours,State
+TN,2015,Internet Penetration,1097.47,Hours,State
+TN,2016,Road Length,6029.85,Hours,State
+TN,2016,NH Construction,14789.7,%,State
+TN,2016,Rail Freight,11710.86,KM,State
+TN,2016,Port Turnaround Time,17591.96,Million Tonnes,State
+TN,2016,Airport Passenger Traffic,19034.57,KM,State
+TN,2016,Internet Penetration,17631.67,%,State
+TN,2017,Road Length,19259.28,%,State
+TN,2017,NH Construction,17732.23,Million Tonnes,State
+TN,2017,Rail Freight,4350.64,%,State
+TN,2017,Port Turnaround Time,19096.04,KM,State
+TN,2017,Airport Passenger Traffic,12813.46,Million,State
+TN,2017,Internet Penetration,16783.81,Million,State
+TN,2018,Road Length,12795.36,%,State
+TN,2018,NH Construction,1351.05,Million,State
+TN,2018,Rail Freight,7033.92,KM,State
+TN,2018,Port Turnaround Time,11010.65,KM,State
+TN,2018,Airport Passenger Traffic,19920.58,Hours,State
+TN,2018,Internet Penetration,11281.07,KM,State
+TN,2019,Road Length,8466.58,Million,State
+TN,2019,NH Construction,18142.5,KM,State
+TN,2019,Rail Freight,15247.16,Hours,State
+TN,2019,Port Turnaround Time,4420.05,KM,State
+TN,2019,Airport Passenger Traffic,15308.19,Million Tonnes,State
+TN,2019,Internet Penetration,9863.13,Hours,State
+TN,2020,Road Length,14254.78,KM,State
+TN,2020,NH Construction,5348.46,Million Tonnes,State
+TN,2020,Rail Freight,16967.09,%,State
+TN,2020,Port Turnaround Time,20893.14,Million Tonnes,State
+TN,2020,Airport Passenger Traffic,8019.43,%,State
+TN,2020,Internet Penetration,20688.78,KM,State
+TN,2021,Road Length,7141.75,Hours,State
+TN,2021,NH Construction,8692.59,KM,State
+TN,2021,Rail Freight,8371.92,Million Tonnes,State
+TN,2021,Port Turnaround Time,16729.91,Hours,State
+TN,2021,Airport Passenger Traffic,15963.66,Hours,State
+TN,2021,Internet Penetration,15325.44,Hours,State
+TN,2022,Road Length,4888.52,Million,State
+TN,2022,NH Construction,21217.92,%,State
+TN,2022,Rail Freight,22132.89,Million,State
+TN,2022,Port Turnaround Time,8825.29,KM,State
+TN,2022,Airport Passenger Traffic,7112.24,Million Tonnes,State
+TN,2022,Internet Penetration,11444.92,Million Tonnes,State
+TN,2023,Road Length,17929.64,KM,State
+TN,2023,NH Construction,8737.46,Million,State
+TN,2023,Rail Freight,24753.71,Million Tonnes,State
+TN,2023,Port Turnaround Time,7025.42,Hours,State
+TN,2023,Airport Passenger Traffic,21253.4,Million Tonnes,State
+TN,2023,Internet Penetration,8650.33,KM,State
+TN,2024,Road Length,23393.56,Million Tonnes,State
+TN,2024,NH Construction,23222.9,Million,State
+TN,2024,Rail Freight,4205.63,Million,State
+TN,2024,Port Turnaround Time,6896.45,%,State
+TN,2024,Airport Passenger Traffic,11223.19,Million Tonnes,State
+TN,2024,Internet Penetration,4815.9,Million Tonnes,State
+TN,2025,Road Length,22628.68,Million,State
+TN,2025,NH Construction,18871.32,Million Tonnes,State
+TN,2025,Rail Freight,4512.09,%,State
+TN,2025,Port Turnaround Time,2958.44,Hours,State
+TN,2025,Airport Passenger Traffic,1484.58,Hours,State
+TN,2025,Internet Penetration,5389.94,%,State
+KL,2005,Road Length,6311.51,Million Tonnes,State
+KL,2005,NH Construction,21417.7,Million Tonnes,State
+KL,2005,Rail Freight,22399.51,Million,State
+KL,2005,Port Turnaround Time,7915.56,KM,State
+KL,2005,Airport Passenger Traffic,11057.45,Million Tonnes,State
+KL,2005,Internet Penetration,4697.35,Million Tonnes,State
+KL,2006,Road Length,15134.55,Million,State
+KL,2006,NH Construction,20790.63,%,State
+KL,2006,Rail Freight,18399.65,KM,State
+KL,2006,Port Turnaround Time,3011.4,%,State
+KL,2006,Airport Passenger Traffic,12371.21,Million Tonnes,State
+KL,2006,Internet Penetration,3513.53,KM,State
+KL,2007,Road Length,4193.7,KM,State
+KL,2007,NH Construction,9813.99,KM,State
+KL,2007,Rail Freight,1226.7,Million,State
+KL,2007,Port Turnaround Time,18351.7,Million,State
+KL,2007,Airport Passenger Traffic,14577.29,%,State
+KL,2007,Internet Penetration,20542.43,Hours,State
+KL,2008,Road Length,10330.34,Million Tonnes,State
+KL,2008,NH Construction,8237.19,KM,State
+KL,2008,Rail Freight,2160.08,Hours,State
+KL,2008,Port Turnaround Time,20044.42,%,State
+KL,2008,Airport Passenger Traffic,2558.56,%,State
+KL,2008,Internet Penetration,11653.14,Hours,State
+KL,2009,Road Length,24516.15,%,State
+KL,2009,NH Construction,5734.25,Hours,State
+KL,2009,Rail Freight,14911.7,KM,State
+KL,2009,Port Turnaround Time,17522.66,Hours,State
+KL,2009,Airport Passenger Traffic,16502.07,Million,State
+KL,2009,Internet Penetration,5654.25,Million Tonnes,State
+KL,2010,Road Length,19758.36,%,State
+KL,2010,NH Construction,6231.48,Million,State
+KL,2010,Rail Freight,24590.82,KM,State
+KL,2010,Port Turnaround Time,891.28,Million Tonnes,State
+KL,2010,Airport Passenger Traffic,10837.72,Million Tonnes,State
+KL,2010,Internet Penetration,1353.7,Million,State
+KL,2011,Road Length,778.53,KM,State
+KL,2011,NH Construction,11502.43,%,State
+KL,2011,Rail Freight,15387.86,KM,State
+KL,2011,Port Turnaround Time,3533.34,Million Tonnes,State
+KL,2011,Airport Passenger Traffic,9044.3,%,State
+KL,2011,Internet Penetration,18654.97,Hours,State
+KL,2012,Road Length,8835.4,KM,State
+KL,2012,NH Construction,8271.67,Million Tonnes,State
+KL,2012,Rail Freight,3985.29,KM,State
+KL,2012,Port Turnaround Time,9022.53,%,State
+KL,2012,Airport Passenger Traffic,21038.63,%,State
+KL,2012,Internet Penetration,14454.16,%,State
+KL,2013,Road Length,9676.82,KM,State
+KL,2013,NH Construction,6966.36,Hours,State
+KL,2013,Rail Freight,517.23,%,State
+KL,2013,Port Turnaround Time,23350.36,KM,State
+KL,2013,Airport Passenger Traffic,10576.95,Million Tonnes,State
+KL,2013,Internet Penetration,913.21,%,State
+KL,2014,Road Length,7863.87,Hours,State
+KL,2014,NH Construction,16444.6,Million Tonnes,State
+KL,2014,Rail Freight,8369.53,KM,State
+KL,2014,Port Turnaround Time,17897.36,%,State
+KL,2014,Airport Passenger Traffic,5677.17,Million,State
+KL,2014,Internet Penetration,2997.33,Hours,State
+KL,2015,Road Length,19361.95,Million,State
+KL,2015,NH Construction,17364.05,Hours,State
+KL,2015,Rail Freight,8931.19,Million,State
+KL,2015,Port Turnaround Time,17065.69,Million Tonnes,State
+KL,2015,Airport Passenger Traffic,20857.74,%,State
+KL,2015,Internet Penetration,11010.6,Hours,State
+KL,2016,Road Length,24060.31,Hours,State
+KL,2016,NH Construction,8936.95,%,State
+KL,2016,Rail Freight,13338.36,%,State
+KL,2016,Port Turnaround Time,1845.69,Million,State
+KL,2016,Airport Passenger Traffic,13952.57,Million,State
+KL,2016,Internet Penetration,22690.5,Million,State
+KL,2017,Road Length,10537.65,Million,State
+KL,2017,NH Construction,13005.08,Million Tonnes,State
+KL,2017,Rail Freight,13970.31,Hours,State
+KL,2017,Port Turnaround Time,6632.34,%,State
+KL,2017,Airport Passenger Traffic,20928.81,Million,State
+KL,2017,Internet Penetration,22918.87,Million Tonnes,State
+KL,2018,Road Length,7983.01,Hours,State
+KL,2018,NH Construction,2375.22,Million Tonnes,State
+KL,2018,Rail Freight,1172.0,%,State
+KL,2018,Port Turnaround Time,10768.6,Million,State
+KL,2018,Airport Passenger Traffic,11153.21,%,State
+KL,2018,Internet Penetration,16485.57,Million Tonnes,State
+KL,2019,Road Length,6004.9,Million,State
+KL,2019,NH Construction,9538.11,Million Tonnes,State
+KL,2019,Rail Freight,21120.89,Million Tonnes,State
+KL,2019,Port Turnaround Time,12900.98,%,State
+KL,2019,Airport Passenger Traffic,22549.42,Hours,State
+KL,2019,Internet Penetration,14029.2,Million Tonnes,State
+KL,2020,Road Length,258.84,KM,State
+KL,2020,NH Construction,17447.71,Million,State
+KL,2020,Rail Freight,5924.03,Hours,State
+KL,2020,Port Turnaround Time,8710.57,Hours,State
+KL,2020,Airport Passenger Traffic,23674.23,Million,State
+KL,2020,Internet Penetration,9618.08,Hours,State
+KL,2021,Road Length,11414.64,Million Tonnes,State
+KL,2021,NH Construction,741.66,Million,State
+KL,2021,Rail Freight,4859.19,KM,State
+KL,2021,Port Turnaround Time,10831.5,Hours,State
+KL,2021,Airport Passenger Traffic,23469.39,Million Tonnes,State
+KL,2021,Internet Penetration,15606.56,%,State
+KL,2022,Road Length,7749.69,KM,State
+KL,2022,NH Construction,4089.62,%,State
+KL,2022,Rail Freight,14178.96,KM,State
+KL,2022,Port Turnaround Time,19950.56,Million Tonnes,State
+KL,2022,Airport Passenger Traffic,2194.78,Million Tonnes,State
+KL,2022,Internet Penetration,8579.57,KM,State
+KL,2023,Road Length,1404.54,Hours,State
+KL,2023,NH Construction,15100.99,Million Tonnes,State
+KL,2023,Rail Freight,2012.51,Hours,State
+KL,2023,Port Turnaround Time,690.32,%,State
+KL,2023,Airport Passenger Traffic,23711.46,KM,State
+KL,2023,Internet Penetration,5863.73,Million Tonnes,State
+KL,2024,Road Length,23168.95,Million Tonnes,State
+KL,2024,NH Construction,23180.22,Hours,State
+KL,2024,Rail Freight,1080.86,KM,State
+KL,2024,Port Turnaround Time,341.2,Hours,State
+KL,2024,Airport Passenger Traffic,813.45,Million Tonnes,State
+KL,2024,Internet Penetration,23674.23,KM,State
+KL,2025,Road Length,19705.56,Million Tonnes,State
+KL,2025,NH Construction,14749.97,%,State
+KL,2025,Rail Freight,14198.75,Million Tonnes,State
+KL,2025,Port Turnaround Time,1640.95,Hours,State
+KL,2025,Airport Passenger Traffic,17765.03,Million,State
+KL,2025,Internet Penetration,10710.42,Hours,State
+KA,2005,Road Length,20160.66,%,State
+KA,2005,NH Construction,8007.11,Million,State
+KA,2005,Rail Freight,20450.9,%,State
+KA,2005,Port Turnaround Time,2338.91,Million,State
+KA,2005,Airport Passenger Traffic,11306.46,%,State
+KA,2005,Internet Penetration,15698.78,%,State
+KA,2006,Road Length,2179.77,Million Tonnes,State
+KA,2006,NH Construction,16603.63,Million,State
+KA,2006,Rail Freight,12364.13,%,State
+KA,2006,Port Turnaround Time,18215.48,Million,State
+KA,2006,Airport Passenger Traffic,17375.76,Million,State
+KA,2006,Internet Penetration,4118.05,Million Tonnes,State
+KA,2007,Road Length,5293.85,%,State
+KA,2007,NH Construction,19028.01,Million,State
+KA,2007,Rail Freight,13730.63,KM,State
+KA,2007,Port Turnaround Time,6777.54,Million,State
+KA,2007,Airport Passenger Traffic,10252.12,Million Tonnes,State
+KA,2007,Internet Penetration,1511.34,Million,State
+KA,2008,Road Length,14662.48,Hours,State
+KA,2008,NH Construction,17459.38,%,State
+KA,2008,Rail Freight,6238.35,%,State
+KA,2008,Port Turnaround Time,8685.96,Million,State
+KA,2008,Airport Passenger Traffic,22402.68,Million,State
+KA,2008,Internet Penetration,3140.58,Hours,State
+KA,2009,Road Length,10341.47,Million,State
+KA,2009,NH Construction,16842.36,KM,State
+KA,2009,Rail Freight,3613.58,Million,State
+KA,2009,Port Turnaround Time,2729.23,%,State
+KA,2009,Airport Passenger Traffic,3992.29,Hours,State
+KA,2009,Internet Penetration,9075.82,Million Tonnes,State
+KA,2010,Road Length,969.99,Million,State
+KA,2010,NH Construction,2122.62,Million Tonnes,State
+KA,2010,Rail Freight,11168.75,Million,State
+KA,2010,Port Turnaround Time,24434.27,Hours,State
+KA,2010,Airport Passenger Traffic,14487.4,%,State
+KA,2010,Internet Penetration,15983.76,%,State
+KA,2011,Road Length,19223.34,Hours,State
+KA,2011,NH Construction,10338.64,Million Tonnes,State
+KA,2011,Rail Freight,15507.42,KM,State
+KA,2011,Port Turnaround Time,12567.7,%,State
+KA,2011,Airport Passenger Traffic,10797.61,KM,State
+KA,2011,Internet Penetration,3316.44,%,State
+KA,2012,Road Length,19509.97,Million Tonnes,State
+KA,2012,NH Construction,13137.65,Million,State
+KA,2012,Rail Freight,1099.46,KM,State
+KA,2012,Port Turnaround Time,12356.58,KM,State
+KA,2012,Airport Passenger Traffic,16337.12,%,State
+KA,2012,Internet Penetration,19157.55,Million Tonnes,State
+KA,2013,Road Length,15101.5,Million,State
+KA,2013,NH Construction,2660.78,Million Tonnes,State
+KA,2013,Rail Freight,7267.0,Million Tonnes,State
+KA,2013,Port Turnaround Time,16878.59,%,State
+KA,2013,Airport Passenger Traffic,3463.5,Hours,State
+KA,2013,Internet Penetration,16944.45,KM,State
+KA,2014,Road Length,23603.81,KM,State
+KA,2014,NH Construction,17095.06,Million,State
+KA,2014,Rail Freight,133.52,Million,State
+KA,2014,Port Turnaround Time,6970.48,KM,State
+KA,2014,Airport Passenger Traffic,557.81,Million Tonnes,State
+KA,2014,Internet Penetration,17339.62,KM,State
+KA,2015,Road Length,15670.72,KM,State
+KA,2015,NH Construction,16340.66,%,State
+KA,2015,Rail Freight,16295.59,%,State
+KA,2015,Port Turnaround Time,15189.32,Million,State
+KA,2015,Airport Passenger Traffic,17564.44,Hours,State
+KA,2015,Internet Penetration,18380.37,Million Tonnes,State
+KA,2016,Road Length,4667.96,KM,State
+KA,2016,NH Construction,23228.6,KM,State
+KA,2016,Rail Freight,11686.89,KM,State
+KA,2016,Port Turnaround Time,15606.03,KM,State
+KA,2016,Airport Passenger Traffic,6538.93,Million,State
+KA,2016,Internet Penetration,12119.57,Million Tonnes,State
+KA,2017,Road Length,10717.32,Million,State
+KA,2017,NH Construction,18133.94,Hours,State
+KA,2017,Rail Freight,15871.95,KM,State
+KA,2017,Port Turnaround Time,24136.04,%,State
+KA,2017,Airport Passenger Traffic,20168.87,%,State
+KA,2017,Internet Penetration,14464.34,%,State
+KA,2018,Road Length,714.64,%,State
+KA,2018,NH Construction,1827.91,%,State
+KA,2018,Rail Freight,15062.71,Million Tonnes,State
+KA,2018,Port Turnaround Time,22939.97,Million,State
+KA,2018,Airport Passenger Traffic,3852.12,Million,State
+KA,2018,Internet Penetration,24787.19,%,State
+KA,2019,Road Length,22516.58,KM,State
+KA,2019,NH Construction,7766.37,%,State
+KA,2019,Rail Freight,17022.87,Million Tonnes,State
+KA,2019,Port Turnaround Time,14571.77,%,State
+KA,2019,Airport Passenger Traffic,6871.67,Hours,State
+KA,2019,Internet Penetration,23114.75,%,State
+KA,2020,Road Length,15879.42,Million,State
+KA,2020,NH Construction,8155.91,%,State
+KA,2020,Rail Freight,20947.85,%,State
+KA,2020,Port Turnaround Time,8634.0,Million,State
+KA,2020,Airport Passenger Traffic,23113.93,Million,State
+KA,2020,Internet Penetration,16279.72,%,State
+KA,2021,Road Length,22367.2,Hours,State
+KA,2021,NH Construction,7539.69,Hours,State
+KA,2021,Rail Freight,100.76,Hours,State
+KA,2021,Port Turnaround Time,8979.24,Hours,State
+KA,2021,Airport Passenger Traffic,3790.61,%,State
+KA,2021,Internet Penetration,23945.03,Hours,State
+KA,2022,Road Length,22479.82,%,State
+KA,2022,NH Construction,2217.9,KM,State
+KA,2022,Rail Freight,9662.66,Million Tonnes,State
+KA,2022,Port Turnaround Time,15217.67,Million,State
+KA,2022,Airport Passenger Traffic,5720.62,KM,State
+KA,2022,Internet Penetration,7941.47,Hours,State
+KA,2023,Road Length,20760.1,Hours,State
+KA,2023,NH Construction,13343.61,Million Tonnes,State
+KA,2023,Rail Freight,1738.71,Million,State
+KA,2023,Port Turnaround Time,14609.59,KM,State
+KA,2023,Airport Passenger Traffic,8068.68,%,State
+KA,2023,Internet Penetration,7713.02,KM,State
+KA,2024,Road Length,12276.99,Million,State
+KA,2024,NH Construction,17086.57,%,State
+KA,2024,Rail Freight,17396.88,KM,State
+KA,2024,Port Turnaround Time,15846.67,Hours,State
+KA,2024,Airport Passenger Traffic,16698.77,Million,State
+KA,2024,Internet Penetration,17366.21,%,State
+KA,2025,Road Length,6492.91,Million,State
+KA,2025,NH Construction,10705.85,Hours,State
+KA,2025,Rail Freight,18283.2,%,State
+KA,2025,Port Turnaround Time,19530.66,%,State
+KA,2025,Airport Passenger Traffic,739.67,Million,State
+KA,2025,Internet Penetration,11131.54,%,State
+MH,2005,Road Length,19933.06,Hours,State
+MH,2005,NH Construction,4986.52,Million,State
+MH,2005,Rail Freight,13821.17,Million Tonnes,State
+MH,2005,Port Turnaround Time,2790.31,Million Tonnes,State
+MH,2005,Airport Passenger Traffic,7522.08,%,State
+MH,2005,Internet Penetration,13580.22,Million,State
+MH,2006,Road Length,16332.33,Hours,State
+MH,2006,NH Construction,14681.13,Hours,State
+MH,2006,Rail Freight,15980.58,Hours,State
+MH,2006,Port Turnaround Time,23320.36,Million Tonnes,State
+MH,2006,Airport Passenger Traffic,12503.44,Million,State
+MH,2006,Internet Penetration,7763.5,Million Tonnes,State
+MH,2007,Road Length,3932.6,Hours,State
+MH,2007,NH Construction,20267.12,Hours,State
+MH,2007,Rail Freight,3478.64,Hours,State
+MH,2007,Port Turnaround Time,22702.61,Million,State
+MH,2007,Airport Passenger Traffic,4829.41,Million Tonnes,State
+MH,2007,Internet Penetration,19284.14,Million,State
+MH,2008,Road Length,9029.68,%,State
+MH,2008,NH Construction,13289.88,%,State
+MH,2008,Rail Freight,7962.75,KM,State
+MH,2008,Port Turnaround Time,24381.98,%,State
+MH,2008,Airport Passenger Traffic,17582.48,KM,State
+MH,2008,Internet Penetration,24167.03,Million,State
+MH,2009,Road Length,9958.84,KM,State
+MH,2009,NH Construction,16935.02,Million Tonnes,State
+MH,2009,Rail Freight,10365.77,KM,State
+MH,2009,Port Turnaround Time,6346.89,Million Tonnes,State
+MH,2009,Airport Passenger Traffic,14655.12,KM,State
+MH,2009,Internet Penetration,9508.2,%,State
+MH,2010,Road Length,8548.7,Million,State
+MH,2010,NH Construction,4234.71,Hours,State
+MH,2010,Rail Freight,16486.75,KM,State
+MH,2010,Port Turnaround Time,2747.8,Million,State
+MH,2010,Airport Passenger Traffic,10077.53,KM,State
+MH,2010,Internet Penetration,10429.16,Million Tonnes,State
+MH,2011,Road Length,15388.09,%,State
+MH,2011,NH Construction,11106.63,Million,State
+MH,2011,Rail Freight,9984.0,KM,State
+MH,2011,Port Turnaround Time,23518.55,KM,State
+MH,2011,Airport Passenger Traffic,23868.69,KM,State
+MH,2011,Internet Penetration,4594.9,KM,State
+MH,2012,Road Length,15084.99,%,State
+MH,2012,NH Construction,2869.1,Hours,State
+MH,2012,Rail Freight,8518.3,KM,State
+MH,2012,Port Turnaround Time,4147.2,Million,State
+MH,2012,Airport Passenger Traffic,4150.25,KM,State
+MH,2012,Internet Penetration,15537.22,Million Tonnes,State
+MH,2013,Road Length,5451.42,Million Tonnes,State
+MH,2013,NH Construction,21810.64,Hours,State
+MH,2013,Rail Freight,3000.3,Hours,State
+MH,2013,Port Turnaround Time,7457.15,Million,State
+MH,2013,Airport Passenger Traffic,2074.08,Hours,State
+MH,2013,Internet Penetration,14860.0,KM,State
+MH,2014,Road Length,9968.18,Million,State
+MH,2014,NH Construction,21981.35,Hours,State
+MH,2014,Rail Freight,3870.99,Hours,State
+MH,2014,Port Turnaround Time,9351.51,%,State
+MH,2014,Airport Passenger Traffic,2107.32,Million Tonnes,State
+MH,2014,Internet Penetration,11800.89,KM,State
+MH,2015,Road Length,20728.12,Hours,State
+MH,2015,NH Construction,19806.1,Million,State
+MH,2015,Rail Freight,20733.46,Million Tonnes,State
+MH,2015,Port Turnaround Time,7743.61,%,State
+MH,2015,Airport Passenger Traffic,3196.21,Million Tonnes,State
+MH,2015,Internet Penetration,24694.96,Million Tonnes,State
+MH,2016,Road Length,4511.12,Million,State
+MH,2016,NH Construction,1103.11,Hours,State
+MH,2016,Rail Freight,12955.45,%,State
+MH,2016,Port Turnaround Time,361.29,Million Tonnes,State
+MH,2016,Airport Passenger Traffic,12083.82,%,State
+MH,2016,Internet Penetration,19669.54,Hours,State
+MH,2017,Road Length,8612.0,%,State
+MH,2017,NH Construction,421.39,%,State
+MH,2017,Rail Freight,7080.34,%,State
+MH,2017,Port Turnaround Time,11052.41,Million,State
+MH,2017,Airport Passenger Traffic,700.34,Million,State
+MH,2017,Internet Penetration,1458.68,Hours,State
+MH,2018,Road Length,4813.16,Million Tonnes,State
+MH,2018,NH Construction,9642.06,%,State
+MH,2018,Rail Freight,22647.92,Million,State
+MH,2018,Port Turnaround Time,1304.23,Million Tonnes,State
+MH,2018,Airport Passenger Traffic,11084.65,Hours,State
+MH,2018,Internet Penetration,14741.21,KM,State
+MH,2019,Road Length,12638.32,Million Tonnes,State
+MH,2019,NH Construction,20665.71,Million Tonnes,State
+MH,2019,Rail Freight,19631.7,KM,State
+MH,2019,Port Turnaround Time,462.72,Hours,State
+MH,2019,Airport Passenger Traffic,23952.85,Million,State
+MH,2019,Internet Penetration,10436.61,Hours,State
+MH,2020,Road Length,15678.7,KM,State
+MH,2020,NH Construction,623.43,%,State
+MH,2020,Rail Freight,15148.55,Million Tonnes,State
+MH,2020,Port Turnaround Time,7155.77,Hours,State
+MH,2020,Airport Passenger Traffic,5746.64,Million Tonnes,State
+MH,2020,Internet Penetration,2094.63,%,State
+MH,2021,Road Length,407.29,Hours,State
+MH,2021,NH Construction,4693.03,Million,State
+MH,2021,Rail Freight,6179.62,Hours,State
+MH,2021,Port Turnaround Time,1373.64,%,State
+MH,2021,Airport Passenger Traffic,23815.14,Hours,State
+MH,2021,Internet Penetration,9631.32,Million Tonnes,State
+MH,2022,Road Length,3718.63,Million,State
+MH,2022,NH Construction,282.62,Hours,State
+MH,2022,Rail Freight,1871.78,%,State
+MH,2022,Port Turnaround Time,24865.09,KM,State
+MH,2022,Airport Passenger Traffic,13991.05,%,State
+MH,2022,Internet Penetration,2927.16,Million Tonnes,State
+MH,2023,Road Length,4713.39,KM,State
+MH,2023,NH Construction,16174.75,KM,State
+MH,2023,Rail Freight,8326.75,KM,State
+MH,2023,Port Turnaround Time,2021.97,Million,State
+MH,2023,Airport Passenger Traffic,24602.38,Million,State
+MH,2023,Internet Penetration,3169.77,KM,State
+MH,2024,Road Length,4235.26,Hours,State
+MH,2024,NH Construction,17299.09,%,State
+MH,2024,Rail Freight,23729.62,Million Tonnes,State
+MH,2024,Port Turnaround Time,23208.49,Hours,State
+MH,2024,Airport Passenger Traffic,13912.82,Million Tonnes,State
+MH,2024,Internet Penetration,16842.51,KM,State
+MH,2025,Road Length,1479.86,Hours,State
+MH,2025,NH Construction,19172.69,KM,State
+MH,2025,Rail Freight,10444.53,Million,State
+MH,2025,Port Turnaround Time,14532.52,Million,State
+MH,2025,Airport Passenger Traffic,4509.35,Million Tonnes,State
+MH,2025,Internet Penetration,1131.56,Million Tonnes,State
+GJ,2005,Road Length,15024.06,%,State
+GJ,2005,NH Construction,5999.41,KM,State
+GJ,2005,Rail Freight,1369.27,Million Tonnes,State
+GJ,2005,Port Turnaround Time,19958.1,Million Tonnes,State
+GJ,2005,Airport Passenger Traffic,14733.66,%,State
+GJ,2005,Internet Penetration,11929.74,Million,State
+GJ,2006,Road Length,1911.1,Million Tonnes,State
+GJ,2006,NH Construction,15730.86,Hours,State
+GJ,2006,Rail Freight,21109.5,%,State
+GJ,2006,Port Turnaround Time,17213.66,%,State
+GJ,2006,Airport Passenger Traffic,5693.97,KM,State
+GJ,2006,Internet Penetration,15804.86,Hours,State
+GJ,2007,Road Length,24457.69,Hours,State
+GJ,2007,NH Construction,8421.4,Million,State
+GJ,2007,Rail Freight,10558.27,Hours,State
+GJ,2007,Port Turnaround Time,9365.79,Million,State
+GJ,2007,Airport Passenger Traffic,20123.72,%,State
+GJ,2007,Internet Penetration,4612.52,%,State
+GJ,2008,Road Length,17332.06,Million Tonnes,State
+GJ,2008,NH Construction,16341.65,%,State
+GJ,2008,Rail Freight,15503.4,Million,State
+GJ,2008,Port Turnaround Time,24913.51,Million,State
+GJ,2008,Airport Passenger Traffic,16918.86,Million,State
+GJ,2008,Internet Penetration,24852.63,Million,State
+GJ,2009,Road Length,18281.32,%,State
+GJ,2009,NH Construction,10907.9,%,State
+GJ,2009,Rail Freight,24789.17,KM,State
+GJ,2009,Port Turnaround Time,8923.99,Hours,State
+GJ,2009,Airport Passenger Traffic,16763.55,Hours,State
+GJ,2009,Internet Penetration,17548.07,%,State
+GJ,2010,Road Length,14885.14,KM,State
+GJ,2010,NH Construction,16431.99,Hours,State
+GJ,2010,Rail Freight,14300.14,Million Tonnes,State
+GJ,2010,Port Turnaround Time,1821.92,Hours,State
+GJ,2010,Airport Passenger Traffic,8935.31,Million Tonnes,State
+GJ,2010,Internet Penetration,1178.55,Hours,State
+GJ,2011,Road Length,6602.94,KM,State
+GJ,2011,NH Construction,18643.94,KM,State
+GJ,2011,Rail Freight,19926.47,Million Tonnes,State
+GJ,2011,Port Turnaround Time,12878.06,%,State
+GJ,2011,Airport Passenger Traffic,12255.62,Million,State
+GJ,2011,Internet Penetration,6607.19,%,State
+GJ,2012,Road Length,1617.13,Million,State
+GJ,2012,NH Construction,12891.33,KM,State
+GJ,2012,Rail Freight,8044.22,KM,State
+GJ,2012,Port Turnaround Time,12456.36,KM,State
+GJ,2012,Airport Passenger Traffic,6140.2,%,State
+GJ,2012,Internet Penetration,8035.37,Million Tonnes,State
+GJ,2013,Road Length,23542.71,%,State
+GJ,2013,NH Construction,11844.07,Hours,State
+GJ,2013,Rail Freight,15679.48,KM,State
+GJ,2013,Port Turnaround Time,9105.01,%,State
+GJ,2013,Airport Passenger Traffic,6414.96,KM,State
+GJ,2013,Internet Penetration,4987.73,%,State
+GJ,2014,Road Length,12413.58,Hours,State
+GJ,2014,NH Construction,14743.53,Million Tonnes,State
+GJ,2014,Rail Freight,15711.51,Hours,State
+GJ,2014,Port Turnaround Time,15330.0,Hours,State
+GJ,2014,Airport Passenger Traffic,6468.02,Million Tonnes,State
+GJ,2014,Internet Penetration,4601.55,Million Tonnes,State
+GJ,2015,Road Length,4611.18,Million Tonnes,State
+GJ,2015,NH Construction,7729.74,%,State
+GJ,2015,Rail Freight,14891.83,%,State
+GJ,2015,Port Turnaround Time,10719.84,KM,State
+GJ,2015,Airport Passenger Traffic,2131.22,Million Tonnes,State
+GJ,2015,Internet Penetration,19339.51,KM,State
+GJ,2016,Road Length,5428.47,Million,State
+GJ,2016,NH Construction,463.76,%,State
+GJ,2016,Rail Freight,20315.47,Million,State
+GJ,2016,Port Turnaround Time,16269.53,KM,State
+GJ,2016,Airport Passenger Traffic,7789.18,Million Tonnes,State
+GJ,2016,Internet Penetration,23325.55,Hours,State
+GJ,2017,Road Length,13979.38,%,State
+GJ,2017,NH Construction,11517.11,Million,State
+GJ,2017,Rail Freight,20212.17,Million Tonnes,State
+GJ,2017,Port Turnaround Time,20420.37,Million,State
+GJ,2017,Airport Passenger Traffic,24924.04,Million Tonnes,State
+GJ,2017,Internet Penetration,5289.15,KM,State
+GJ,2018,Road Length,22005.83,KM,State
+GJ,2018,NH Construction,3526.98,Hours,State
+GJ,2018,Rail Freight,5594.21,%,State
+GJ,2018,Port Turnaround Time,712.99,Million,State
+GJ,2018,Airport Passenger Traffic,12551.45,Million,State
+GJ,2018,Internet Penetration,8978.63,Million,State
+GJ,2019,Road Length,18975.21,Million,State
+GJ,2019,NH Construction,12854.15,Million,State
+GJ,2019,Rail Freight,5321.29,%,State
+GJ,2019,Port Turnaround Time,23370.14,Million Tonnes,State
+GJ,2019,Airport Passenger Traffic,19569.08,KM,State
+GJ,2019,Internet Penetration,3881.97,Million,State
+GJ,2020,Road Length,9899.53,KM,State
+GJ,2020,NH Construction,4643.21,KM,State
+GJ,2020,Rail Freight,18259.81,Million,State
+GJ,2020,Port Turnaround Time,5249.77,Hours,State
+GJ,2020,Airport Passenger Traffic,7873.52,Million Tonnes,State
+GJ,2020,Internet Penetration,5243.87,Million,State
+GJ,2021,Road Length,18655.85,Hours,State
+GJ,2021,NH Construction,10017.19,Million,State
+GJ,2021,Rail Freight,6802.12,KM,State
+GJ,2021,Port Turnaround Time,9318.78,KM,State
+GJ,2021,Airport Passenger Traffic,8160.9,Hours,State
+GJ,2021,Internet Penetration,21168.49,KM,State
+GJ,2022,Road Length,16477.13,Million,State
+GJ,2022,NH Construction,9479.24,Hours,State
+GJ,2022,Rail Freight,19720.46,Hours,State
+GJ,2022,Port Turnaround Time,6288.64,Million,State
+GJ,2022,Airport Passenger Traffic,15039.2,Hours,State
+GJ,2022,Internet Penetration,21899.67,%,State
+GJ,2023,Road Length,21481.58,Hours,State
+GJ,2023,NH Construction,19648.58,Million,State
+GJ,2023,Rail Freight,3752.71,Million Tonnes,State
+GJ,2023,Port Turnaround Time,23631.1,%,State
+GJ,2023,Airport Passenger Traffic,8271.19,KM,State
+GJ,2023,Internet Penetration,16766.99,Hours,State
+GJ,2024,Road Length,12813.2,Hours,State
+GJ,2024,NH Construction,7720.57,Million,State
+GJ,2024,Rail Freight,20079.66,%,State
+GJ,2024,Port Turnaround Time,3518.77,Million Tonnes,State
+GJ,2024,Airport Passenger Traffic,2197.96,Hours,State
+GJ,2024,Internet Penetration,20317.46,Million,State
+GJ,2025,Road Length,7307.08,Hours,State
+GJ,2025,NH Construction,20100.8,%,State
+GJ,2025,Rail Freight,17655.52,Million,State
+GJ,2025,Port Turnaround Time,15662.0,Hours,State
+GJ,2025,Airport Passenger Traffic,4304.58,Hours,State
+GJ,2025,Internet Penetration,23990.86,Million,State
+RJ,2005,Road Length,4943.92,Hours,State
+RJ,2005,NH Construction,20927.41,%,State
+RJ,2005,Rail Freight,15937.58,Million,State
+RJ,2005,Port Turnaround Time,14487.92,Hours,State
+RJ,2005,Airport Passenger Traffic,15147.39,Hours,State
+RJ,2005,Internet Penetration,19847.27,Hours,State
+RJ,2006,Road Length,17763.78,Hours,State
+RJ,2006,NH Construction,20987.46,%,State
+RJ,2006,Rail Freight,23062.58,KM,State
+RJ,2006,Port Turnaround Time,7675.62,Million,State
+RJ,2006,Airport Passenger Traffic,2903.5,Million Tonnes,State
+RJ,2006,Internet Penetration,7726.89,Million Tonnes,State
+RJ,2007,Road Length,1275.2,Hours,State
+RJ,2007,NH Construction,17011.15,Million,State
+RJ,2007,Rail Freight,5903.51,Hours,State
+RJ,2007,Port Turnaround Time,15777.75,%,State
+RJ,2007,Airport Passenger Traffic,7526.98,%,State
+RJ,2007,Internet Penetration,3567.43,Million,State
+RJ,2008,Road Length,13652.01,KM,State
+RJ,2008,NH Construction,1498.43,Million,State
+RJ,2008,Rail Freight,13236.33,%,State
+RJ,2008,Port Turnaround Time,13061.54,%,State
+RJ,2008,Airport Passenger Traffic,928.37,%,State
+RJ,2008,Internet Penetration,10454.95,Hours,State
+RJ,2009,Road Length,6324.32,KM,State
+RJ,2009,NH Construction,11336.54,KM,State
+RJ,2009,Rail Freight,14924.62,%,State
+RJ,2009,Port Turnaround Time,11752.71,%,State
+RJ,2009,Airport Passenger Traffic,19648.09,Hours,State
+RJ,2009,Internet Penetration,22386.91,Million Tonnes,State
+RJ,2010,Road Length,16253.8,KM,State
+RJ,2010,NH Construction,3520.31,Million Tonnes,State
+RJ,2010,Rail Freight,1246.97,Million,State
+RJ,2010,Port Turnaround Time,12870.58,Million Tonnes,State
+RJ,2010,Airport Passenger Traffic,18684.44,KM,State
+RJ,2010,Internet Penetration,24893.79,%,State
+RJ,2011,Road Length,6564.12,Hours,State
+RJ,2011,NH Construction,1462.84,KM,State
+RJ,2011,Rail Freight,10525.51,KM,State
+RJ,2011,Port Turnaround Time,2724.59,Hours,State
+RJ,2011,Airport Passenger Traffic,22883.54,Million Tonnes,State
+RJ,2011,Internet Penetration,4278.58,Hours,State
+RJ,2012,Road Length,1783.36,Million Tonnes,State
+RJ,2012,NH Construction,18097.34,KM,State
+RJ,2012,Rail Freight,17668.51,Million,State
+RJ,2012,Port Turnaround Time,12858.58,Million Tonnes,State
+RJ,2012,Airport Passenger Traffic,1917.79,Hours,State
+RJ,2012,Internet Penetration,15571.13,Million,State
+RJ,2013,Road Length,5939.04,Million,State
+RJ,2013,NH Construction,22954.24,Million Tonnes,State
+RJ,2013,Rail Freight,1440.38,Million Tonnes,State
+RJ,2013,Port Turnaround Time,6935.22,KM,State
+RJ,2013,Airport Passenger Traffic,9856.09,Million Tonnes,State
+RJ,2013,Internet Penetration,11359.84,KM,State
+RJ,2014,Road Length,11160.17,%,State
+RJ,2014,NH Construction,12771.46,Million Tonnes,State
+RJ,2014,Rail Freight,21664.29,Hours,State
+RJ,2014,Port Turnaround Time,889.89,Million Tonnes,State
+RJ,2014,Airport Passenger Traffic,11572.27,Hours,State
+RJ,2014,Internet Penetration,20220.89,Million Tonnes,State
+RJ,2015,Road Length,24673.71,Million Tonnes,State
+RJ,2015,NH Construction,13506.03,KM,State
+RJ,2015,Rail Freight,21452.51,Hours,State
+RJ,2015,Port Turnaround Time,6750.17,Million Tonnes,State
+RJ,2015,Airport Passenger Traffic,8704.93,Hours,State
+RJ,2015,Internet Penetration,8214.45,Million Tonnes,State
+RJ,2016,Road Length,5945.39,Hours,State
+RJ,2016,NH Construction,555.05,Million,State
+RJ,2016,Rail Freight,20705.34,KM,State
+RJ,2016,Port Turnaround Time,23789.78,KM,State
+RJ,2016,Airport Passenger Traffic,5915.83,Hours,State
+RJ,2016,Internet Penetration,10761.06,KM,State
+RJ,2017,Road Length,7354.89,Hours,State
+RJ,2017,NH Construction,9145.49,%,State
+RJ,2017,Rail Freight,21910.03,Million,State
+RJ,2017,Port Turnaround Time,20215.85,Hours,State
+RJ,2017,Airport Passenger Traffic,8320.88,Million Tonnes,State
+RJ,2017,Internet Penetration,21015.94,Million Tonnes,State
+RJ,2018,Road Length,7511.49,KM,State
+RJ,2018,NH Construction,7934.26,KM,State
+RJ,2018,Rail Freight,21123.44,Hours,State
+RJ,2018,Port Turnaround Time,15909.18,Hours,State
+RJ,2018,Airport Passenger Traffic,8224.43,Million Tonnes,State
+RJ,2018,Internet Penetration,22744.79,%,State
+RJ,2019,Road Length,1164.22,%,State
+RJ,2019,NH Construction,13661.31,%,State
+RJ,2019,Rail Freight,4379.73,KM,State
+RJ,2019,Port Turnaround Time,6249.33,%,State
+RJ,2019,Airport Passenger Traffic,3561.15,Hours,State
+RJ,2019,Internet Penetration,21363.18,Million Tonnes,State
+RJ,2020,Road Length,12843.33,KM,State
+RJ,2020,NH Construction,20926.88,Hours,State
+RJ,2020,Rail Freight,458.09,Hours,State
+RJ,2020,Port Turnaround Time,22215.96,Million,State
+RJ,2020,Airport Passenger Traffic,15187.56,Million,State
+RJ,2020,Internet Penetration,7295.32,%,State
+RJ,2021,Road Length,9893.68,Hours,State
+RJ,2021,NH Construction,17553.29,Million Tonnes,State
+RJ,2021,Rail Freight,7826.68,%,State
+RJ,2021,Port Turnaround Time,20762.55,KM,State
+RJ,2021,Airport Passenger Traffic,16173.81,%,State
+RJ,2021,Internet Penetration,10097.29,Hours,State
+RJ,2022,Road Length,9496.34,%,State
+RJ,2022,NH Construction,4730.44,Million Tonnes,State
+RJ,2022,Rail Freight,5326.45,Million,State
+RJ,2022,Port Turnaround Time,24243.44,KM,State
+RJ,2022,Airport Passenger Traffic,1173.19,%,State
+RJ,2022,Internet Penetration,21337.87,Hours,State
+RJ,2023,Road Length,23699.71,%,State
+RJ,2023,NH Construction,12641.85,Million Tonnes,State
+RJ,2023,Rail Freight,2806.2,%,State
+RJ,2023,Port Turnaround Time,8630.52,Hours,State
+RJ,2023,Airport Passenger Traffic,4881.2,Million Tonnes,State
+RJ,2023,Internet Penetration,11312.03,KM,State
+RJ,2024,Road Length,22949.42,Hours,State
+RJ,2024,NH Construction,20665.93,Million Tonnes,State
+RJ,2024,Rail Freight,23109.42,KM,State
+RJ,2024,Port Turnaround Time,8436.25,Million,State
+RJ,2024,Airport Passenger Traffic,15927.57,Million Tonnes,State
+RJ,2024,Internet Penetration,3797.82,Million Tonnes,State
+RJ,2025,Road Length,17251.38,%,State
+RJ,2025,NH Construction,9614.88,KM,State
+RJ,2025,Rail Freight,10707.34,Hours,State
+RJ,2025,Port Turnaround Time,6013.33,Million Tonnes,State
+RJ,2025,Airport Passenger Traffic,14153.44,Million,State
+RJ,2025,Internet Penetration,15063.54,KM,State
+UP,2005,Road Length,13199.45,Hours,State
+UP,2005,NH Construction,17845.37,Hours,State
+UP,2005,Rail Freight,20043.37,Million Tonnes,State
+UP,2005,Port Turnaround Time,9517.79,Million Tonnes,State
+UP,2005,Airport Passenger Traffic,22103.73,KM,State
+UP,2005,Internet Penetration,17128.37,Million Tonnes,State
+UP,2006,Road Length,7970.92,Million Tonnes,State
+UP,2006,NH Construction,18159.65,Hours,State
+UP,2006,Rail Freight,2268.07,KM,State
+UP,2006,Port Turnaround Time,2106.46,KM,State
+UP,2006,Airport Passenger Traffic,2335.01,%,State
+UP,2006,Internet Penetration,21238.2,KM,State
+UP,2007,Road Length,6214.21,KM,State
+UP,2007,NH Construction,8636.69,KM,State
+UP,2007,Rail Freight,4126.19,Million Tonnes,State
+UP,2007,Port Turnaround Time,18565.0,%,State
+UP,2007,Airport Passenger Traffic,11149.91,%,State
+UP,2007,Internet Penetration,13894.43,%,State
+UP,2008,Road Length,21927.68,Million Tonnes,State
+UP,2008,NH Construction,4239.11,%,State
+UP,2008,Rail Freight,15024.39,KM,State
+UP,2008,Port Turnaround Time,9364.85,KM,State
+UP,2008,Airport Passenger Traffic,2961.17,Million,State
+UP,2008,Internet Penetration,23806.35,Million,State
+UP,2009,Road Length,14619.88,Hours,State
+UP,2009,NH Construction,1457.35,%,State
+UP,2009,Rail Freight,6500.86,Million,State
+UP,2009,Port Turnaround Time,5751.77,Hours,State
+UP,2009,Airport Passenger Traffic,2269.02,Million Tonnes,State
+UP,2009,Internet Penetration,10651.88,Million Tonnes,State
+UP,2010,Road Length,6617.6,KM,State
+UP,2010,NH Construction,11176.83,%,State
+UP,2010,Rail Freight,4839.39,KM,State
+UP,2010,Port Turnaround Time,22747.76,KM,State
+UP,2010,Airport Passenger Traffic,7550.88,Million,State
+UP,2010,Internet Penetration,20313.99,Hours,State
+UP,2011,Road Length,10898.99,Million Tonnes,State
+UP,2011,NH Construction,9145.06,Million,State
+UP,2011,Rail Freight,19802.98,Million,State
+UP,2011,Port Turnaround Time,20146.92,%,State
+UP,2011,Airport Passenger Traffic,18646.14,KM,State
+UP,2011,Internet Penetration,1376.46,Million Tonnes,State
+UP,2012,Road Length,1656.42,Million Tonnes,State
+UP,2012,NH Construction,14627.2,Million,State
+UP,2012,Rail Freight,15518.19,Million,State
+UP,2012,Port Turnaround Time,4741.85,KM,State
+UP,2012,Airport Passenger Traffic,5556.24,Million Tonnes,State
+UP,2012,Internet Penetration,5181.2,KM,State
+UP,2013,Road Length,18740.36,%,State
+UP,2013,NH Construction,9574.0,Hours,State
+UP,2013,Rail Freight,24185.05,%,State
+UP,2013,Port Turnaround Time,9954.86,Million Tonnes,State
+UP,2013,Airport Passenger Traffic,10734.92,KM,State
+UP,2013,Internet Penetration,22459.08,Million,State
+UP,2014,Road Length,13437.3,Million Tonnes,State
+UP,2014,NH Construction,16701.62,%,State
+UP,2014,Rail Freight,5228.9,Million,State
+UP,2014,Port Turnaround Time,1439.17,Million Tonnes,State
+UP,2014,Airport Passenger Traffic,24434.37,%,State
+UP,2014,Internet Penetration,16616.44,Million,State
+UP,2015,Road Length,18480.39,Million,State
+UP,2015,NH Construction,18230.1,Hours,State
+UP,2015,Rail Freight,12359.82,Million Tonnes,State
+UP,2015,Port Turnaround Time,21403.22,Hours,State
+UP,2015,Airport Passenger Traffic,8606.86,%,State
+UP,2015,Internet Penetration,12940.35,%,State
+UP,2016,Road Length,22445.19,Million Tonnes,State
+UP,2016,NH Construction,8263.29,Hours,State
+UP,2016,Rail Freight,15391.92,%,State
+UP,2016,Port Turnaround Time,9901.52,Hours,State
+UP,2016,Airport Passenger Traffic,8566.11,Hours,State
+UP,2016,Internet Penetration,21300.0,%,State
+UP,2017,Road Length,19442.28,Hours,State
+UP,2017,NH Construction,17041.57,Hours,State
+UP,2017,Rail Freight,4220.94,%,State
+UP,2017,Port Turnaround Time,13430.16,Hours,State
+UP,2017,Airport Passenger Traffic,4992.53,KM,State
+UP,2017,Internet Penetration,13000.12,%,State
+UP,2018,Road Length,20929.62,Million Tonnes,State
+UP,2018,NH Construction,16706.49,Hours,State
+UP,2018,Rail Freight,7726.07,Million Tonnes,State
+UP,2018,Port Turnaround Time,23261.11,Million,State
+UP,2018,Airport Passenger Traffic,2408.6,Million Tonnes,State
+UP,2018,Internet Penetration,1415.38,Million Tonnes,State
+UP,2019,Road Length,2624.36,Hours,State
+UP,2019,NH Construction,7639.1,Hours,State
+UP,2019,Rail Freight,12108.62,Million,State
+UP,2019,Port Turnaround Time,4447.29,Million Tonnes,State
+UP,2019,Airport Passenger Traffic,9555.46,KM,State
+UP,2019,Internet Penetration,24248.49,%,State
+UP,2020,Road Length,3190.27,Million,State
+UP,2020,NH Construction,19079.08,Million Tonnes,State
+UP,2020,Rail Freight,4676.24,%,State
+UP,2020,Port Turnaround Time,16700.47,KM,State
+UP,2020,Airport Passenger Traffic,15101.48,KM,State
+UP,2020,Internet Penetration,10256.45,Million Tonnes,State
+UP,2021,Road Length,8427.62,%,State
+UP,2021,NH Construction,18227.51,%,State
+UP,2021,Rail Freight,20148.84,Million,State
+UP,2021,Port Turnaround Time,2215.66,Million,State
+UP,2021,Airport Passenger Traffic,12716.48,Million Tonnes,State
+UP,2021,Internet Penetration,6991.18,%,State
+UP,2022,Road Length,3507.44,Million,State
+UP,2022,NH Construction,23073.86,KM,State
+UP,2022,Rail Freight,8264.31,%,State
+UP,2022,Port Turnaround Time,11921.75,Million,State
+UP,2022,Airport Passenger Traffic,21320.09,Million Tonnes,State
+UP,2022,Internet Penetration,1336.57,Hours,State
+UP,2023,Road Length,18542.52,Hours,State
+UP,2023,NH Construction,2226.54,%,State
+UP,2023,Rail Freight,12998.46,%,State
+UP,2023,Port Turnaround Time,7105.63,KM,State
+UP,2023,Airport Passenger Traffic,10785.82,Million,State
+UP,2023,Internet Penetration,2743.39,Million,State
+UP,2024,Road Length,6071.52,Hours,State
+UP,2024,NH Construction,6458.3,KM,State
+UP,2024,Rail Freight,19241.8,Million Tonnes,State
+UP,2024,Port Turnaround Time,14462.52,Hours,State
+UP,2024,Airport Passenger Traffic,19819.2,KM,State
+UP,2024,Internet Penetration,1413.32,%,State
+UP,2025,Road Length,18004.98,KM,State
+UP,2025,NH Construction,21115.44,Million Tonnes,State
+UP,2025,Rail Freight,2604.01,%,State
+UP,2025,Port Turnaround Time,1094.07,Hours,State
+UP,2025,Airport Passenger Traffic,21533.89,%,State
+UP,2025,Internet Penetration,14315.59,%,State
+BR,2005,Road Length,22131.72,%,State
+BR,2005,NH Construction,2577.42,Million,State
+BR,2005,Rail Freight,24832.3,Million Tonnes,State
+BR,2005,Port Turnaround Time,24254.85,Million,State
+BR,2005,Airport Passenger Traffic,12964.03,%,State
+BR,2005,Internet Penetration,17551.56,Million,State
+BR,2006,Road Length,21219.72,Million Tonnes,State
+BR,2006,NH Construction,11445.67,Hours,State
+BR,2006,Rail Freight,5116.45,Hours,State
+BR,2006,Port Turnaround Time,7119.77,KM,State
+BR,2006,Airport Passenger Traffic,2481.45,Million Tonnes,State
+BR,2006,Internet Penetration,1499.98,Million Tonnes,State
+BR,2007,Road Length,22828.74,%,State
+BR,2007,NH Construction,4198.52,%,State
+BR,2007,Rail Freight,8002.98,Hours,State
+BR,2007,Port Turnaround Time,21316.01,Hours,State
+BR,2007,Airport Passenger Traffic,2648.94,Million,State
+BR,2007,Internet Penetration,22665.21,Million,State
+BR,2008,Road Length,24095.76,%,State
+BR,2008,NH Construction,21530.63,Million,State
+BR,2008,Rail Freight,2084.91,%,State
+BR,2008,Port Turnaround Time,9912.84,Million Tonnes,State
+BR,2008,Airport Passenger Traffic,14434.06,Million,State
+BR,2008,Internet Penetration,20070.75,%,State
+BR,2009,Road Length,13479.78,Hours,State
+BR,2009,NH Construction,22491.3,%,State
+BR,2009,Rail Freight,6861.61,Million Tonnes,State
+BR,2009,Port Turnaround Time,21139.77,Million,State
+BR,2009,Airport Passenger Traffic,16942.32,Million,State
+BR,2009,Internet Penetration,18935.63,KM,State
+BR,2010,Road Length,5305.02,Million,State
+BR,2010,NH Construction,15453.89,%,State
+BR,2010,Rail Freight,24888.22,%,State
+BR,2010,Port Turnaround Time,11767.07,%,State
+BR,2010,Airport Passenger Traffic,11126.45,%,State
+BR,2010,Internet Penetration,3345.79,%,State
+BR,2011,Road Length,24646.51,%,State
+BR,2011,NH Construction,8015.83,Million,State
+BR,2011,Rail Freight,11201.06,%,State
+BR,2011,Port Turnaround Time,7615.05,KM,State
+BR,2011,Airport Passenger Traffic,2258.99,Million,State
+BR,2011,Internet Penetration,10135.48,Million,State
+BR,2012,Road Length,9760.52,Hours,State
+BR,2012,NH Construction,3429.02,Million Tonnes,State
+BR,2012,Rail Freight,18810.44,Million Tonnes,State
+BR,2012,Port Turnaround Time,12254.13,Million Tonnes,State
+BR,2012,Airport Passenger Traffic,9148.76,Million Tonnes,State
+BR,2012,Internet Penetration,10773.24,%,State
+BR,2013,Road Length,8371.1,KM,State
+BR,2013,NH Construction,19156.38,Hours,State
+BR,2013,Rail Freight,5199.58,KM,State
+BR,2013,Port Turnaround Time,5966.15,%,State
+BR,2013,Airport Passenger Traffic,10038.24,Hours,State
+BR,2013,Internet Penetration,5166.85,Million,State
+BR,2014,Road Length,22971.19,Million,State
+BR,2014,NH Construction,24417.78,Million,State
+BR,2014,Rail Freight,6051.46,%,State
+BR,2014,Port Turnaround Time,10919.82,%,State
+BR,2014,Airport Passenger Traffic,21277.56,Hours,State
+BR,2014,Internet Penetration,23697.39,KM,State
+BR,2015,Road Length,8222.89,KM,State
+BR,2015,NH Construction,14867.1,%,State
+BR,2015,Rail Freight,15244.46,%,State
+BR,2015,Port Turnaround Time,6139.35,Million,State
+BR,2015,Airport Passenger Traffic,5785.45,Million,State
+BR,2015,Internet Penetration,5836.63,Million Tonnes,State
+BR,2016,Road Length,11910.29,Million Tonnes,State
+BR,2016,NH Construction,3044.14,Hours,State
+BR,2016,Rail Freight,1529.06,Hours,State
+BR,2016,Port Turnaround Time,14472.68,Million Tonnes,State
+BR,2016,Airport Passenger Traffic,14985.42,Million,State
+BR,2016,Internet Penetration,17557.33,KM,State
+BR,2017,Road Length,14673.89,Million Tonnes,State
+BR,2017,NH Construction,23356.05,Hours,State
+BR,2017,Rail Freight,12910.79,KM,State
+BR,2017,Port Turnaround Time,17959.82,KM,State
+BR,2017,Airport Passenger Traffic,19965.34,Hours,State
+BR,2017,Internet Penetration,11476.51,Million,State
+BR,2018,Road Length,11939.04,Hours,State
+BR,2018,NH Construction,17459.44,Million Tonnes,State
+BR,2018,Rail Freight,21587.69,Million,State
+BR,2018,Port Turnaround Time,1811.97,%,State
+BR,2018,Airport Passenger Traffic,10487.39,Million,State
+BR,2018,Internet Penetration,5179.47,%,State
+BR,2019,Road Length,1648.91,Million,State
+BR,2019,NH Construction,7853.41,%,State
+BR,2019,Rail Freight,7342.83,Million Tonnes,State
+BR,2019,Port Turnaround Time,21002.39,Hours,State
+BR,2019,Airport Passenger Traffic,7692.09,Million Tonnes,State
+BR,2019,Internet Penetration,4474.24,Million,State
+BR,2020,Road Length,7516.7,Million,State
+BR,2020,NH Construction,24334.2,Million,State
+BR,2020,Rail Freight,5764.29,Million,State
+BR,2020,Port Turnaround Time,1975.01,Hours,State
+BR,2020,Airport Passenger Traffic,23504.12,%,State
+BR,2020,Internet Penetration,277.84,Million Tonnes,State
+BR,2021,Road Length,8297.84,%,State
+BR,2021,NH Construction,11310.88,Million Tonnes,State
+BR,2021,Rail Freight,17770.82,Million,State
+BR,2021,Port Turnaround Time,17669.82,%,State
+BR,2021,Airport Passenger Traffic,2507.69,Million,State
+BR,2021,Internet Penetration,24039.22,%,State
+BR,2022,Road Length,19170.12,KM,State
+BR,2022,NH Construction,643.98,%,State
+BR,2022,Rail Freight,584.26,Million,State
+BR,2022,Port Turnaround Time,15186.83,Hours,State
+BR,2022,Airport Passenger Traffic,774.96,Million,State
+BR,2022,Internet Penetration,14092.19,%,State
+BR,2023,Road Length,19071.06,KM,State
+BR,2023,NH Construction,14253.96,Hours,State
+BR,2023,Rail Freight,13435.01,Million Tonnes,State
+BR,2023,Port Turnaround Time,6346.75,KM,State
+BR,2023,Airport Passenger Traffic,22358.94,Million Tonnes,State
+BR,2023,Internet Penetration,12236.42,Million,State
+BR,2024,Road Length,23180.0,Million,State
+BR,2024,NH Construction,11375.34,KM,State
+BR,2024,Rail Freight,23975.91,%,State
+BR,2024,Port Turnaround Time,14537.76,KM,State
+BR,2024,Airport Passenger Traffic,7047.31,KM,State
+BR,2024,Internet Penetration,24969.94,Hours,State
+BR,2025,Road Length,20532.74,Hours,State
+BR,2025,NH Construction,2156.05,Hours,State
+BR,2025,Rail Freight,18277.04,%,State
+BR,2025,Port Turnaround Time,12810.46,Million,State
+BR,2025,Airport Passenger Traffic,7979.78,%,State
+BR,2025,Internet Penetration,21755.06,Hours,State
+MP,2005,Road Length,6541.9,KM,State
+MP,2005,NH Construction,22748.93,KM,State
+MP,2005,Rail Freight,15667.88,Hours,State
+MP,2005,Port Turnaround Time,23714.4,Million Tonnes,State
+MP,2005,Airport Passenger Traffic,24022.58,Million,State
+MP,2005,Internet Penetration,19726.2,Hours,State
+MP,2006,Road Length,6515.04,Million,State
+MP,2006,NH Construction,18742.59,%,State
+MP,2006,Rail Freight,24886.0,%,State
+MP,2006,Port Turnaround Time,23900.49,KM,State
+MP,2006,Airport Passenger Traffic,22077.12,%,State
+MP,2006,Internet Penetration,1487.1,KM,State
+MP,2007,Road Length,21347.6,Million,State
+MP,2007,NH Construction,21140.8,%,State
+MP,2007,Rail Freight,5758.8,Hours,State
+MP,2007,Port Turnaround Time,2683.53,%,State
+MP,2007,Airport Passenger Traffic,12927.66,KM,State
+MP,2007,Internet Penetration,16733.28,Million Tonnes,State
+MP,2008,Road Length,9337.25,Hours,State
+MP,2008,NH Construction,4344.52,KM,State
+MP,2008,Rail Freight,22403.59,Million,State
+MP,2008,Port Turnaround Time,6067.18,Million,State
+MP,2008,Airport Passenger Traffic,12155.91,%,State
+MP,2008,Internet Penetration,12895.28,Hours,State
+MP,2009,Road Length,8617.53,Million,State
+MP,2009,NH Construction,17666.7,%,State
+MP,2009,Rail Freight,5687.14,KM,State
+MP,2009,Port Turnaround Time,5976.32,Hours,State
+MP,2009,Airport Passenger Traffic,326.27,Million,State
+MP,2009,Internet Penetration,12870.29,Hours,State
+MP,2010,Road Length,17703.21,Hours,State
+MP,2010,NH Construction,3572.31,%,State
+MP,2010,Rail Freight,6179.27,Million Tonnes,State
+MP,2010,Port Turnaround Time,9363.88,Million Tonnes,State
+MP,2010,Airport Passenger Traffic,3372.17,Hours,State
+MP,2010,Internet Penetration,9922.54,Hours,State
+MP,2011,Road Length,17982.38,Hours,State
+MP,2011,NH Construction,23957.64,%,State
+MP,2011,Rail Freight,12897.49,Million,State
+MP,2011,Port Turnaround Time,20952.49,KM,State
+MP,2011,Airport Passenger Traffic,22236.4,Million Tonnes,State
+MP,2011,Internet Penetration,13199.74,Million,State
+MP,2012,Road Length,5834.95,Million,State
+MP,2012,NH Construction,20561.64,KM,State
+MP,2012,Rail Freight,8901.48,KM,State
+MP,2012,Port Turnaround Time,1293.06,Million Tonnes,State
+MP,2012,Airport Passenger Traffic,8086.27,Million Tonnes,State
+MP,2012,Internet Penetration,269.23,Million,State
+MP,2013,Road Length,24375.12,Million Tonnes,State
+MP,2013,NH Construction,19506.19,Million,State
+MP,2013,Rail Freight,24585.19,Million,State
+MP,2013,Port Turnaround Time,10187.19,KM,State
+MP,2013,Airport Passenger Traffic,17928.02,Million,State
+MP,2013,Internet Penetration,9584.17,Million Tonnes,State
+MP,2014,Road Length,1695.96,%,State
+MP,2014,NH Construction,18515.57,Million Tonnes,State
+MP,2014,Rail Freight,21056.39,Million Tonnes,State
+MP,2014,Port Turnaround Time,10493.05,Hours,State
+MP,2014,Airport Passenger Traffic,23451.86,Million Tonnes,State
+MP,2014,Internet Penetration,3063.63,%,State
+MP,2015,Road Length,5057.43,KM,State
+MP,2015,NH Construction,15543.85,Million Tonnes,State
+MP,2015,Rail Freight,3228.52,KM,State
+MP,2015,Port Turnaround Time,6851.44,Hours,State
+MP,2015,Airport Passenger Traffic,10337.49,Million Tonnes,State
+MP,2015,Internet Penetration,284.06,%,State
+MP,2016,Road Length,9230.3,Million,State
+MP,2016,NH Construction,21802.49,Hours,State
+MP,2016,Rail Freight,20023.43,KM,State
+MP,2016,Port Turnaround Time,7651.75,Hours,State
+MP,2016,Airport Passenger Traffic,6743.18,Million,State
+MP,2016,Internet Penetration,10862.55,%,State
+MP,2017,Road Length,21472.24,%,State
+MP,2017,NH Construction,9055.92,KM,State
+MP,2017,Rail Freight,4653.33,KM,State
+MP,2017,Port Turnaround Time,1616.55,KM,State
+MP,2017,Airport Passenger Traffic,24824.29,%,State
+MP,2017,Internet Penetration,10288.65,Million,State
+MP,2018,Road Length,4483.02,Hours,State
+MP,2018,NH Construction,19179.51,Hours,State
+MP,2018,Rail Freight,20309.51,Hours,State
+MP,2018,Port Turnaround Time,20420.7,Million,State
+MP,2018,Airport Passenger Traffic,18202.76,Million,State
+MP,2018,Internet Penetration,21309.58,%,State
+MP,2019,Road Length,5706.51,%,State
+MP,2019,NH Construction,14267.68,%,State
+MP,2019,Rail Freight,22885.95,KM,State
+MP,2019,Port Turnaround Time,9980.05,%,State
+MP,2019,Airport Passenger Traffic,151.71,%,State
+MP,2019,Internet Penetration,13005.17,%,State
+MP,2020,Road Length,14275.69,Million Tonnes,State
+MP,2020,NH Construction,17890.05,Hours,State
+MP,2020,Rail Freight,1374.02,Hours,State
+MP,2020,Port Turnaround Time,11286.78,%,State
+MP,2020,Airport Passenger Traffic,7824.86,KM,State
+MP,2020,Internet Penetration,3202.87,Million,State
+MP,2021,Road Length,8137.96,Million Tonnes,State
+MP,2021,NH Construction,11209.64,Million,State
+MP,2021,Rail Freight,3418.78,KM,State
+MP,2021,Port Turnaround Time,11431.38,%,State
+MP,2021,Airport Passenger Traffic,7672.68,Million Tonnes,State
+MP,2021,Internet Penetration,22503.6,Million,State
+MP,2022,Road Length,2937.75,Million,State
+MP,2022,NH Construction,1065.05,%,State
+MP,2022,Rail Freight,19142.93,KM,State
+MP,2022,Port Turnaround Time,11513.25,%,State
+MP,2022,Airport Passenger Traffic,955.98,%,State
+MP,2022,Internet Penetration,21667.97,Hours,State
+MP,2023,Road Length,7387.11,Million Tonnes,State
+MP,2023,NH Construction,6701.32,Hours,State
+MP,2023,Rail Freight,17321.92,Million Tonnes,State
+MP,2023,Port Turnaround Time,5586.15,Hours,State
+MP,2023,Airport Passenger Traffic,12264.71,Million Tonnes,State
+MP,2023,Internet Penetration,13251.91,KM,State
+MP,2024,Road Length,6751.89,%,State
+MP,2024,NH Construction,16273.94,%,State
+MP,2024,Rail Freight,3314.25,Million,State
+MP,2024,Port Turnaround Time,15688.76,Hours,State
+MP,2024,Airport Passenger Traffic,7962.01,%,State
+MP,2024,Internet Penetration,1327.79,Million Tonnes,State
+MP,2025,Road Length,22495.37,Hours,State
+MP,2025,NH Construction,9687.95,Million,State
+MP,2025,Rail Freight,15298.36,Million Tonnes,State
+MP,2025,Port Turnaround Time,12724.29,Hours,State
+MP,2025,Airport Passenger Traffic,18424.42,%,State
+MP,2025,Internet Penetration,21469.35,Million Tonnes,State
+WB,2005,Road Length,8589.95,Million,State
+WB,2005,NH Construction,11653.61,%,State
+WB,2005,Rail Freight,23273.74,KM,State
+WB,2005,Port Turnaround Time,24955.18,Hours,State
+WB,2005,Airport Passenger Traffic,18160.63,%,State
+WB,2005,Internet Penetration,10256.61,Million Tonnes,State
+WB,2006,Road Length,1725.39,Hours,State
+WB,2006,NH Construction,17055.74,Hours,State
+WB,2006,Rail Freight,16218.82,Hours,State
+WB,2006,Port Turnaround Time,13525.86,Million,State
+WB,2006,Airport Passenger Traffic,24563.82,KM,State
+WB,2006,Internet Penetration,18819.69,Million,State
+WB,2007,Road Length,1094.7,Hours,State
+WB,2007,NH Construction,2515.75,Million,State
+WB,2007,Rail Freight,14858.13,Million Tonnes,State
+WB,2007,Port Turnaround Time,1472.03,Million Tonnes,State
+WB,2007,Airport Passenger Traffic,11644.19,%,State
+WB,2007,Internet Penetration,23677.32,Million Tonnes,State
+WB,2008,Road Length,7860.16,%,State
+WB,2008,NH Construction,1744.78,KM,State
+WB,2008,Rail Freight,24528.02,%,State
+WB,2008,Port Turnaround Time,8946.57,%,State
+WB,2008,Airport Passenger Traffic,18763.68,Million Tonnes,State
+WB,2008,Internet Penetration,17911.53,Million,State
+WB,2009,Road Length,1521.65,%,State
+WB,2009,NH Construction,3218.76,Hours,State
+WB,2009,Rail Freight,2652.98,%,State
+WB,2009,Port Turnaround Time,3578.34,%,State
+WB,2009,Airport Passenger Traffic,11281.04,Hours,State
+WB,2009,Internet Penetration,2016.53,Hours,State
+WB,2010,Road Length,20549.36,Million Tonnes,State
+WB,2010,NH Construction,14361.74,KM,State
+WB,2010,Rail Freight,21940.3,KM,State
+WB,2010,Port Turnaround Time,13809.21,%,State
+WB,2010,Airport Passenger Traffic,6431.05,%,State
+WB,2010,Internet Penetration,19024.87,Million,State
+WB,2011,Road Length,12899.18,Million Tonnes,State
+WB,2011,NH Construction,8625.64,KM,State
+WB,2011,Rail Freight,2374.7,Million Tonnes,State
+WB,2011,Port Turnaround Time,18852.66,Million,State
+WB,2011,Airport Passenger Traffic,4786.98,%,State
+WB,2011,Internet Penetration,1519.36,KM,State
+WB,2012,Road Length,21024.67,Million,State
+WB,2012,NH Construction,2826.33,%,State
+WB,2012,Rail Freight,8235.8,KM,State
+WB,2012,Port Turnaround Time,7173.05,Hours,State
+WB,2012,Airport Passenger Traffic,6927.9,Million Tonnes,State
+WB,2012,Internet Penetration,11074.4,KM,State
+WB,2013,Road Length,15678.68,Million,State
+WB,2013,NH Construction,17918.96,%,State
+WB,2013,Rail Freight,16913.25,Million Tonnes,State
+WB,2013,Port Turnaround Time,8876.78,Hours,State
+WB,2013,Airport Passenger Traffic,17377.19,Million Tonnes,State
+WB,2013,Internet Penetration,16937.27,%,State
+WB,2014,Road Length,15531.72,Million Tonnes,State
+WB,2014,NH Construction,12869.6,KM,State
+WB,2014,Rail Freight,2730.69,Hours,State
+WB,2014,Port Turnaround Time,15096.18,Million Tonnes,State
+WB,2014,Airport Passenger Traffic,15495.3,Million Tonnes,State
+WB,2014,Internet Penetration,1862.71,Million Tonnes,State
+WB,2015,Road Length,20878.01,Million,State
+WB,2015,NH Construction,16853.51,Million,State
+WB,2015,Rail Freight,21286.23,Million,State
+WB,2015,Port Turnaround Time,16047.14,KM,State
+WB,2015,Airport Passenger Traffic,10856.54,%,State
+WB,2015,Internet Penetration,932.25,KM,State
+WB,2016,Road Length,4245.94,Hours,State
+WB,2016,NH Construction,5521.45,Million,State
+WB,2016,Rail Freight,1297.17,%,State
+WB,2016,Port Turnaround Time,5371.69,Million Tonnes,State
+WB,2016,Airport Passenger Traffic,18998.52,Million,State
+WB,2016,Internet Penetration,5634.84,Hours,State
+WB,2017,Road Length,16183.6,KM,State
+WB,2017,NH Construction,8834.36,KM,State
+WB,2017,Rail Freight,18895.2,Hours,State
+WB,2017,Port Turnaround Time,22799.66,%,State
+WB,2017,Airport Passenger Traffic,10196.24,Million Tonnes,State
+WB,2017,Internet Penetration,157.85,Million Tonnes,State
+WB,2018,Road Length,7440.95,Million Tonnes,State
+WB,2018,NH Construction,1480.59,Hours,State
+WB,2018,Rail Freight,11499.34,Million,State
+WB,2018,Port Turnaround Time,6715.57,Million Tonnes,State
+WB,2018,Airport Passenger Traffic,4997.01,Million Tonnes,State
+WB,2018,Internet Penetration,22683.94,Million,State
+WB,2019,Road Length,13687.15,%,State
+WB,2019,NH Construction,23648.31,Million,State
+WB,2019,Rail Freight,13070.06,Million,State
+WB,2019,Port Turnaround Time,4788.73,Million,State
+WB,2019,Airport Passenger Traffic,3682.31,KM,State
+WB,2019,Internet Penetration,12918.13,Hours,State
+WB,2020,Road Length,19909.9,Hours,State
+WB,2020,NH Construction,3344.98,Hours,State
+WB,2020,Rail Freight,18367.71,%,State
+WB,2020,Port Turnaround Time,2530.49,Million,State
+WB,2020,Airport Passenger Traffic,2260.9,Million,State
+WB,2020,Internet Penetration,20554.63,Million Tonnes,State
+WB,2021,Road Length,3202.92,Million Tonnes,State
+WB,2021,NH Construction,13478.16,%,State
+WB,2021,Rail Freight,5535.75,Million,State
+WB,2021,Port Turnaround Time,15755.48,%,State
+WB,2021,Airport Passenger Traffic,1071.26,%,State
+WB,2021,Internet Penetration,10831.49,Million,State
+WB,2022,Road Length,14280.48,KM,State
+WB,2022,NH Construction,10677.11,KM,State
+WB,2022,Rail Freight,4174.04,Million,State
+WB,2022,Port Turnaround Time,270.33,Hours,State
+WB,2022,Airport Passenger Traffic,17172.73,Million Tonnes,State
+WB,2022,Internet Penetration,17198.3,Hours,State
+WB,2023,Road Length,19984.04,Hours,State
+WB,2023,NH Construction,5667.95,Hours,State
+WB,2023,Rail Freight,22763.88,Million,State
+WB,2023,Port Turnaround Time,15802.82,Million,State
+WB,2023,Airport Passenger Traffic,7828.24,KM,State
+WB,2023,Internet Penetration,2548.79,Million Tonnes,State
+WB,2024,Road Length,23518.38,%,State
+WB,2024,NH Construction,21881.12,KM,State
+WB,2024,Rail Freight,15640.42,Million,State
+WB,2024,Port Turnaround Time,1775.39,KM,State
+WB,2024,Airport Passenger Traffic,6858.63,%,State
+WB,2024,Internet Penetration,15866.15,KM,State
+WB,2025,Road Length,6503.09,Million Tonnes,State
+WB,2025,NH Construction,800.23,%,State
+WB,2025,Rail Freight,7558.95,Million Tonnes,State
+WB,2025,Port Turnaround Time,3737.8,Million,State
+WB,2025,Airport Passenger Traffic,22463.85,Hours,State
+WB,2025,Internet Penetration,16341.8,Hours,State
+OD,2005,Road Length,21726.97,Million Tonnes,State
+OD,2005,NH Construction,2775.52,%,State
+OD,2005,Rail Freight,14531.96,Million Tonnes,State
+OD,2005,Port Turnaround Time,6813.79,Million Tonnes,State
+OD,2005,Airport Passenger Traffic,275.37,KM,State
+OD,2005,Internet Penetration,5364.64,Million,State
+OD,2006,Road Length,10401.28,KM,State
+OD,2006,NH Construction,24139.67,%,State
+OD,2006,Rail Freight,2190.67,Million Tonnes,State
+OD,2006,Port Turnaround Time,19898.25,%,State
+OD,2006,Airport Passenger Traffic,24438.21,KM,State
+OD,2006,Internet Penetration,1637.88,KM,State
+OD,2007,Road Length,7555.64,Million Tonnes,State
+OD,2007,NH Construction,6865.77,Hours,State
+OD,2007,Rail Freight,5173.51,%,State
+OD,2007,Port Turnaround Time,2301.08,Million Tonnes,State
+OD,2007,Airport Passenger Traffic,10045.86,Hours,State
+OD,2007,Internet Penetration,15779.12,KM,State
+OD,2008,Road Length,17753.21,Million,State
+OD,2008,NH Construction,3529.58,KM,State
+OD,2008,Rail Freight,561.43,KM,State
+OD,2008,Port Turnaround Time,16482.94,Million,State
+OD,2008,Airport Passenger Traffic,19683.99,Million Tonnes,State
+OD,2008,Internet Penetration,7716.78,%,State
+OD,2009,Road Length,11202.58,Million,State
+OD,2009,NH Construction,15317.42,Hours,State
+OD,2009,Rail Freight,9084.08,Million Tonnes,State
+OD,2009,Port Turnaround Time,15968.82,Hours,State
+OD,2009,Airport Passenger Traffic,24905.99,Million Tonnes,State
+OD,2009,Internet Penetration,15909.75,%,State
+OD,2010,Road Length,8684.77,Million,State
+OD,2010,NH Construction,14925.83,Million Tonnes,State
+OD,2010,Rail Freight,20358.86,Million,State
+OD,2010,Port Turnaround Time,15147.18,Million Tonnes,State
+OD,2010,Airport Passenger Traffic,10492.84,%,State
+OD,2010,Internet Penetration,15706.59,Million,State
+OD,2011,Road Length,515.12,%,State
+OD,2011,NH Construction,5988.23,Million Tonnes,State
+OD,2011,Rail Freight,8697.09,%,State
+OD,2011,Port Turnaround Time,8068.4,Million Tonnes,State
+OD,2011,Airport Passenger Traffic,4146.53,KM,State
+OD,2011,Internet Penetration,4889.42,KM,State
+OD,2012,Road Length,16642.05,Hours,State
+OD,2012,NH Construction,19082.79,Hours,State
+OD,2012,Rail Freight,314.61,Million Tonnes,State
+OD,2012,Port Turnaround Time,10938.79,Hours,State
+OD,2012,Airport Passenger Traffic,12998.58,Million Tonnes,State
+OD,2012,Internet Penetration,18788.55,Million,State
+OD,2013,Road Length,17979.9,Hours,State
+OD,2013,NH Construction,21961.66,KM,State
+OD,2013,Rail Freight,5902.17,Million Tonnes,State
+OD,2013,Port Turnaround Time,4529.31,%,State
+OD,2013,Airport Passenger Traffic,11060.49,%,State
+OD,2013,Internet Penetration,20765.5,Million Tonnes,State
+OD,2014,Road Length,14981.05,%,State
+OD,2014,NH Construction,826.33,Hours,State
+OD,2014,Rail Freight,11257.33,Hours,State
+OD,2014,Port Turnaround Time,17558.49,%,State
+OD,2014,Airport Passenger Traffic,15707.39,%,State
+OD,2014,Internet Penetration,24891.56,Million Tonnes,State
+OD,2015,Road Length,11093.45,KM,State
+OD,2015,NH Construction,14189.71,KM,State
+OD,2015,Rail Freight,21737.08,Million Tonnes,State
+OD,2015,Port Turnaround Time,11333.14,Million Tonnes,State
+OD,2015,Airport Passenger Traffic,14697.26,Million,State
+OD,2015,Internet Penetration,4888.66,%,State
+OD,2016,Road Length,6333.47,Million Tonnes,State
+OD,2016,NH Construction,13373.08,Hours,State
+OD,2016,Rail Freight,15963.44,Hours,State
+OD,2016,Port Turnaround Time,3321.58,Million Tonnes,State
+OD,2016,Airport Passenger Traffic,23255.4,%,State
+OD,2016,Internet Penetration,11227.17,%,State
+OD,2017,Road Length,7629.65,KM,State
+OD,2017,NH Construction,4197.69,Million Tonnes,State
+OD,2017,Rail Freight,21342.89,Million Tonnes,State
+OD,2017,Port Turnaround Time,17789.5,Million Tonnes,State
+OD,2017,Airport Passenger Traffic,3218.23,Hours,State
+OD,2017,Internet Penetration,2196.9,Hours,State
+OD,2018,Road Length,16693.54,KM,State
+OD,2018,NH Construction,17900.97,Million Tonnes,State
+OD,2018,Rail Freight,24149.33,Million,State
+OD,2018,Port Turnaround Time,24059.1,Hours,State
+OD,2018,Airport Passenger Traffic,6211.82,Million,State
+OD,2018,Internet Penetration,19442.85,Hours,State
+OD,2019,Road Length,221.22,%,State
+OD,2019,NH Construction,22322.48,%,State
+OD,2019,Rail Freight,12778.03,%,State
+OD,2019,Port Turnaround Time,6282.36,Hours,State
+OD,2019,Airport Passenger Traffic,13379.38,Hours,State
+OD,2019,Internet Penetration,17149.66,%,State
+OD,2020,Road Length,6051.04,Million,State
+OD,2020,NH Construction,5249.26,KM,State
+OD,2020,Rail Freight,589.32,Million Tonnes,State
+OD,2020,Port Turnaround Time,2680.55,Hours,State
+OD,2020,Airport Passenger Traffic,8528.82,Million Tonnes,State
+OD,2020,Internet Penetration,17038.24,Hours,State
+OD,2021,Road Length,10257.65,%,State
+OD,2021,NH Construction,4075.69,KM,State
+OD,2021,Rail Freight,884.67,%,State
+OD,2021,Port Turnaround Time,15601.42,Million Tonnes,State
+OD,2021,Airport Passenger Traffic,22485.7,%,State
+OD,2021,Internet Penetration,20292.29,%,State
+OD,2022,Road Length,21120.23,Hours,State
+OD,2022,NH Construction,10220.92,Million,State
+OD,2022,Rail Freight,12148.54,%,State
+OD,2022,Port Turnaround Time,16841.47,Hours,State
+OD,2022,Airport Passenger Traffic,2276.68,Million,State
+OD,2022,Internet Penetration,5468.68,Million,State
+OD,2023,Road Length,5505.87,%,State
+OD,2023,NH Construction,7299.84,Hours,State
+OD,2023,Rail Freight,4654.04,Hours,State
+OD,2023,Port Turnaround Time,3832.74,KM,State
+OD,2023,Airport Passenger Traffic,6911.2,%,State
+OD,2023,Internet Penetration,24573.22,Million,State
+OD,2024,Road Length,1210.24,KM,State
+OD,2024,NH Construction,448.96,KM,State
+OD,2024,Rail Freight,457.89,Million Tonnes,State
+OD,2024,Port Turnaround Time,16682.08,%,State
+OD,2024,Airport Passenger Traffic,8607.7,Million,State
+OD,2024,Internet Penetration,13596.18,%,State
+OD,2025,Road Length,17871.29,%,State
+OD,2025,NH Construction,1898.11,Million Tonnes,State
+OD,2025,Rail Freight,3226.99,KM,State
+OD,2025,Port Turnaround Time,19152.21,KM,State
+OD,2025,Airport Passenger Traffic,3819.6,KM,State
+OD,2025,Internet Penetration,13459.49,%,State
+PB,2005,Road Length,21822.62,Million,State
+PB,2005,NH Construction,15233.68,KM,State
+PB,2005,Rail Freight,24062.22,Million,State
+PB,2005,Port Turnaround Time,19087.1,Million Tonnes,State
+PB,2005,Airport Passenger Traffic,15708.14,%,State
+PB,2005,Internet Penetration,880.43,Hours,State
+PB,2006,Road Length,15595.34,Million,State
+PB,2006,NH Construction,12596.55,KM,State
+PB,2006,Rail Freight,3398.52,Million Tonnes,State
+PB,2006,Port Turnaround Time,16764.72,Million Tonnes,State
+PB,2006,Airport Passenger Traffic,6590.81,%,State
+PB,2006,Internet Penetration,21346.79,KM,State
+PB,2007,Road Length,2571.02,Million,State
+PB,2007,NH Construction,3309.67,Million Tonnes,State
+PB,2007,Rail Freight,496.41,Million Tonnes,State
+PB,2007,Port Turnaround Time,15616.13,Hours,State
+PB,2007,Airport Passenger Traffic,22581.41,Million,State
+PB,2007,Internet Penetration,2506.35,%,State
+PB,2008,Road Length,5968.5,KM,State
+PB,2008,NH Construction,19102.44,Million Tonnes,State
+PB,2008,Rail Freight,3257.36,Million,State
+PB,2008,Port Turnaround Time,14880.02,Million,State
+PB,2008,Airport Passenger Traffic,7299.5,Hours,State
+PB,2008,Internet Penetration,4105.42,Million Tonnes,State
+PB,2009,Road Length,11386.36,%,State
+PB,2009,NH Construction,2734.33,KM,State
+PB,2009,Rail Freight,2065.35,%,State
+PB,2009,Port Turnaround Time,23410.46,KM,State
+PB,2009,Airport Passenger Traffic,9101.03,Million Tonnes,State
+PB,2009,Internet Penetration,13438.66,Million,State
+PB,2010,Road Length,14651.46,%,State
+PB,2010,NH Construction,12375.27,%,State
+PB,2010,Rail Freight,20156.11,KM,State
+PB,2010,Port Turnaround Time,20815.34,Million Tonnes,State
+PB,2010,Airport Passenger Traffic,14738.77,%,State
+PB,2010,Internet Penetration,18178.93,Hours,State
+PB,2011,Road Length,6034.6,Hours,State
+PB,2011,NH Construction,15153.9,Million Tonnes,State
+PB,2011,Rail Freight,8417.73,Million,State
+PB,2011,Port Turnaround Time,24460.44,%,State
+PB,2011,Airport Passenger Traffic,2746.02,Million Tonnes,State
+PB,2011,Internet Penetration,4346.4,KM,State
+PB,2012,Road Length,975.47,Hours,State
+PB,2012,NH Construction,13648.3,Million,State
+PB,2012,Rail Freight,7532.48,%,State
+PB,2012,Port Turnaround Time,24141.4,Million,State
+PB,2012,Airport Passenger Traffic,7024.99,KM,State
+PB,2012,Internet Penetration,12488.16,Hours,State
+PB,2013,Road Length,19012.05,Million Tonnes,State
+PB,2013,NH Construction,2007.9,%,State
+PB,2013,Rail Freight,626.63,Hours,State
+PB,2013,Port Turnaround Time,12283.05,KM,State
+PB,2013,Airport Passenger Traffic,18096.94,%,State
+PB,2013,Internet Penetration,5203.98,Million Tonnes,State
+PB,2014,Road Length,14627.31,%,State
+PB,2014,NH Construction,21328.31,Million Tonnes,State
+PB,2014,Rail Freight,21872.51,Million Tonnes,State
+PB,2014,Port Turnaround Time,10779.22,Hours,State
+PB,2014,Airport Passenger Traffic,22657.2,Million Tonnes,State
+PB,2014,Internet Penetration,6761.42,Million,State
+PB,2015,Road Length,2140.27,%,State
+PB,2015,NH Construction,14623.58,Hours,State
+PB,2015,Rail Freight,9468.86,Million,State
+PB,2015,Port Turnaround Time,13666.13,Million Tonnes,State
+PB,2015,Airport Passenger Traffic,22875.89,KM,State
+PB,2015,Internet Penetration,16506.65,Million,State
+PB,2016,Road Length,18243.06,Hours,State
+PB,2016,NH Construction,5131.82,Million,State
+PB,2016,Rail Freight,197.57,Hours,State
+PB,2016,Port Turnaround Time,20076.62,Million,State
+PB,2016,Airport Passenger Traffic,18215.66,Hours,State
+PB,2016,Internet Penetration,3866.48,Hours,State
+PB,2017,Road Length,9461.68,%,State
+PB,2017,NH Construction,13537.58,Million Tonnes,State
+PB,2017,Rail Freight,7905.59,Million,State
+PB,2017,Port Turnaround Time,2648.07,Million,State
+PB,2017,Airport Passenger Traffic,17514.68,Hours,State
+PB,2017,Internet Penetration,20065.46,Hours,State
+PB,2018,Road Length,11835.91,Million Tonnes,State
+PB,2018,NH Construction,2799.17,%,State
+PB,2018,Rail Freight,3038.35,Million Tonnes,State
+PB,2018,Port Turnaround Time,4286.14,Million Tonnes,State
+PB,2018,Airport Passenger Traffic,784.02,Million Tonnes,State
+PB,2018,Internet Penetration,15664.78,Hours,State
+PB,2019,Road Length,4454.61,Million,State
+PB,2019,NH Construction,13551.41,%,State
+PB,2019,Rail Freight,18147.2,Million,State
+PB,2019,Port Turnaround Time,17031.3,KM,State
+PB,2019,Airport Passenger Traffic,18609.49,Hours,State
+PB,2019,Internet Penetration,24890.91,%,State
+PB,2020,Road Length,3954.17,Million,State
+PB,2020,NH Construction,494.71,%,State
+PB,2020,Rail Freight,22229.79,Million,State
+PB,2020,Port Turnaround Time,12274.88,KM,State
+PB,2020,Airport Passenger Traffic,5197.51,Hours,State
+PB,2020,Internet Penetration,1492.57,Million Tonnes,State
+PB,2021,Road Length,7635.32,Hours,State
+PB,2021,NH Construction,7055.55,KM,State
+PB,2021,Rail Freight,20927.35,Million Tonnes,State
+PB,2021,Port Turnaround Time,22150.43,Hours,State
+PB,2021,Airport Passenger Traffic,22071.99,Million,State
+PB,2021,Internet Penetration,5022.49,Million Tonnes,State
+PB,2022,Road Length,18104.12,%,State
+PB,2022,NH Construction,5331.93,Million,State
+PB,2022,Rail Freight,9798.95,KM,State
+PB,2022,Port Turnaround Time,490.83,Hours,State
+PB,2022,Airport Passenger Traffic,2336.57,Hours,State
+PB,2022,Internet Penetration,3726.15,%,State
+PB,2023,Road Length,2613.45,Million Tonnes,State
+PB,2023,NH Construction,24996.25,Hours,State
+PB,2023,Rail Freight,16002.95,KM,State
+PB,2023,Port Turnaround Time,23023.64,Million,State
+PB,2023,Airport Passenger Traffic,5311.72,Million,State
+PB,2023,Internet Penetration,15312.07,%,State
+PB,2024,Road Length,23009.0,Million Tonnes,State
+PB,2024,NH Construction,2351.43,%,State
+PB,2024,Rail Freight,23173.97,Hours,State
+PB,2024,Port Turnaround Time,8496.59,Million Tonnes,State
+PB,2024,Airport Passenger Traffic,19744.73,Million Tonnes,State
+PB,2024,Internet Penetration,22229.94,%,State
+PB,2025,Road Length,10084.16,Hours,State
+PB,2025,NH Construction,23298.32,KM,State
+PB,2025,Rail Freight,20098.95,Million Tonnes,State
+PB,2025,Port Turnaround Time,3870.12,Million Tonnes,State
+PB,2025,Airport Passenger Traffic,9104.02,Million,State
+PB,2025,Internet Penetration,20253.3,Million,State
+HR,2005,Road Length,1275.9,%,State
+HR,2005,NH Construction,3122.16,Million,State
+HR,2005,Rail Freight,1853.09,Million,State
+HR,2005,Port Turnaround Time,9816.94,Million,State
+HR,2005,Airport Passenger Traffic,198.6,Million,State
+HR,2005,Internet Penetration,4445.01,Million Tonnes,State
+HR,2006,Road Length,24304.78,Hours,State
+HR,2006,NH Construction,16140.9,Hours,State
+HR,2006,Rail Freight,10545.09,%,State
+HR,2006,Port Turnaround Time,5466.27,Million Tonnes,State
+HR,2006,Airport Passenger Traffic,13648.74,Million Tonnes,State
+HR,2006,Internet Penetration,12557.23,Hours,State
+HR,2007,Road Length,15207.23,%,State
+HR,2007,NH Construction,19955.77,Million,State
+HR,2007,Rail Freight,2376.51,KM,State
+HR,2007,Port Turnaround Time,11648.86,Hours,State
+HR,2007,Airport Passenger Traffic,550.22,Million,State
+HR,2007,Internet Penetration,13791.94,Million,State
+HR,2008,Road Length,16620.91,KM,State
+HR,2008,NH Construction,22082.3,Hours,State
+HR,2008,Rail Freight,21303.28,Hours,State
+HR,2008,Port Turnaround Time,4845.34,Million Tonnes,State
+HR,2008,Airport Passenger Traffic,21079.2,Million Tonnes,State
+HR,2008,Internet Penetration,1366.25,Hours,State
+HR,2009,Road Length,8589.6,Million,State
+HR,2009,NH Construction,15991.79,Million Tonnes,State
+HR,2009,Rail Freight,23216.48,Million Tonnes,State
+HR,2009,Port Turnaround Time,11373.58,Million Tonnes,State
+HR,2009,Airport Passenger Traffic,14812.57,%,State
+HR,2009,Internet Penetration,15586.22,KM,State
+HR,2010,Road Length,21107.65,Million,State
+HR,2010,NH Construction,13575.97,%,State
+HR,2010,Rail Freight,14110.12,Hours,State
+HR,2010,Port Turnaround Time,1654.86,Million,State
+HR,2010,Airport Passenger Traffic,5267.04,%,State
+HR,2010,Internet Penetration,2652.16,KM,State
+HR,2011,Road Length,2220.08,KM,State
+HR,2011,NH Construction,3655.36,Hours,State
+HR,2011,Rail Freight,24114.36,%,State
+HR,2011,Port Turnaround Time,24816.38,Million Tonnes,State
+HR,2011,Airport Passenger Traffic,22043.14,Million,State
+HR,2011,Internet Penetration,16834.11,Million Tonnes,State
+HR,2012,Road Length,7856.66,Hours,State
+HR,2012,NH Construction,17609.67,Hours,State
+HR,2012,Rail Freight,15816.58,%,State
+HR,2012,Port Turnaround Time,9467.14,Million Tonnes,State
+HR,2012,Airport Passenger Traffic,13196.07,Million,State
+HR,2012,Internet Penetration,21230.3,KM,State
+HR,2013,Road Length,13153.94,Million,State
+HR,2013,NH Construction,18237.72,%,State
+HR,2013,Rail Freight,7010.32,Million,State
+HR,2013,Port Turnaround Time,4942.14,%,State
+HR,2013,Airport Passenger Traffic,14471.95,%,State
+HR,2013,Internet Penetration,2200.84,Hours,State
+HR,2014,Road Length,12786.77,KM,State
+HR,2014,NH Construction,2010.41,Million Tonnes,State
+HR,2014,Rail Freight,16749.91,KM,State
+HR,2014,Port Turnaround Time,10276.62,Million,State
+HR,2014,Airport Passenger Traffic,21800.06,KM,State
+HR,2014,Internet Penetration,1035.4,Hours,State
+HR,2015,Road Length,9720.57,Million,State
+HR,2015,NH Construction,12766.78,Million Tonnes,State
+HR,2015,Rail Freight,2450.5,KM,State
+HR,2015,Port Turnaround Time,4829.38,Million,State
+HR,2015,Airport Passenger Traffic,22517.77,Million,State
+HR,2015,Internet Penetration,6261.83,%,State
+HR,2016,Road Length,16833.29,Hours,State
+HR,2016,NH Construction,20163.52,Million,State
+HR,2016,Rail Freight,1919.82,%,State
+HR,2016,Port Turnaround Time,24502.14,KM,State
+HR,2016,Airport Passenger Traffic,6779.43,Hours,State
+HR,2016,Internet Penetration,4465.82,Hours,State
+HR,2017,Road Length,14273.83,Million Tonnes,State
+HR,2017,NH Construction,11224.91,Million Tonnes,State
+HR,2017,Rail Freight,13559.76,KM,State
+HR,2017,Port Turnaround Time,22998.91,%,State
+HR,2017,Airport Passenger Traffic,16872.88,Million,State
+HR,2017,Internet Penetration,21227.21,Million,State
+HR,2018,Road Length,6082.1,%,State
+HR,2018,NH Construction,15772.65,Million Tonnes,State
+HR,2018,Rail Freight,14595.41,Hours,State
+HR,2018,Port Turnaround Time,15839.85,KM,State
+HR,2018,Airport Passenger Traffic,20772.05,Million,State
+HR,2018,Internet Penetration,15424.74,Hours,State
+HR,2019,Road Length,13191.68,%,State
+HR,2019,NH Construction,14578.2,%,State
+HR,2019,Rail Freight,24199.83,Hours,State
+HR,2019,Port Turnaround Time,2745.52,%,State
+HR,2019,Airport Passenger Traffic,13298.3,KM,State
+HR,2019,Internet Penetration,16175.34,Hours,State
+HR,2020,Road Length,24796.61,%,State
+HR,2020,NH Construction,20846.47,KM,State
+HR,2020,Rail Freight,18208.98,KM,State
+HR,2020,Port Turnaround Time,17365.68,Million Tonnes,State
+HR,2020,Airport Passenger Traffic,11129.48,Hours,State
+HR,2020,Internet Penetration,8305.31,Million,State
+HR,2021,Road Length,21438.06,KM,State
+HR,2021,NH Construction,13764.62,%,State
+HR,2021,Rail Freight,14618.39,KM,State
+HR,2021,Port Turnaround Time,16542.36,%,State
+HR,2021,Airport Passenger Traffic,7551.29,Million,State
+HR,2021,Internet Penetration,1289.76,Million,State
+HR,2022,Road Length,5209.98,KM,State
+HR,2022,NH Construction,3227.83,Million Tonnes,State
+HR,2022,Rail Freight,22159.46,KM,State
+HR,2022,Port Turnaround Time,18407.76,Million Tonnes,State
+HR,2022,Airport Passenger Traffic,22197.3,Million,State
+HR,2022,Internet Penetration,1550.12,KM,State
+HR,2023,Road Length,4006.88,Million Tonnes,State
+HR,2023,NH Construction,9742.43,KM,State
+HR,2023,Rail Freight,6780.35,Million Tonnes,State
+HR,2023,Port Turnaround Time,4603.78,Hours,State
+HR,2023,Airport Passenger Traffic,6378.38,KM,State
+HR,2023,Internet Penetration,12928.29,Million,State
+HR,2024,Road Length,15484.88,Million,State
+HR,2024,NH Construction,13862.33,KM,State
+HR,2024,Rail Freight,23865.13,%,State
+HR,2024,Port Turnaround Time,13285.39,Hours,State
+HR,2024,Airport Passenger Traffic,16454.7,%,State
+HR,2024,Internet Penetration,13525.93,Hours,State
+HR,2025,Road Length,15597.16,KM,State
+HR,2025,NH Construction,1683.68,Million,State
+HR,2025,Rail Freight,21043.29,Million Tonnes,State
+HR,2025,Port Turnaround Time,10815.55,KM,State
+HR,2025,Airport Passenger Traffic,18058.49,Hours,State
+HR,2025,Internet Penetration,1122.95,Million Tonnes,State

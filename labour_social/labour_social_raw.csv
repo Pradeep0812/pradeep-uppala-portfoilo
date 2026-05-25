@@ -1,0 +1,1891 @@
+state_code,year,indicator,value,gender,area_type
+AP,2005,Employment Rate,56.4,Male,Total
+AP,2005,WPR,37.56,Male,Total
+AP,2005,Female LFPR,80.82,Male,Urban
+AP,2005,IMR,58.05,Male,Rural
+AP,2005,Education Enrolment,28.52,Male,Rural
+AP,2005,Learning Outcomes,30.45,Total,Total
+AP,2006,Employment Rate,84.89,Female,Urban
+AP,2006,WPR,76.94,Female,Total
+AP,2006,Female LFPR,57.33,Male,Total
+AP,2006,IMR,47.81,Total,Rural
+AP,2006,Education Enrolment,17.74,Total,Urban
+AP,2006,Learning Outcomes,84.04,Total,Rural
+AP,2007,Employment Rate,43.98,Female,Total
+AP,2007,WPR,68.32,Male,Total
+AP,2007,Female LFPR,84.84,Female,Rural
+AP,2007,IMR,55.82,Total,Rural
+AP,2007,Education Enrolment,37.37,Female,Rural
+AP,2007,Learning Outcomes,97.31,Male,Urban
+AP,2008,Employment Rate,92.96,Total,Total
+AP,2008,WPR,75.24,Total,Urban
+AP,2008,Female LFPR,75.78,Total,Total
+AP,2008,IMR,83.1,Female,Urban
+AP,2008,Education Enrolment,96.84,Total,Rural
+AP,2008,Learning Outcomes,83.28,Female,Urban
+AP,2009,Employment Rate,30.37,Total,Total
+AP,2009,WPR,53.58,Female,Total
+AP,2009,Female LFPR,17.9,Total,Urban
+AP,2009,IMR,90.2,Male,Rural
+AP,2009,Education Enrolment,50.83,Male,Rural
+AP,2009,Learning Outcomes,78.78,Male,Total
+AP,2010,Employment Rate,17.74,Male,Urban
+AP,2010,WPR,21.54,Male,Rural
+AP,2010,Female LFPR,18.16,Male,Rural
+AP,2010,IMR,74.1,Male,Urban
+AP,2010,Education Enrolment,42.18,Total,Urban
+AP,2010,Learning Outcomes,80.15,Female,Rural
+AP,2011,Employment Rate,71.09,Male,Rural
+AP,2011,WPR,40.3,Total,Rural
+AP,2011,Female LFPR,64.28,Female,Total
+AP,2011,IMR,36.54,Female,Rural
+AP,2011,Education Enrolment,35.9,Total,Rural
+AP,2011,Learning Outcomes,87.86,Total,Urban
+AP,2012,Employment Rate,53.21,Female,Total
+AP,2012,WPR,67.82,Female,Urban
+AP,2012,Female LFPR,71.32,Total,Total
+AP,2012,IMR,96.34,Total,Rural
+AP,2012,Education Enrolment,62.71,Male,Urban
+AP,2012,Learning Outcomes,69.89,Total,Total
+AP,2013,Employment Rate,74.66,Male,Rural
+AP,2013,WPR,91.06,Female,Urban
+AP,2013,Female LFPR,88.87,Total,Urban
+AP,2013,IMR,75.57,Total,Total
+AP,2013,Education Enrolment,97.3,Female,Urban
+AP,2013,Learning Outcomes,71.49,Male,Urban
+AP,2014,Employment Rate,85.38,Total,Total
+AP,2014,WPR,15.56,Total,Urban
+AP,2014,Female LFPR,95.75,Male,Total
+AP,2014,IMR,84.6,Total,Rural
+AP,2014,Education Enrolment,87.16,Female,Total
+AP,2014,Learning Outcomes,42.56,Female,Urban
+AP,2015,Employment Rate,85.47,Male,Urban
+AP,2015,WPR,70.24,Female,Rural
+AP,2015,Female LFPR,75.46,Male,Rural
+AP,2015,IMR,42.81,Total,Urban
+AP,2015,Education Enrolment,38.91,Total,Rural
+AP,2015,Learning Outcomes,57.9,Total,Rural
+AP,2016,Employment Rate,32.42,Female,Urban
+AP,2016,WPR,56.19,Female,Total
+AP,2016,Female LFPR,74.82,Female,Rural
+AP,2016,IMR,50.1,Female,Rural
+AP,2016,Education Enrolment,45.33,Male,Total
+AP,2016,Learning Outcomes,70.89,Female,Total
+AP,2017,Employment Rate,81.72,Total,Total
+AP,2017,WPR,32.88,Female,Rural
+AP,2017,Female LFPR,81.55,Female,Urban
+AP,2017,IMR,74.57,Male,Rural
+AP,2017,Education Enrolment,83.97,Male,Urban
+AP,2017,Learning Outcomes,16.92,Total,Rural
+AP,2018,Employment Rate,27.35,Male,Rural
+AP,2018,WPR,91.14,Female,Total
+AP,2018,Female LFPR,85.13,Female,Rural
+AP,2018,IMR,17.53,Total,Urban
+AP,2018,Education Enrolment,25.59,Total,Rural
+AP,2018,Learning Outcomes,52.47,Female,Rural
+AP,2019,Employment Rate,25.17,Male,Total
+AP,2019,WPR,90.34,Male,Urban
+AP,2019,Female LFPR,16.7,Male,Urban
+AP,2019,IMR,67.87,Total,Total
+AP,2019,Education Enrolment,63.05,Female,Total
+AP,2019,Learning Outcomes,72.01,Total,Urban
+AP,2020,Employment Rate,23.55,Female,Total
+AP,2020,WPR,94.07,Total,Total
+AP,2020,Female LFPR,80.32,Male,Urban
+AP,2020,IMR,21.87,Male,Rural
+AP,2020,Education Enrolment,92.9,Male,Urban
+AP,2020,Learning Outcomes,39.02,Total,Urban
+AP,2021,Employment Rate,26.19,Female,Rural
+AP,2021,WPR,51.53,Total,Rural
+AP,2021,Female LFPR,70.84,Total,Rural
+AP,2021,IMR,35.86,Total,Rural
+AP,2021,Education Enrolment,75.03,Total,Urban
+AP,2021,Learning Outcomes,80.71,Total,Urban
+AP,2022,Employment Rate,80.29,Total,Rural
+AP,2022,WPR,86.17,Female,Urban
+AP,2022,Female LFPR,74.39,Total,Rural
+AP,2022,IMR,77.22,Male,Rural
+AP,2022,Education Enrolment,20.53,Total,Total
+AP,2022,Learning Outcomes,94.43,Total,Urban
+AP,2023,Employment Rate,51.79,Female,Total
+AP,2023,WPR,47.35,Female,Total
+AP,2023,Female LFPR,66.13,Total,Total
+AP,2023,IMR,40.9,Total,Urban
+AP,2023,Education Enrolment,87.24,Total,Total
+AP,2023,Learning Outcomes,39.35,Female,Total
+AP,2024,Employment Rate,52.38,Female,Urban
+AP,2024,WPR,54.1,Male,Rural
+AP,2024,Female LFPR,25.34,Male,Rural
+AP,2024,IMR,89.49,Female,Urban
+AP,2024,Education Enrolment,47.99,Total,Total
+AP,2024,Learning Outcomes,76.64,Female,Urban
+AP,2025,Employment Rate,90.9,Total,Total
+AP,2025,WPR,92.47,Female,Urban
+AP,2025,Female LFPR,92.96,Total,Urban
+AP,2025,IMR,88.54,Male,Rural
+AP,2025,Education Enrolment,42.61,Total,Total
+AP,2025,Learning Outcomes,16.17,Female,Rural
+TG,2005,Employment Rate,50.63,Female,Rural
+TG,2005,WPR,65.14,Total,Total
+TG,2005,Female LFPR,90.47,Total,Rural
+TG,2005,IMR,17.85,Male,Urban
+TG,2005,Education Enrolment,89.1,Total,Total
+TG,2005,Learning Outcomes,70.8,Male,Urban
+TG,2006,Employment Rate,96.74,Female,Urban
+TG,2006,WPR,92.7,Female,Total
+TG,2006,Female LFPR,89.17,Male,Rural
+TG,2006,IMR,86.94,Female,Urban
+TG,2006,Education Enrolment,97.44,Male,Total
+TG,2006,Learning Outcomes,39.87,Total,Total
+TG,2007,Employment Rate,66.41,Male,Total
+TG,2007,WPR,17.11,Total,Urban
+TG,2007,Female LFPR,82.22,Total,Urban
+TG,2007,IMR,53.66,Female,Rural
+TG,2007,Education Enrolment,52.15,Female,Rural
+TG,2007,Learning Outcomes,90.92,Male,Urban
+TG,2008,Employment Rate,75.4,Total,Urban
+TG,2008,WPR,65.51,Total,Total
+TG,2008,Female LFPR,52.58,Female,Urban
+TG,2008,IMR,76.66,Total,Total
+TG,2008,Education Enrolment,82.93,Male,Urban
+TG,2008,Learning Outcomes,30.95,Female,Rural
+TG,2009,Employment Rate,42.97,Total,Total
+TG,2009,WPR,58.42,Female,Total
+TG,2009,Female LFPR,63.0,Total,Urban
+TG,2009,IMR,90.43,Male,Total
+TG,2009,Education Enrolment,74.68,Total,Rural
+TG,2009,Learning Outcomes,49.54,Female,Rural
+TG,2010,Employment Rate,66.3,Total,Rural
+TG,2010,WPR,33.84,Total,Urban
+TG,2010,Female LFPR,96.22,Male,Total
+TG,2010,IMR,63.9,Male,Urban
+TG,2010,Education Enrolment,35.02,Male,Rural
+TG,2010,Learning Outcomes,95.68,Female,Urban
+TG,2011,Employment Rate,48.86,Female,Rural
+TG,2011,WPR,55.05,Total,Total
+TG,2011,Female LFPR,57.49,Total,Rural
+TG,2011,IMR,28.91,Male,Urban
+TG,2011,Education Enrolment,17.97,Total,Total
+TG,2011,Learning Outcomes,55.85,Female,Rural
+TG,2012,Employment Rate,29.25,Female,Rural
+TG,2012,WPR,91.02,Male,Total
+TG,2012,Female LFPR,97.2,Total,Rural
+TG,2012,IMR,74.64,Total,Total
+TG,2012,Education Enrolment,83.15,Female,Rural
+TG,2012,Learning Outcomes,16.29,Male,Total
+TG,2013,Employment Rate,31.66,Male,Total
+TG,2013,WPR,53.21,Male,Rural
+TG,2013,Female LFPR,83.67,Female,Total
+TG,2013,IMR,60.93,Female,Urban
+TG,2013,Education Enrolment,53.95,Total,Urban
+TG,2013,Learning Outcomes,48.0,Male,Rural
+TG,2014,Employment Rate,89.21,Female,Total
+TG,2014,WPR,85.94,Male,Rural
+TG,2014,Female LFPR,29.73,Male,Rural
+TG,2014,IMR,56.05,Male,Rural
+TG,2014,Education Enrolment,34.24,Male,Urban
+TG,2014,Learning Outcomes,84.22,Male,Total
+TG,2015,Employment Rate,83.73,Total,Rural
+TG,2015,WPR,90.98,Total,Urban
+TG,2015,Female LFPR,49.73,Male,Rural
+TG,2015,IMR,56.35,Female,Urban
+TG,2015,Education Enrolment,58.07,Total,Urban
+TG,2015,Learning Outcomes,57.59,Female,Rural
+TG,2016,Employment Rate,30.3,Male,Total
+TG,2016,WPR,78.3,Female,Total
+TG,2016,Female LFPR,67.01,Female,Total
+TG,2016,IMR,49.11,Female,Urban
+TG,2016,Education Enrolment,46.2,Total,Total
+TG,2016,Learning Outcomes,85.48,Total,Urban
+TG,2017,Employment Rate,26.31,Female,Urban
+TG,2017,WPR,40.0,Female,Urban
+TG,2017,Female LFPR,92.13,Male,Urban
+TG,2017,IMR,78.3,Total,Total
+TG,2017,Education Enrolment,34.44,Total,Total
+TG,2017,Learning Outcomes,29.28,Total,Rural
+TG,2018,Employment Rate,50.47,Male,Total
+TG,2018,WPR,68.5,Total,Urban
+TG,2018,Female LFPR,67.24,Total,Urban
+TG,2018,IMR,42.49,Total,Rural
+TG,2018,Education Enrolment,88.94,Female,Total
+TG,2018,Learning Outcomes,73.12,Male,Urban
+TG,2019,Employment Rate,28.8,Male,Rural
+TG,2019,WPR,39.2,Female,Total
+TG,2019,Female LFPR,34.78,Male,Urban
+TG,2019,IMR,87.04,Male,Urban
+TG,2019,Education Enrolment,54.26,Male,Total
+TG,2019,Learning Outcomes,65.4,Male,Urban
+TG,2020,Employment Rate,42.44,Total,Total
+TG,2020,WPR,54.32,Female,Urban
+TG,2020,Female LFPR,21.96,Male,Rural
+TG,2020,IMR,49.78,Male,Total
+TG,2020,Education Enrolment,45.29,Female,Urban
+TG,2020,Learning Outcomes,57.0,Total,Total
+TG,2021,Employment Rate,37.14,Total,Urban
+TG,2021,WPR,28.29,Male,Total
+TG,2021,Female LFPR,96.69,Female,Rural
+TG,2021,IMR,41.76,Male,Rural
+TG,2021,Education Enrolment,91.56,Male,Rural
+TG,2021,Learning Outcomes,34.56,Female,Rural
+TG,2022,Employment Rate,30.29,Total,Total
+TG,2022,WPR,37.5,Male,Total
+TG,2022,Female LFPR,57.7,Male,Urban
+TG,2022,IMR,91.88,Total,Total
+TG,2022,Education Enrolment,91.47,Female,Rural
+TG,2022,Learning Outcomes,44.91,Female,Total
+TG,2023,Employment Rate,50.88,Male,Rural
+TG,2023,WPR,22.36,Total,Rural
+TG,2023,Female LFPR,63.49,Male,Rural
+TG,2023,IMR,65.11,Female,Rural
+TG,2023,Education Enrolment,97.75,Total,Urban
+TG,2023,Learning Outcomes,77.15,Male,Urban
+TG,2024,Employment Rate,97.29,Male,Rural
+TG,2024,WPR,23.19,Female,Rural
+TG,2024,Female LFPR,26.93,Total,Total
+TG,2024,IMR,15.6,Male,Total
+TG,2024,Education Enrolment,71.21,Female,Urban
+TG,2024,Learning Outcomes,96.2,Male,Rural
+TG,2025,Employment Rate,35.83,Total,Total
+TG,2025,WPR,83.11,Total,Rural
+TG,2025,Female LFPR,97.83,Female,Urban
+TG,2025,IMR,75.11,Female,Total
+TG,2025,Education Enrolment,34.56,Total,Urban
+TG,2025,Learning Outcomes,40.69,Female,Urban
+TN,2005,Employment Rate,90.75,Male,Urban
+TN,2005,WPR,73.87,Total,Rural
+TN,2005,Female LFPR,61.04,Male,Total
+TN,2005,IMR,80.58,Male,Rural
+TN,2005,Education Enrolment,81.44,Female,Rural
+TN,2005,Learning Outcomes,50.07,Female,Rural
+TN,2006,Employment Rate,95.83,Female,Rural
+TN,2006,WPR,82.43,Male,Total
+TN,2006,Female LFPR,60.71,Female,Rural
+TN,2006,IMR,65.92,Male,Rural
+TN,2006,Education Enrolment,72.6,Total,Total
+TN,2006,Learning Outcomes,91.12,Female,Rural
+TN,2007,Employment Rate,79.78,Total,Rural
+TN,2007,WPR,48.4,Female,Rural
+TN,2007,Female LFPR,95.39,Male,Rural
+TN,2007,IMR,83.85,Male,Rural
+TN,2007,Education Enrolment,87.5,Female,Rural
+TN,2007,Learning Outcomes,15.67,Total,Rural
+TN,2008,Employment Rate,59.1,Male,Total
+TN,2008,WPR,38.63,Female,Urban
+TN,2008,Female LFPR,51.15,Total,Urban
+TN,2008,IMR,80.25,Female,Rural
+TN,2008,Education Enrolment,28.01,Total,Rural
+TN,2008,Learning Outcomes,64.75,Total,Total
+TN,2009,Employment Rate,79.53,Male,Urban
+TN,2009,WPR,42.42,Female,Urban
+TN,2009,Female LFPR,43.73,Female,Urban
+TN,2009,IMR,45.3,Male,Rural
+TN,2009,Education Enrolment,56.77,Total,Total
+TN,2009,Learning Outcomes,64.1,Total,Rural
+TN,2010,Employment Rate,19.4,Female,Total
+TN,2010,WPR,79.48,Male,Total
+TN,2010,Female LFPR,73.77,Female,Urban
+TN,2010,IMR,43.75,Total,Total
+TN,2010,Education Enrolment,83.49,Male,Urban
+TN,2010,Learning Outcomes,40.69,Total,Urban
+TN,2011,Employment Rate,56.26,Male,Rural
+TN,2011,WPR,54.05,Female,Rural
+TN,2011,Female LFPR,42.64,Male,Urban
+TN,2011,IMR,95.45,Male,Total
+TN,2011,Education Enrolment,31.24,Female,Total
+TN,2011,Learning Outcomes,27.71,Total,Rural
+TN,2012,Employment Rate,18.48,Total,Urban
+TN,2012,WPR,80.88,Male,Urban
+TN,2012,Female LFPR,21.01,Male,Rural
+TN,2012,IMR,46.77,Total,Total
+TN,2012,Education Enrolment,68.35,Female,Total
+TN,2012,Learning Outcomes,37.8,Total,Rural
+TN,2013,Employment Rate,42.17,Male,Rural
+TN,2013,WPR,84.76,Total,Total
+TN,2013,Female LFPR,85.29,Male,Total
+TN,2013,IMR,21.88,Male,Rural
+TN,2013,Education Enrolment,54.17,Female,Rural
+TN,2013,Learning Outcomes,45.14,Total,Total
+TN,2014,Employment Rate,50.94,Total,Urban
+TN,2014,WPR,72.58,Female,Total
+TN,2014,Female LFPR,85.8,Female,Rural
+TN,2014,IMR,74.44,Total,Urban
+TN,2014,Education Enrolment,71.2,Male,Total
+TN,2014,Learning Outcomes,97.48,Female,Total
+TN,2015,Employment Rate,38.58,Total,Urban
+TN,2015,WPR,42.16,Female,Rural
+TN,2015,Female LFPR,37.37,Female,Urban
+TN,2015,IMR,63.27,Male,Urban
+TN,2015,Education Enrolment,50.24,Male,Rural
+TN,2015,Learning Outcomes,16.7,Total,Rural
+TN,2016,Employment Rate,72.77,Total,Urban
+TN,2016,WPR,23.57,Total,Rural
+TN,2016,Female LFPR,51.19,Female,Total
+TN,2016,IMR,84.77,Male,Total
+TN,2016,Education Enrolment,32.29,Female,Total
+TN,2016,Learning Outcomes,90.56,Female,Total
+TN,2017,Employment Rate,55.44,Male,Total
+TN,2017,WPR,77.06,Total,Urban
+TN,2017,Female LFPR,49.42,Male,Rural
+TN,2017,IMR,65.34,Female,Rural
+TN,2017,Education Enrolment,82.61,Male,Rural
+TN,2017,Learning Outcomes,26.72,Total,Urban
+TN,2018,Employment Rate,34.54,Male,Total
+TN,2018,WPR,65.81,Total,Rural
+TN,2018,Female LFPR,58.88,Male,Rural
+TN,2018,IMR,39.74,Total,Rural
+TN,2018,Education Enrolment,18.09,Total,Rural
+TN,2018,Learning Outcomes,76.35,Total,Total
+TN,2019,Employment Rate,81.09,Male,Urban
+TN,2019,WPR,88.18,Male,Total
+TN,2019,Female LFPR,37.7,Total,Urban
+TN,2019,IMR,61.15,Total,Urban
+TN,2019,Education Enrolment,51.73,Total,Urban
+TN,2019,Learning Outcomes,56.01,Male,Rural
+TN,2020,Employment Rate,76.4,Female,Total
+TN,2020,WPR,71.35,Female,Total
+TN,2020,Female LFPR,25.5,Female,Rural
+TN,2020,IMR,86.77,Female,Total
+TN,2020,Education Enrolment,89.05,Male,Rural
+TN,2020,Learning Outcomes,77.12,Female,Total
+TN,2021,Employment Rate,48.05,Male,Rural
+TN,2021,WPR,50.51,Male,Urban
+TN,2021,Female LFPR,22.5,Male,Total
+TN,2021,IMR,54.76,Female,Total
+TN,2021,Education Enrolment,20.51,Male,Urban
+TN,2021,Learning Outcomes,90.15,Total,Total
+TN,2022,Employment Rate,94.11,Total,Urban
+TN,2022,WPR,39.61,Male,Total
+TN,2022,Female LFPR,51.14,Total,Rural
+TN,2022,IMR,25.57,Total,Total
+TN,2022,Education Enrolment,21.06,Total,Total
+TN,2022,Learning Outcomes,73.93,Male,Total
+TN,2023,Employment Rate,95.62,Total,Total
+TN,2023,WPR,22.55,Female,Rural
+TN,2023,Female LFPR,18.87,Male,Urban
+TN,2023,IMR,60.15,Male,Rural
+TN,2023,Education Enrolment,63.99,Female,Rural
+TN,2023,Learning Outcomes,85.17,Female,Rural
+TN,2024,Employment Rate,44.4,Male,Rural
+TN,2024,WPR,52.29,Female,Rural
+TN,2024,Female LFPR,83.37,Male,Total
+TN,2024,IMR,89.23,Female,Urban
+TN,2024,Education Enrolment,71.26,Male,Rural
+TN,2024,Learning Outcomes,28.37,Male,Rural
+TN,2025,Employment Rate,33.67,Total,Total
+TN,2025,WPR,55.0,Total,Urban
+TN,2025,Female LFPR,48.96,Male,Urban
+TN,2025,IMR,86.36,Total,Rural
+TN,2025,Education Enrolment,60.46,Female,Rural
+TN,2025,Learning Outcomes,54.34,Male,Rural
+KL,2005,Employment Rate,32.3,Female,Urban
+KL,2005,WPR,90.63,Total,Rural
+KL,2005,Female LFPR,49.64,Total,Rural
+KL,2005,IMR,17.01,Female,Total
+KL,2005,Education Enrolment,59.53,Total,Total
+KL,2005,Learning Outcomes,26.63,Male,Urban
+KL,2006,Employment Rate,47.33,Male,Rural
+KL,2006,WPR,29.34,Female,Total
+KL,2006,Female LFPR,24.11,Total,Total
+KL,2006,IMR,69.25,Female,Rural
+KL,2006,Education Enrolment,19.61,Female,Rural
+KL,2006,Learning Outcomes,66.24,Total,Urban
+KL,2007,Employment Rate,40.26,Female,Urban
+KL,2007,WPR,51.85,Total,Total
+KL,2007,Female LFPR,77.32,Total,Total
+KL,2007,IMR,62.47,Male,Urban
+KL,2007,Education Enrolment,54.44,Female,Rural
+KL,2007,Learning Outcomes,21.16,Male,Total
+KL,2008,Employment Rate,53.08,Total,Urban
+KL,2008,WPR,47.57,Total,Total
+KL,2008,Female LFPR,41.44,Male,Total
+KL,2008,IMR,56.23,Total,Total
+KL,2008,Education Enrolment,59.72,Female,Urban
+KL,2008,Learning Outcomes,61.88,Female,Rural
+KL,2009,Employment Rate,18.98,Male,Rural
+KL,2009,WPR,51.88,Male,Total
+KL,2009,Female LFPR,26.55,Female,Rural
+KL,2009,IMR,73.48,Total,Total
+KL,2009,Education Enrolment,90.44,Total,Urban
+KL,2009,Learning Outcomes,21.1,Total,Total
+KL,2010,Employment Rate,77.13,Total,Total
+KL,2010,WPR,65.98,Total,Total
+KL,2010,Female LFPR,64.62,Male,Total
+KL,2010,IMR,44.29,Female,Urban
+KL,2010,Education Enrolment,51.47,Female,Rural
+KL,2010,Learning Outcomes,52.84,Male,Urban
+KL,2011,Employment Rate,81.29,Female,Rural
+KL,2011,WPR,25.65,Total,Rural
+KL,2011,Female LFPR,82.32,Male,Urban
+KL,2011,IMR,20.93,Total,Rural
+KL,2011,Education Enrolment,45.77,Female,Rural
+KL,2011,Learning Outcomes,19.13,Male,Total
+KL,2012,Employment Rate,20.4,Female,Urban
+KL,2012,WPR,84.12,Female,Rural
+KL,2012,Female LFPR,75.41,Female,Total
+KL,2012,IMR,41.29,Male,Rural
+KL,2012,Education Enrolment,26.31,Male,Rural
+KL,2012,Learning Outcomes,35.13,Female,Rural
+KL,2013,Employment Rate,93.86,Total,Total
+KL,2013,WPR,35.11,Female,Rural
+KL,2013,Female LFPR,34.18,Male,Rural
+KL,2013,IMR,37.23,Female,Urban
+KL,2013,Education Enrolment,45.91,Male,Total
+KL,2013,Learning Outcomes,96.42,Total,Urban
+KL,2014,Employment Rate,17.08,Female,Total
+KL,2014,WPR,65.67,Male,Urban
+KL,2014,Female LFPR,32.42,Total,Total
+KL,2014,IMR,55.84,Male,Rural
+KL,2014,Education Enrolment,65.74,Male,Rural
+KL,2014,Learning Outcomes,77.43,Male,Total
+KL,2015,Employment Rate,16.53,Total,Urban
+KL,2015,WPR,57.79,Female,Rural
+KL,2015,Female LFPR,65.31,Female,Urban
+KL,2015,IMR,38.64,Male,Rural
+KL,2015,Education Enrolment,17.54,Male,Rural
+KL,2015,Learning Outcomes,56.39,Male,Urban
+KL,2016,Employment Rate,30.44,Male,Urban
+KL,2016,WPR,96.08,Male,Urban
+KL,2016,Female LFPR,81.01,Total,Urban
+KL,2016,IMR,63.77,Male,Rural
+KL,2016,Education Enrolment,55.04,Total,Urban
+KL,2016,Learning Outcomes,56.15,Male,Urban
+KL,2017,Employment Rate,15.18,Total,Rural
+KL,2017,WPR,37.41,Total,Total
+KL,2017,Female LFPR,81.93,Male,Rural
+KL,2017,IMR,55.99,Female,Urban
+KL,2017,Education Enrolment,91.11,Total,Total
+KL,2017,Learning Outcomes,74.96,Female,Rural
+KL,2018,Employment Rate,33.26,Total,Urban
+KL,2018,WPR,86.61,Male,Total
+KL,2018,Female LFPR,50.96,Male,Total
+KL,2018,IMR,70.75,Female,Urban
+KL,2018,Education Enrolment,70.73,Female,Total
+KL,2018,Learning Outcomes,16.54,Male,Urban
+KL,2019,Employment Rate,68.52,Male,Rural
+KL,2019,WPR,58.63,Total,Rural
+KL,2019,Female LFPR,64.4,Total,Rural
+KL,2019,IMR,20.3,Total,Rural
+KL,2019,Education Enrolment,59.77,Male,Total
+KL,2019,Learning Outcomes,77.87,Total,Total
+KL,2020,Employment Rate,84.16,Female,Total
+KL,2020,WPR,62.92,Total,Total
+KL,2020,Female LFPR,73.13,Female,Rural
+KL,2020,IMR,26.18,Total,Rural
+KL,2020,Education Enrolment,82.78,Female,Rural
+KL,2020,Learning Outcomes,57.1,Male,Total
+KL,2021,Employment Rate,30.29,Female,Urban
+KL,2021,WPR,95.45,Total,Urban
+KL,2021,Female LFPR,19.97,Male,Urban
+KL,2021,IMR,60.56,Female,Urban
+KL,2021,Education Enrolment,62.72,Female,Rural
+KL,2021,Learning Outcomes,69.02,Female,Urban
+KL,2022,Employment Rate,81.32,Male,Total
+KL,2022,WPR,60.65,Female,Total
+KL,2022,Female LFPR,71.19,Female,Rural
+KL,2022,IMR,96.27,Total,Rural
+KL,2022,Education Enrolment,55.94,Female,Urban
+KL,2022,Learning Outcomes,23.67,Male,Urban
+KL,2023,Employment Rate,61.21,Male,Rural
+KL,2023,WPR,26.16,Total,Total
+KL,2023,Female LFPR,65.31,Female,Urban
+KL,2023,IMR,24.63,Male,Rural
+KL,2023,Education Enrolment,22.12,Male,Rural
+KL,2023,Learning Outcomes,18.21,Male,Rural
+KL,2024,Employment Rate,85.22,Female,Rural
+KL,2024,WPR,75.34,Total,Urban
+KL,2024,Female LFPR,97.19,Female,Rural
+KL,2024,IMR,76.39,Total,Total
+KL,2024,Education Enrolment,84.18,Total,Rural
+KL,2024,Learning Outcomes,94.85,Male,Total
+KL,2025,Employment Rate,51.17,Total,Rural
+KL,2025,WPR,64.82,Total,Total
+KL,2025,Female LFPR,19.61,Male,Rural
+KL,2025,IMR,75.72,Female,Urban
+KL,2025,Education Enrolment,29.54,Female,Rural
+KL,2025,Learning Outcomes,84.95,Male,Urban
+KA,2005,Employment Rate,20.49,Female,Total
+KA,2005,WPR,94.33,Total,Total
+KA,2005,Female LFPR,63.87,Total,Rural
+KA,2005,IMR,39.9,Male,Total
+KA,2005,Education Enrolment,49.41,Male,Urban
+KA,2005,Learning Outcomes,34.09,Total,Urban
+KA,2006,Employment Rate,69.06,Male,Total
+KA,2006,WPR,36.07,Total,Rural
+KA,2006,Female LFPR,20.0,Female,Rural
+KA,2006,IMR,53.61,Female,Rural
+KA,2006,Education Enrolment,71.32,Total,Urban
+KA,2006,Learning Outcomes,49.4,Female,Total
+KA,2007,Employment Rate,91.63,Male,Rural
+KA,2007,WPR,34.1,Male,Total
+KA,2007,Female LFPR,39.63,Total,Urban
+KA,2007,IMR,30.94,Male,Rural
+KA,2007,Education Enrolment,31.44,Female,Urban
+KA,2007,Learning Outcomes,66.65,Female,Urban
+KA,2008,Employment Rate,40.82,Female,Total
+KA,2008,WPR,43.18,Total,Total
+KA,2008,Female LFPR,19.83,Total,Rural
+KA,2008,IMR,33.47,Total,Total
+KA,2008,Education Enrolment,29.24,Male,Urban
+KA,2008,Learning Outcomes,87.62,Male,Total
+KA,2009,Employment Rate,28.5,Female,Rural
+KA,2009,WPR,83.98,Female,Rural
+KA,2009,Female LFPR,47.77,Male,Rural
+KA,2009,IMR,44.37,Female,Rural
+KA,2009,Education Enrolment,28.77,Female,Rural
+KA,2009,Learning Outcomes,62.88,Total,Rural
+KA,2010,Employment Rate,26.66,Male,Rural
+KA,2010,WPR,49.16,Male,Rural
+KA,2010,Female LFPR,52.19,Female,Total
+KA,2010,IMR,76.14,Female,Rural
+KA,2010,Education Enrolment,35.98,Female,Urban
+KA,2010,Learning Outcomes,61.57,Male,Rural
+KA,2011,Employment Rate,39.89,Total,Total
+KA,2011,WPR,62.42,Male,Urban
+KA,2011,Female LFPR,81.51,Total,Total
+KA,2011,IMR,72.18,Total,Urban
+KA,2011,Education Enrolment,87.24,Total,Total
+KA,2011,Learning Outcomes,72.99,Total,Total
+KA,2012,Employment Rate,61.82,Total,Urban
+KA,2012,WPR,26.45,Female,Total
+KA,2012,Female LFPR,41.13,Total,Total
+KA,2012,IMR,93.74,Total,Total
+KA,2012,Education Enrolment,87.78,Total,Rural
+KA,2012,Learning Outcomes,44.63,Female,Urban
+KA,2013,Employment Rate,87.8,Male,Total
+KA,2013,WPR,53.7,Male,Total
+KA,2013,Female LFPR,58.31,Male,Rural
+KA,2013,IMR,17.58,Total,Rural
+KA,2013,Education Enrolment,19.19,Male,Total
+KA,2013,Learning Outcomes,53.21,Female,Urban
+KA,2014,Employment Rate,53.67,Male,Rural
+KA,2014,WPR,73.67,Total,Urban
+KA,2014,Female LFPR,15.2,Male,Rural
+KA,2014,IMR,75.45,Female,Urban
+KA,2014,Education Enrolment,93.45,Female,Rural
+KA,2014,Learning Outcomes,36.13,Total,Rural
+KA,2015,Employment Rate,62.68,Total,Urban
+KA,2015,WPR,74.13,Female,Total
+KA,2015,Female LFPR,74.18,Male,Urban
+KA,2015,IMR,79.14,Male,Rural
+KA,2015,Education Enrolment,77.2,Male,Urban
+KA,2015,Learning Outcomes,81.59,Total,Rural
+KA,2016,Employment Rate,43.75,Male,Total
+KA,2016,WPR,35.96,Female,Urban
+KA,2016,Female LFPR,77.66,Male,Rural
+KA,2016,IMR,74.82,Total,Urban
+KA,2016,Education Enrolment,69.05,Female,Urban
+KA,2016,Learning Outcomes,21.79,Total,Rural
+KA,2017,Employment Rate,33.63,Male,Urban
+KA,2017,WPR,90.66,Total,Rural
+KA,2017,Female LFPR,18.78,Female,Total
+KA,2017,IMR,59.08,Total,Urban
+KA,2017,Education Enrolment,76.69,Male,Total
+KA,2017,Learning Outcomes,20.08,Total,Urban
+KA,2018,Employment Rate,51.67,Male,Urban
+KA,2018,WPR,74.63,Male,Total
+KA,2018,Female LFPR,61.48,Total,Urban
+KA,2018,IMR,94.08,Male,Urban
+KA,2018,Education Enrolment,54.06,Total,Total
+KA,2018,Learning Outcomes,59.54,Female,Urban
+KA,2019,Employment Rate,75.7,Total,Rural
+KA,2019,WPR,20.97,Female,Total
+KA,2019,Female LFPR,45.06,Female,Total
+KA,2019,IMR,23.64,Total,Total
+KA,2019,Education Enrolment,59.18,Female,Rural
+KA,2019,Learning Outcomes,69.43,Total,Rural
+KA,2020,Employment Rate,86.44,Total,Urban
+KA,2020,WPR,50.14,Male,Urban
+KA,2020,Female LFPR,58.89,Male,Urban
+KA,2020,IMR,24.53,Male,Total
+KA,2020,Education Enrolment,45.57,Male,Total
+KA,2020,Learning Outcomes,16.51,Female,Urban
+KA,2021,Employment Rate,84.35,Male,Rural
+KA,2021,WPR,57.19,Male,Rural
+KA,2021,Female LFPR,86.89,Total,Total
+KA,2021,IMR,93.76,Female,Rural
+KA,2021,Education Enrolment,46.73,Male,Rural
+KA,2021,Learning Outcomes,36.25,Female,Rural
+KA,2022,Employment Rate,80.25,Female,Total
+KA,2022,WPR,24.66,Female,Rural
+KA,2022,Female LFPR,16.68,Male,Rural
+KA,2022,IMR,28.28,Total,Rural
+KA,2022,Education Enrolment,79.91,Male,Urban
+KA,2022,Learning Outcomes,28.45,Total,Total
+KA,2023,Employment Rate,49.5,Total,Urban
+KA,2023,WPR,93.27,Male,Rural
+KA,2023,Female LFPR,70.01,Male,Total
+KA,2023,IMR,41.95,Total,Rural
+KA,2023,Education Enrolment,42.31,Female,Rural
+KA,2023,Learning Outcomes,20.12,Male,Total
+KA,2024,Employment Rate,55.32,Female,Total
+KA,2024,WPR,66.67,Total,Total
+KA,2024,Female LFPR,43.12,Female,Rural
+KA,2024,IMR,64.23,Male,Total
+KA,2024,Education Enrolment,38.24,Male,Urban
+KA,2024,Learning Outcomes,17.56,Total,Total
+KA,2025,Employment Rate,90.15,Male,Total
+KA,2025,WPR,63.46,Total,Total
+KA,2025,Female LFPR,59.44,Female,Rural
+KA,2025,IMR,71.91,Female,Rural
+KA,2025,Education Enrolment,84.25,Total,Urban
+KA,2025,Learning Outcomes,66.67,Female,Total
+MH,2005,Employment Rate,84.33,Total,Urban
+MH,2005,WPR,55.51,Total,Rural
+MH,2005,Female LFPR,33.85,Male,Urban
+MH,2005,IMR,65.34,Female,Rural
+MH,2005,Education Enrolment,89.84,Total,Rural
+MH,2005,Learning Outcomes,79.46,Male,Urban
+MH,2006,Employment Rate,17.06,Female,Urban
+MH,2006,WPR,29.99,Female,Rural
+MH,2006,Female LFPR,37.83,Total,Urban
+MH,2006,IMR,35.65,Male,Urban
+MH,2006,Education Enrolment,50.48,Female,Total
+MH,2006,Learning Outcomes,38.73,Male,Rural
+MH,2007,Employment Rate,23.46,Total,Rural
+MH,2007,WPR,72.81,Total,Rural
+MH,2007,Female LFPR,39.63,Total,Rural
+MH,2007,IMR,37.17,Total,Rural
+MH,2007,Education Enrolment,39.77,Male,Total
+MH,2007,Learning Outcomes,84.28,Male,Total
+MH,2008,Employment Rate,17.58,Male,Total
+MH,2008,WPR,53.41,Female,Rural
+MH,2008,Female LFPR,70.69,Female,Total
+MH,2008,IMR,56.67,Male,Total
+MH,2008,Education Enrolment,70.47,Male,Urban
+MH,2008,Learning Outcomes,41.34,Male,Urban
+MH,2009,Employment Rate,43.89,Female,Rural
+MH,2009,WPR,64.44,Total,Total
+MH,2009,Female LFPR,96.6,Male,Total
+MH,2009,IMR,42.27,Female,Urban
+MH,2009,Education Enrolment,17.06,Total,Urban
+MH,2009,Learning Outcomes,48.19,Female,Total
+MH,2010,Employment Rate,83.15,Total,Total
+MH,2010,WPR,51.38,Total,Total
+MH,2010,Female LFPR,32.27,Male,Rural
+MH,2010,IMR,67.83,Female,Total
+MH,2010,Education Enrolment,27.44,Female,Total
+MH,2010,Learning Outcomes,24.44,Total,Total
+MH,2011,Employment Rate,39.9,Total,Total
+MH,2011,WPR,65.15,Total,Total
+MH,2011,Female LFPR,78.19,Female,Rural
+MH,2011,IMR,35.36,Female,Urban
+MH,2011,Education Enrolment,88.02,Female,Rural
+MH,2011,Learning Outcomes,93.62,Female,Rural
+MH,2012,Employment Rate,51.55,Female,Total
+MH,2012,WPR,63.78,Male,Rural
+MH,2012,Female LFPR,60.97,Total,Rural
+MH,2012,IMR,18.51,Total,Urban
+MH,2012,Education Enrolment,84.25,Total,Urban
+MH,2012,Learning Outcomes,49.04,Female,Rural
+MH,2013,Employment Rate,31.41,Female,Rural
+MH,2013,WPR,68.55,Female,Urban
+MH,2013,Female LFPR,94.2,Total,Rural
+MH,2013,IMR,20.64,Total,Urban
+MH,2013,Education Enrolment,53.58,Female,Total
+MH,2013,Learning Outcomes,93.42,Female,Total
+MH,2014,Employment Rate,64.97,Total,Total
+MH,2014,WPR,44.56,Male,Rural
+MH,2014,Female LFPR,86.43,Total,Urban
+MH,2014,IMR,71.81,Male,Urban
+MH,2014,Education Enrolment,73.67,Total,Total
+MH,2014,Learning Outcomes,27.31,Male,Rural
+MH,2015,Employment Rate,20.67,Female,Total
+MH,2015,WPR,36.74,Male,Urban
+MH,2015,Female LFPR,43.21,Female,Rural
+MH,2015,IMR,40.95,Total,Rural
+MH,2015,Education Enrolment,86.31,Total,Rural
+MH,2015,Learning Outcomes,85.62,Female,Total
+MH,2016,Employment Rate,45.14,Male,Total
+MH,2016,WPR,93.54,Female,Urban
+MH,2016,Female LFPR,29.72,Female,Urban
+MH,2016,IMR,47.6,Male,Total
+MH,2016,Education Enrolment,64.6,Total,Total
+MH,2016,Learning Outcomes,79.91,Total,Total
+MH,2017,Employment Rate,41.56,Female,Total
+MH,2017,WPR,44.95,Total,Total
+MH,2017,Female LFPR,45.86,Total,Total
+MH,2017,IMR,75.51,Male,Rural
+MH,2017,Education Enrolment,96.45,Male,Urban
+MH,2017,Learning Outcomes,91.5,Female,Rural
+MH,2018,Employment Rate,20.41,Male,Rural
+MH,2018,WPR,26.22,Male,Rural
+MH,2018,Female LFPR,76.78,Male,Rural
+MH,2018,IMR,31.55,Female,Total
+MH,2018,Education Enrolment,77.71,Female,Rural
+MH,2018,Learning Outcomes,72.16,Male,Urban
+MH,2019,Employment Rate,54.96,Male,Rural
+MH,2019,WPR,97.16,Total,Rural
+MH,2019,Female LFPR,15.91,Female,Total
+MH,2019,IMR,97.22,Female,Rural
+MH,2019,Education Enrolment,67.63,Total,Total
+MH,2019,Learning Outcomes,75.84,Total,Urban
+MH,2020,Employment Rate,60.28,Male,Total
+MH,2020,WPR,52.56,Female,Urban
+MH,2020,Female LFPR,49.96,Total,Urban
+MH,2020,IMR,67.25,Total,Rural
+MH,2020,Education Enrolment,88.87,Male,Rural
+MH,2020,Learning Outcomes,24.93,Female,Rural
+MH,2021,Employment Rate,23.2,Male,Urban
+MH,2021,WPR,40.35,Total,Urban
+MH,2021,Female LFPR,46.18,Female,Urban
+MH,2021,IMR,37.12,Male,Rural
+MH,2021,Education Enrolment,36.32,Total,Rural
+MH,2021,Learning Outcomes,84.0,Total,Urban
+MH,2022,Employment Rate,63.92,Total,Urban
+MH,2022,WPR,54.45,Male,Total
+MH,2022,Female LFPR,25.84,Male,Urban
+MH,2022,IMR,67.69,Total,Total
+MH,2022,Education Enrolment,92.23,Female,Urban
+MH,2022,Learning Outcomes,23.21,Female,Total
+MH,2023,Employment Rate,39.85,Total,Total
+MH,2023,WPR,67.54,Total,Urban
+MH,2023,Female LFPR,49.65,Total,Total
+MH,2023,IMR,86.53,Male,Rural
+MH,2023,Education Enrolment,66.62,Total,Urban
+MH,2023,Learning Outcomes,48.16,Female,Rural
+MH,2024,Employment Rate,53.99,Male,Total
+MH,2024,WPR,26.84,Total,Urban
+MH,2024,Female LFPR,47.57,Female,Total
+MH,2024,IMR,17.67,Total,Urban
+MH,2024,Education Enrolment,71.97,Female,Total
+MH,2024,Learning Outcomes,19.86,Total,Urban
+MH,2025,Employment Rate,83.29,Male,Rural
+MH,2025,WPR,30.16,Male,Urban
+MH,2025,Female LFPR,75.27,Female,Urban
+MH,2025,IMR,83.8,Total,Total
+MH,2025,Education Enrolment,61.28,Total,Total
+MH,2025,Learning Outcomes,88.8,Female,Total
+GJ,2005,Employment Rate,48.27,Male,Urban
+GJ,2005,WPR,75.0,Male,Total
+GJ,2005,Female LFPR,95.36,Male,Total
+GJ,2005,IMR,60.32,Female,Urban
+GJ,2005,Education Enrolment,55.65,Female,Rural
+GJ,2005,Learning Outcomes,53.06,Male,Urban
+GJ,2006,Employment Rate,97.8,Total,Total
+GJ,2006,WPR,60.11,Female,Rural
+GJ,2006,Female LFPR,93.76,Female,Urban
+GJ,2006,IMR,56.73,Total,Total
+GJ,2006,Education Enrolment,15.29,Female,Rural
+GJ,2006,Learning Outcomes,45.0,Male,Rural
+GJ,2007,Employment Rate,67.1,Total,Total
+GJ,2007,WPR,26.71,Total,Urban
+GJ,2007,Female LFPR,85.93,Total,Urban
+GJ,2007,IMR,57.1,Total,Rural
+GJ,2007,Education Enrolment,74.14,Female,Rural
+GJ,2007,Learning Outcomes,42.94,Total,Total
+GJ,2008,Employment Rate,95.0,Male,Rural
+GJ,2008,WPR,21.95,Male,Rural
+GJ,2008,Female LFPR,44.06,Total,Rural
+GJ,2008,IMR,44.29,Female,Total
+GJ,2008,Education Enrolment,64.31,Total,Rural
+GJ,2008,Learning Outcomes,52.52,Total,Rural
+GJ,2009,Employment Rate,21.06,Male,Rural
+GJ,2009,WPR,65.86,Male,Total
+GJ,2009,Female LFPR,25.11,Female,Urban
+GJ,2009,IMR,62.0,Total,Total
+GJ,2009,Education Enrolment,84.88,Female,Total
+GJ,2009,Learning Outcomes,58.54,Male,Rural
+GJ,2010,Employment Rate,43.03,Total,Urban
+GJ,2010,WPR,49.37,Total,Urban
+GJ,2010,Female LFPR,87.19,Female,Rural
+GJ,2010,IMR,82.09,Male,Rural
+GJ,2010,Education Enrolment,15.33,Total,Total
+GJ,2010,Learning Outcomes,88.7,Female,Rural
+GJ,2011,Employment Rate,58.2,Male,Total
+GJ,2011,WPR,38.79,Total,Rural
+GJ,2011,Female LFPR,27.58,Male,Urban
+GJ,2011,IMR,91.15,Female,Rural
+GJ,2011,Education Enrolment,56.13,Female,Rural
+GJ,2011,Learning Outcomes,16.93,Total,Total
+GJ,2012,Employment Rate,76.41,Female,Total
+GJ,2012,WPR,35.27,Female,Total
+GJ,2012,Female LFPR,86.63,Total,Urban
+GJ,2012,IMR,94.8,Female,Total
+GJ,2012,Education Enrolment,39.43,Total,Rural
+GJ,2012,Learning Outcomes,27.54,Female,Total
+GJ,2013,Employment Rate,36.39,Male,Total
+GJ,2013,WPR,84.43,Total,Total
+GJ,2013,Female LFPR,81.87,Male,Total
+GJ,2013,IMR,67.78,Total,Rural
+GJ,2013,Education Enrolment,25.67,Female,Urban
+GJ,2013,Learning Outcomes,84.59,Female,Urban
+GJ,2014,Employment Rate,81.31,Total,Rural
+GJ,2014,WPR,80.22,Female,Rural
+GJ,2014,Female LFPR,48.07,Total,Total
+GJ,2014,IMR,60.8,Total,Urban
+GJ,2014,Education Enrolment,20.41,Total,Rural
+GJ,2014,Learning Outcomes,24.59,Male,Rural
+GJ,2015,Employment Rate,78.13,Male,Rural
+GJ,2015,WPR,38.37,Total,Total
+GJ,2015,Female LFPR,73.03,Female,Urban
+GJ,2015,IMR,86.08,Male,Rural
+GJ,2015,Education Enrolment,78.75,Female,Urban
+GJ,2015,Learning Outcomes,25.18,Female,Total
+GJ,2016,Employment Rate,75.37,Female,Total
+GJ,2016,WPR,46.78,Female,Urban
+GJ,2016,Female LFPR,16.37,Total,Urban
+GJ,2016,IMR,44.81,Female,Urban
+GJ,2016,Education Enrolment,21.14,Female,Urban
+GJ,2016,Learning Outcomes,88.84,Female,Urban
+GJ,2017,Employment Rate,93.87,Female,Total
+GJ,2017,WPR,45.86,Total,Total
+GJ,2017,Female LFPR,97.88,Total,Rural
+GJ,2017,IMR,81.0,Male,Rural
+GJ,2017,Education Enrolment,40.35,Male,Total
+GJ,2017,Learning Outcomes,21.39,Female,Urban
+GJ,2018,Employment Rate,88.38,Total,Urban
+GJ,2018,WPR,97.36,Female,Rural
+GJ,2018,Female LFPR,33.24,Total,Total
+GJ,2018,IMR,66.2,Female,Urban
+GJ,2018,Education Enrolment,21.67,Female,Rural
+GJ,2018,Learning Outcomes,31.46,Female,Urban
+GJ,2019,Employment Rate,93.65,Male,Rural
+GJ,2019,WPR,19.88,Male,Urban
+GJ,2019,Female LFPR,42.29,Female,Urban
+GJ,2019,IMR,29.38,Male,Rural
+GJ,2019,Education Enrolment,88.46,Total,Total
+GJ,2019,Learning Outcomes,28.95,Total,Total
+GJ,2020,Employment Rate,89.82,Female,Urban
+GJ,2020,WPR,25.95,Male,Total
+GJ,2020,Female LFPR,23.85,Total,Total
+GJ,2020,IMR,27.32,Female,Urban
+GJ,2020,Education Enrolment,93.81,Female,Total
+GJ,2020,Learning Outcomes,36.24,Female,Total
+GJ,2021,Employment Rate,24.75,Female,Rural
+GJ,2021,WPR,48.93,Male,Urban
+GJ,2021,Female LFPR,48.43,Total,Rural
+GJ,2021,IMR,72.72,Male,Urban
+GJ,2021,Education Enrolment,40.85,Female,Rural
+GJ,2021,Learning Outcomes,86.77,Total,Rural
+GJ,2022,Employment Rate,16.56,Male,Total
+GJ,2022,WPR,31.05,Total,Total
+GJ,2022,Female LFPR,61.63,Male,Rural
+GJ,2022,IMR,25.79,Total,Total
+GJ,2022,Education Enrolment,40.46,Male,Rural
+GJ,2022,Learning Outcomes,52.3,Male,Rural
+GJ,2023,Employment Rate,87.95,Male,Urban
+GJ,2023,WPR,39.29,Total,Total
+GJ,2023,Female LFPR,64.11,Female,Total
+GJ,2023,IMR,97.54,Male,Urban
+GJ,2023,Education Enrolment,15.46,Female,Total
+GJ,2023,Learning Outcomes,35.26,Male,Urban
+GJ,2024,Employment Rate,50.63,Male,Urban
+GJ,2024,WPR,63.4,Male,Urban
+GJ,2024,Female LFPR,87.01,Female,Total
+GJ,2024,IMR,22.02,Female,Urban
+GJ,2024,Education Enrolment,57.93,Total,Rural
+GJ,2024,Learning Outcomes,82.78,Total,Total
+GJ,2025,Employment Rate,68.07,Male,Total
+GJ,2025,WPR,36.33,Total,Total
+GJ,2025,Female LFPR,94.34,Total,Urban
+GJ,2025,IMR,81.28,Female,Rural
+GJ,2025,Education Enrolment,27.55,Total,Total
+GJ,2025,Learning Outcomes,40.4,Male,Urban
+RJ,2005,Employment Rate,86.21,Total,Rural
+RJ,2005,WPR,40.34,Male,Urban
+RJ,2005,Female LFPR,22.86,Male,Rural
+RJ,2005,IMR,68.25,Male,Urban
+RJ,2005,Education Enrolment,15.47,Female,Total
+RJ,2005,Learning Outcomes,30.18,Total,Urban
+RJ,2006,Employment Rate,87.38,Total,Total
+RJ,2006,WPR,54.57,Female,Urban
+RJ,2006,Female LFPR,47.79,Male,Rural
+RJ,2006,IMR,38.06,Female,Urban
+RJ,2006,Education Enrolment,97.57,Total,Urban
+RJ,2006,Learning Outcomes,75.26,Male,Total
+RJ,2007,Employment Rate,23.74,Total,Total
+RJ,2007,WPR,93.09,Total,Total
+RJ,2007,Female LFPR,57.79,Male,Urban
+RJ,2007,IMR,79.18,Male,Rural
+RJ,2007,Education Enrolment,63.69,Total,Total
+RJ,2007,Learning Outcomes,82.89,Male,Total
+RJ,2008,Employment Rate,43.2,Total,Rural
+RJ,2008,WPR,28.67,Total,Total
+RJ,2008,Female LFPR,52.69,Female,Rural
+RJ,2008,IMR,79.05,Female,Rural
+RJ,2008,Education Enrolment,59.26,Female,Total
+RJ,2008,Learning Outcomes,63.86,Male,Rural
+RJ,2009,Employment Rate,22.75,Male,Rural
+RJ,2009,WPR,64.27,Female,Total
+RJ,2009,Female LFPR,70.67,Total,Total
+RJ,2009,IMR,89.95,Total,Rural
+RJ,2009,Education Enrolment,41.08,Total,Total
+RJ,2009,Learning Outcomes,45.3,Total,Urban
+RJ,2010,Employment Rate,77.89,Total,Rural
+RJ,2010,WPR,24.96,Female,Total
+RJ,2010,Female LFPR,80.75,Male,Urban
+RJ,2010,IMR,83.72,Female,Rural
+RJ,2010,Education Enrolment,54.8,Male,Total
+RJ,2010,Learning Outcomes,21.75,Total,Urban
+RJ,2011,Employment Rate,67.19,Female,Rural
+RJ,2011,WPR,96.91,Total,Urban
+RJ,2011,Female LFPR,42.55,Male,Total
+RJ,2011,IMR,92.75,Male,Urban
+RJ,2011,Education Enrolment,50.41,Male,Rural
+RJ,2011,Learning Outcomes,86.07,Female,Urban
+RJ,2012,Employment Rate,32.98,Male,Total
+RJ,2012,WPR,24.87,Male,Total
+RJ,2012,Female LFPR,94.55,Male,Rural
+RJ,2012,IMR,68.49,Total,Urban
+RJ,2012,Education Enrolment,44.05,Total,Urban
+RJ,2012,Learning Outcomes,56.43,Male,Urban
+RJ,2013,Employment Rate,39.55,Total,Total
+RJ,2013,WPR,72.42,Female,Total
+RJ,2013,Female LFPR,20.4,Female,Urban
+RJ,2013,IMR,71.54,Female,Total
+RJ,2013,Education Enrolment,94.46,Total,Rural
+RJ,2013,Learning Outcomes,33.88,Female,Rural
+RJ,2014,Employment Rate,91.9,Male,Total
+RJ,2014,WPR,31.86,Female,Rural
+RJ,2014,Female LFPR,25.82,Total,Total
+RJ,2014,IMR,18.98,Total,Total
+RJ,2014,Education Enrolment,84.91,Male,Rural
+RJ,2014,Learning Outcomes,34.17,Male,Rural
+RJ,2015,Employment Rate,96.29,Female,Urban
+RJ,2015,WPR,87.28,Male,Rural
+RJ,2015,Female LFPR,16.75,Total,Rural
+RJ,2015,IMR,72.26,Male,Total
+RJ,2015,Education Enrolment,51.52,Total,Urban
+RJ,2015,Learning Outcomes,80.75,Female,Urban
+RJ,2016,Employment Rate,22.75,Female,Rural
+RJ,2016,WPR,22.54,Total,Urban
+RJ,2016,Female LFPR,36.69,Female,Total
+RJ,2016,IMR,29.39,Total,Urban
+RJ,2016,Education Enrolment,42.17,Male,Rural
+RJ,2016,Learning Outcomes,97.45,Male,Total
+RJ,2017,Employment Rate,19.09,Total,Urban
+RJ,2017,WPR,84.07,Female,Urban
+RJ,2017,Female LFPR,22.3,Male,Total
+RJ,2017,IMR,90.85,Total,Urban
+RJ,2017,Education Enrolment,85.31,Total,Urban
+RJ,2017,Learning Outcomes,31.29,Male,Total
+RJ,2018,Employment Rate,50.04,Male,Urban
+RJ,2018,WPR,77.4,Male,Rural
+RJ,2018,Female LFPR,41.62,Total,Urban
+RJ,2018,IMR,66.68,Total,Urban
+RJ,2018,Education Enrolment,86.43,Female,Urban
+RJ,2018,Learning Outcomes,91.11,Male,Urban
+RJ,2019,Employment Rate,37.83,Male,Total
+RJ,2019,WPR,15.31,Total,Rural
+RJ,2019,Female LFPR,47.51,Total,Rural
+RJ,2019,IMR,75.09,Male,Total
+RJ,2019,Education Enrolment,16.59,Total,Urban
+RJ,2019,Learning Outcomes,71.84,Total,Rural
+RJ,2020,Employment Rate,18.14,Total,Rural
+RJ,2020,WPR,87.51,Total,Rural
+RJ,2020,Female LFPR,92.9,Male,Rural
+RJ,2020,IMR,89.06,Total,Urban
+RJ,2020,Education Enrolment,74.76,Female,Total
+RJ,2020,Learning Outcomes,23.84,Male,Total
+RJ,2021,Employment Rate,90.06,Male,Total
+RJ,2021,WPR,96.28,Total,Urban
+RJ,2021,Female LFPR,42.32,Total,Rural
+RJ,2021,IMR,85.35,Male,Urban
+RJ,2021,Education Enrolment,66.82,Total,Total
+RJ,2021,Learning Outcomes,90.53,Female,Rural
+RJ,2022,Employment Rate,42.31,Total,Rural
+RJ,2022,WPR,71.09,Male,Urban
+RJ,2022,Female LFPR,39.61,Female,Total
+RJ,2022,IMR,70.42,Female,Total
+RJ,2022,Education Enrolment,52.17,Total,Rural
+RJ,2022,Learning Outcomes,56.7,Female,Urban
+RJ,2023,Employment Rate,94.52,Male,Total
+RJ,2023,WPR,19.05,Total,Total
+RJ,2023,Female LFPR,77.45,Total,Rural
+RJ,2023,IMR,31.33,Male,Total
+RJ,2023,Education Enrolment,85.09,Total,Rural
+RJ,2023,Learning Outcomes,75.29,Total,Urban
+RJ,2024,Employment Rate,96.61,Male,Rural
+RJ,2024,WPR,28.28,Total,Rural
+RJ,2024,Female LFPR,58.42,Female,Rural
+RJ,2024,IMR,75.31,Female,Total
+RJ,2024,Education Enrolment,48.5,Male,Rural
+RJ,2024,Learning Outcomes,16.44,Female,Rural
+RJ,2025,Employment Rate,32.63,Total,Rural
+RJ,2025,WPR,25.41,Total,Total
+RJ,2025,Female LFPR,17.64,Total,Total
+RJ,2025,IMR,96.11,Female,Total
+RJ,2025,Education Enrolment,41.81,Female,Urban
+RJ,2025,Learning Outcomes,49.45,Total,Total
+UP,2005,Employment Rate,94.5,Total,Total
+UP,2005,WPR,87.65,Female,Rural
+UP,2005,Female LFPR,51.62,Male,Rural
+UP,2005,IMR,63.22,Total,Urban
+UP,2005,Education Enrolment,19.29,Female,Rural
+UP,2005,Learning Outcomes,82.03,Total,Urban
+UP,2006,Employment Rate,61.99,Female,Urban
+UP,2006,WPR,60.59,Male,Rural
+UP,2006,Female LFPR,35.29,Male,Rural
+UP,2006,IMR,85.47,Female,Urban
+UP,2006,Education Enrolment,30.48,Male,Total
+UP,2006,Learning Outcomes,87.46,Female,Total
+UP,2007,Employment Rate,44.07,Female,Rural
+UP,2007,WPR,96.29,Female,Total
+UP,2007,Female LFPR,72.02,Female,Rural
+UP,2007,IMR,39.66,Male,Rural
+UP,2007,Education Enrolment,30.43,Female,Total
+UP,2007,Learning Outcomes,92.39,Female,Total
+UP,2008,Employment Rate,89.33,Female,Urban
+UP,2008,WPR,43.67,Total,Rural
+UP,2008,Female LFPR,80.48,Total,Rural
+UP,2008,IMR,39.88,Male,Rural
+UP,2008,Education Enrolment,27.8,Total,Rural
+UP,2008,Learning Outcomes,91.62,Female,Total
+UP,2009,Employment Rate,97.09,Male,Rural
+UP,2009,WPR,65.91,Male,Rural
+UP,2009,Female LFPR,34.27,Male,Total
+UP,2009,IMR,84.37,Total,Rural
+UP,2009,Education Enrolment,17.96,Male,Urban
+UP,2009,Learning Outcomes,66.09,Male,Urban
+UP,2010,Employment Rate,63.75,Female,Rural
+UP,2010,WPR,29.54,Male,Total
+UP,2010,Female LFPR,68.83,Female,Urban
+UP,2010,IMR,79.64,Male,Rural
+UP,2010,Education Enrolment,50.65,Male,Total
+UP,2010,Learning Outcomes,26.46,Total,Rural
+UP,2011,Employment Rate,64.48,Male,Total
+UP,2011,WPR,58.11,Total,Rural
+UP,2011,Female LFPR,84.6,Female,Rural
+UP,2011,IMR,48.45,Total,Total
+UP,2011,Education Enrolment,35.46,Female,Urban
+UP,2011,Learning Outcomes,65.8,Female,Urban
+UP,2012,Employment Rate,52.07,Female,Rural
+UP,2012,WPR,23.66,Total,Total
+UP,2012,Female LFPR,18.26,Male,Rural
+UP,2012,IMR,30.24,Total,Rural
+UP,2012,Education Enrolment,65.26,Total,Urban
+UP,2012,Learning Outcomes,23.78,Male,Rural
+UP,2013,Employment Rate,58.04,Male,Rural
+UP,2013,WPR,51.3,Total,Total
+UP,2013,Female LFPR,91.68,Total,Urban
+UP,2013,IMR,83.12,Male,Total
+UP,2013,Education Enrolment,90.21,Male,Rural
+UP,2013,Learning Outcomes,36.29,Female,Urban
+UP,2014,Employment Rate,95.13,Female,Urban
+UP,2014,WPR,28.41,Male,Rural
+UP,2014,Female LFPR,95.47,Male,Urban
+UP,2014,IMR,25.83,Male,Urban
+UP,2014,Education Enrolment,16.05,Male,Urban
+UP,2014,Learning Outcomes,63.25,Total,Urban
+UP,2015,Employment Rate,66.2,Female,Rural
+UP,2015,WPR,97.3,Total,Urban
+UP,2015,Female LFPR,55.81,Female,Rural
+UP,2015,IMR,15.41,Female,Urban
+UP,2015,Education Enrolment,60.64,Female,Rural
+UP,2015,Learning Outcomes,29.02,Female,Rural
+UP,2016,Employment Rate,23.32,Total,Urban
+UP,2016,WPR,55.3,Male,Urban
+UP,2016,Female LFPR,85.57,Male,Urban
+UP,2016,IMR,96.11,Male,Rural
+UP,2016,Education Enrolment,20.61,Total,Rural
+UP,2016,Learning Outcomes,66.39,Male,Urban
+UP,2017,Employment Rate,78.27,Female,Total
+UP,2017,WPR,19.4,Female,Urban
+UP,2017,Female LFPR,26.07,Male,Total
+UP,2017,IMR,57.39,Male,Total
+UP,2017,Education Enrolment,66.19,Total,Total
+UP,2017,Learning Outcomes,70.43,Male,Urban
+UP,2018,Employment Rate,79.42,Male,Rural
+UP,2018,WPR,81.19,Female,Rural
+UP,2018,Female LFPR,62.44,Total,Total
+UP,2018,IMR,83.35,Male,Urban
+UP,2018,Education Enrolment,35.09,Total,Total
+UP,2018,Learning Outcomes,76.46,Male,Urban
+UP,2019,Employment Rate,18.27,Female,Total
+UP,2019,WPR,65.68,Female,Rural
+UP,2019,Female LFPR,28.91,Male,Urban
+UP,2019,IMR,94.74,Total,Total
+UP,2019,Education Enrolment,21.48,Female,Urban
+UP,2019,Learning Outcomes,82.69,Male,Total
+UP,2020,Employment Rate,93.43,Total,Rural
+UP,2020,WPR,97.16,Female,Total
+UP,2020,Female LFPR,32.75,Female,Rural
+UP,2020,IMR,39.27,Female,Rural
+UP,2020,Education Enrolment,15.95,Total,Rural
+UP,2020,Learning Outcomes,49.06,Male,Rural
+UP,2021,Employment Rate,32.42,Female,Total
+UP,2021,WPR,55.76,Female,Total
+UP,2021,Female LFPR,22.94,Male,Total
+UP,2021,IMR,63.93,Total,Total
+UP,2021,Education Enrolment,66.93,Total,Rural
+UP,2021,Learning Outcomes,88.77,Male,Urban
+UP,2022,Employment Rate,74.73,Female,Rural
+UP,2022,WPR,88.02,Female,Rural
+UP,2022,Female LFPR,46.13,Total,Urban
+UP,2022,IMR,49.83,Male,Rural
+UP,2022,Education Enrolment,15.69,Total,Rural
+UP,2022,Learning Outcomes,50.83,Total,Urban
+UP,2023,Employment Rate,26.65,Total,Rural
+UP,2023,WPR,63.0,Total,Rural
+UP,2023,Female LFPR,69.33,Male,Total
+UP,2023,IMR,23.6,Total,Rural
+UP,2023,Education Enrolment,22.59,Male,Total
+UP,2023,Learning Outcomes,72.14,Male,Total
+UP,2024,Employment Rate,48.93,Female,Total
+UP,2024,WPR,31.6,Male,Urban
+UP,2024,Female LFPR,44.05,Total,Total
+UP,2024,IMR,93.47,Total,Total
+UP,2024,Education Enrolment,20.57,Male,Total
+UP,2024,Learning Outcomes,80.57,Male,Urban
+UP,2025,Employment Rate,91.04,Total,Urban
+UP,2025,WPR,33.74,Male,Rural
+UP,2025,Female LFPR,94.27,Total,Rural
+UP,2025,IMR,82.33,Female,Urban
+UP,2025,Education Enrolment,54.61,Female,Rural
+UP,2025,Learning Outcomes,50.83,Total,Urban
+BR,2005,Employment Rate,65.52,Total,Rural
+BR,2005,WPR,83.94,Male,Urban
+BR,2005,Female LFPR,38.37,Total,Urban
+BR,2005,IMR,85.51,Total,Urban
+BR,2005,Education Enrolment,62.14,Male,Total
+BR,2005,Learning Outcomes,87.09,Total,Rural
+BR,2006,Employment Rate,58.77,Total,Total
+BR,2006,WPR,77.09,Male,Total
+BR,2006,Female LFPR,55.63,Male,Urban
+BR,2006,IMR,83.39,Male,Rural
+BR,2006,Education Enrolment,94.74,Male,Urban
+BR,2006,Learning Outcomes,76.25,Male,Total
+BR,2007,Employment Rate,46.69,Total,Urban
+BR,2007,WPR,15.31,Female,Rural
+BR,2007,Female LFPR,59.67,Male,Total
+BR,2007,IMR,67.92,Total,Rural
+BR,2007,Education Enrolment,59.86,Total,Total
+BR,2007,Learning Outcomes,18.62,Male,Total
+BR,2008,Employment Rate,95.6,Male,Total
+BR,2008,WPR,88.05,Female,Total
+BR,2008,Female LFPR,48.26,Male,Total
+BR,2008,IMR,15.11,Female,Urban
+BR,2008,Education Enrolment,79.82,Male,Urban
+BR,2008,Learning Outcomes,96.17,Male,Urban
+BR,2009,Employment Rate,27.49,Male,Total
+BR,2009,WPR,62.36,Female,Urban
+BR,2009,Female LFPR,61.18,Total,Rural
+BR,2009,IMR,86.28,Total,Rural
+BR,2009,Education Enrolment,20.23,Male,Rural
+BR,2009,Learning Outcomes,16.3,Total,Total
+BR,2010,Employment Rate,46.17,Female,Rural
+BR,2010,WPR,35.29,Female,Rural
+BR,2010,Female LFPR,57.41,Male,Urban
+BR,2010,IMR,66.15,Male,Rural
+BR,2010,Education Enrolment,62.86,Total,Urban
+BR,2010,Learning Outcomes,72.68,Female,Rural
+BR,2011,Employment Rate,80.66,Female,Rural
+BR,2011,WPR,62.11,Female,Total
+BR,2011,Female LFPR,27.42,Female,Urban
+BR,2011,IMR,53.89,Female,Rural
+BR,2011,Education Enrolment,38.98,Total,Total
+BR,2011,Learning Outcomes,78.27,Total,Rural
+BR,2012,Employment Rate,79.86,Total,Rural
+BR,2012,WPR,64.37,Male,Total
+BR,2012,Female LFPR,42.12,Total,Urban
+BR,2012,IMR,32.61,Male,Urban
+BR,2012,Education Enrolment,86.31,Male,Total
+BR,2012,Learning Outcomes,60.32,Male,Urban
+BR,2013,Employment Rate,50.76,Female,Total
+BR,2013,WPR,81.02,Total,Rural
+BR,2013,Female LFPR,46.84,Female,Total
+BR,2013,IMR,32.56,Total,Rural
+BR,2013,Education Enrolment,20.32,Male,Urban
+BR,2013,Learning Outcomes,80.81,Total,Rural
+BR,2014,Employment Rate,42.88,Female,Total
+BR,2014,WPR,91.08,Male,Urban
+BR,2014,Female LFPR,59.99,Total,Total
+BR,2014,IMR,81.96,Total,Urban
+BR,2014,Education Enrolment,69.36,Female,Total
+BR,2014,Learning Outcomes,33.66,Total,Urban
+BR,2015,Employment Rate,35.79,Female,Total
+BR,2015,WPR,48.47,Total,Rural
+BR,2015,Female LFPR,37.45,Total,Urban
+BR,2015,IMR,44.91,Total,Rural
+BR,2015,Education Enrolment,79.99,Female,Urban
+BR,2015,Learning Outcomes,50.3,Male,Rural
+BR,2016,Employment Rate,43.36,Female,Total
+BR,2016,WPR,89.39,Total,Urban
+BR,2016,Female LFPR,64.11,Total,Total
+BR,2016,IMR,15.1,Total,Rural
+BR,2016,Education Enrolment,30.69,Male,Urban
+BR,2016,Learning Outcomes,42.65,Total,Rural
+BR,2017,Employment Rate,27.4,Male,Urban
+BR,2017,WPR,69.93,Total,Urban
+BR,2017,Female LFPR,36.18,Male,Total
+BR,2017,IMR,70.23,Female,Rural
+BR,2017,Education Enrolment,66.95,Female,Rural
+BR,2017,Learning Outcomes,49.46,Male,Urban
+BR,2018,Employment Rate,40.43,Male,Total
+BR,2018,WPR,86.47,Male,Urban
+BR,2018,Female LFPR,39.02,Male,Total
+BR,2018,IMR,40.1,Female,Total
+BR,2018,Education Enrolment,63.24,Male,Total
+BR,2018,Learning Outcomes,39.39,Total,Rural
+BR,2019,Employment Rate,46.75,Total,Urban
+BR,2019,WPR,70.84,Total,Rural
+BR,2019,Female LFPR,79.67,Female,Rural
+BR,2019,IMR,19.94,Total,Rural
+BR,2019,Education Enrolment,25.81,Male,Total
+BR,2019,Learning Outcomes,82.35,Total,Total
+BR,2020,Employment Rate,28.43,Total,Urban
+BR,2020,WPR,23.19,Total,Rural
+BR,2020,Female LFPR,23.39,Male,Urban
+BR,2020,IMR,46.65,Female,Total
+BR,2020,Education Enrolment,20.97,Male,Rural
+BR,2020,Learning Outcomes,78.5,Male,Total
+BR,2021,Employment Rate,34.4,Total,Rural
+BR,2021,WPR,47.44,Total,Rural
+BR,2021,Female LFPR,66.92,Female,Urban
+BR,2021,IMR,37.84,Female,Total
+BR,2021,Education Enrolment,81.54,Male,Total
+BR,2021,Learning Outcomes,54.5,Female,Rural
+BR,2022,Employment Rate,47.01,Total,Urban
+BR,2022,WPR,64.7,Female,Rural
+BR,2022,Female LFPR,88.91,Total,Total
+BR,2022,IMR,17.9,Female,Urban
+BR,2022,Education Enrolment,73.61,Male,Urban
+BR,2022,Learning Outcomes,58.33,Male,Urban
+BR,2023,Employment Rate,27.92,Male,Rural
+BR,2023,WPR,86.35,Total,Rural
+BR,2023,Female LFPR,23.02,Total,Urban
+BR,2023,IMR,54.76,Male,Urban
+BR,2023,Education Enrolment,21.54,Total,Rural
+BR,2023,Learning Outcomes,17.4,Male,Total
+BR,2024,Employment Rate,74.66,Female,Rural
+BR,2024,WPR,74.92,Male,Total
+BR,2024,Female LFPR,74.32,Male,Rural
+BR,2024,IMR,96.09,Male,Rural
+BR,2024,Education Enrolment,43.67,Total,Urban
+BR,2024,Learning Outcomes,28.75,Female,Urban
+BR,2025,Employment Rate,72.55,Female,Urban
+BR,2025,WPR,18.96,Male,Urban
+BR,2025,Female LFPR,93.18,Female,Total
+BR,2025,IMR,85.13,Male,Urban
+BR,2025,Education Enrolment,56.94,Total,Rural
+BR,2025,Learning Outcomes,37.1,Female,Total
+MP,2005,Employment Rate,70.52,Total,Urban
+MP,2005,WPR,92.34,Female,Urban
+MP,2005,Female LFPR,86.57,Male,Rural
+MP,2005,IMR,55.16,Total,Urban
+MP,2005,Education Enrolment,65.04,Total,Rural
+MP,2005,Learning Outcomes,46.54,Female,Rural
+MP,2006,Employment Rate,77.52,Female,Rural
+MP,2006,WPR,88.3,Male,Rural
+MP,2006,Female LFPR,33.49,Total,Total
+MP,2006,IMR,47.99,Male,Rural
+MP,2006,Education Enrolment,58.27,Female,Total
+MP,2006,Learning Outcomes,29.35,Female,Total
+MP,2007,Employment Rate,50.46,Total,Rural
+MP,2007,WPR,75.93,Female,Urban
+MP,2007,Female LFPR,72.74,Male,Total
+MP,2007,IMR,27.52,Female,Total
+MP,2007,Education Enrolment,75.83,Total,Rural
+MP,2007,Learning Outcomes,77.63,Female,Rural
+MP,2008,Employment Rate,26.69,Female,Total
+MP,2008,WPR,30.02,Total,Total
+MP,2008,Female LFPR,65.62,Female,Total
+MP,2008,IMR,28.91,Female,Total
+MP,2008,Education Enrolment,60.69,Female,Rural
+MP,2008,Learning Outcomes,24.35,Total,Urban
+MP,2009,Employment Rate,76.73,Total,Rural
+MP,2009,WPR,84.5,Male,Urban
+MP,2009,Female LFPR,29.31,Male,Urban
+MP,2009,IMR,57.11,Male,Total
+MP,2009,Education Enrolment,25.03,Male,Rural
+MP,2009,Learning Outcomes,40.4,Total,Total
+MP,2010,Employment Rate,61.45,Total,Rural
+MP,2010,WPR,94.99,Female,Total
+MP,2010,Female LFPR,34.34,Male,Total
+MP,2010,IMR,21.93,Total,Total
+MP,2010,Education Enrolment,63.37,Male,Urban
+MP,2010,Learning Outcomes,30.48,Male,Rural
+MP,2011,Employment Rate,35.63,Female,Total
+MP,2011,WPR,29.58,Male,Total
+MP,2011,Female LFPR,17.35,Total,Urban
+MP,2011,IMR,29.38,Total,Urban
+MP,2011,Education Enrolment,69.5,Male,Urban
+MP,2011,Learning Outcomes,45.99,Female,Urban
+MP,2012,Employment Rate,32.71,Male,Urban
+MP,2012,WPR,75.61,Male,Urban
+MP,2012,Female LFPR,60.06,Total,Urban
+MP,2012,IMR,40.67,Total,Rural
+MP,2012,Education Enrolment,83.31,Male,Total
+MP,2012,Learning Outcomes,65.88,Female,Rural
+MP,2013,Employment Rate,43.46,Male,Rural
+MP,2013,WPR,31.47,Female,Urban
+MP,2013,Female LFPR,65.97,Total,Urban
+MP,2013,IMR,27.04,Female,Total
+MP,2013,Education Enrolment,67.11,Total,Urban
+MP,2013,Learning Outcomes,60.04,Total,Urban
+MP,2014,Employment Rate,18.01,Female,Total
+MP,2014,WPR,52.76,Female,Rural
+MP,2014,Female LFPR,96.09,Female,Urban
+MP,2014,IMR,64.86,Total,Urban
+MP,2014,Education Enrolment,31.14,Female,Urban
+MP,2014,Learning Outcomes,37.87,Total,Total
+MP,2015,Employment Rate,46.11,Female,Urban
+MP,2015,WPR,50.75,Male,Urban
+MP,2015,Female LFPR,76.77,Female,Rural
+MP,2015,IMR,83.47,Male,Rural
+MP,2015,Education Enrolment,24.03,Total,Rural
+MP,2015,Learning Outcomes,77.28,Male,Rural
+MP,2016,Employment Rate,23.35,Male,Urban
+MP,2016,WPR,15.21,Total,Urban
+MP,2016,Female LFPR,96.54,Male,Rural
+MP,2016,IMR,57.55,Female,Total
+MP,2016,Education Enrolment,32.72,Female,Urban
+MP,2016,Learning Outcomes,97.92,Female,Rural
+MP,2017,Employment Rate,27.36,Female,Total
+MP,2017,WPR,23.33,Male,Total
+MP,2017,Female LFPR,45.98,Total,Total
+MP,2017,IMR,32.7,Female,Rural
+MP,2017,Education Enrolment,94.66,Male,Rural
+MP,2017,Learning Outcomes,85.88,Total,Total
+MP,2018,Employment Rate,52.77,Total,Total
+MP,2018,WPR,52.33,Male,Urban
+MP,2018,Female LFPR,93.28,Male,Total
+MP,2018,IMR,21.96,Female,Urban
+MP,2018,Education Enrolment,81.6,Total,Urban
+MP,2018,Learning Outcomes,58.78,Total,Rural
+MP,2019,Employment Rate,32.25,Total,Total
+MP,2019,WPR,66.83,Total,Urban
+MP,2019,Female LFPR,33.05,Female,Urban
+MP,2019,IMR,94.67,Male,Rural
+MP,2019,Education Enrolment,48.26,Male,Urban
+MP,2019,Learning Outcomes,29.83,Total,Total
+MP,2020,Employment Rate,70.21,Female,Total
+MP,2020,WPR,88.2,Male,Urban
+MP,2020,Female LFPR,21.25,Total,Total
+MP,2020,IMR,60.95,Male,Total
+MP,2020,Education Enrolment,40.13,Female,Rural
+MP,2020,Learning Outcomes,60.9,Male,Rural
+MP,2021,Employment Rate,20.97,Total,Rural
+MP,2021,WPR,21.66,Female,Rural
+MP,2021,Female LFPR,80.04,Total,Urban
+MP,2021,IMR,57.96,Total,Rural
+MP,2021,Education Enrolment,55.42,Total,Rural
+MP,2021,Learning Outcomes,50.32,Male,Total
+MP,2022,Employment Rate,88.65,Female,Urban
+MP,2022,WPR,88.56,Total,Rural
+MP,2022,Female LFPR,18.23,Male,Total
+MP,2022,IMR,64.49,Female,Urban
+MP,2022,Education Enrolment,63.3,Female,Urban
+MP,2022,Learning Outcomes,62.66,Male,Rural
+MP,2023,Employment Rate,48.39,Male,Rural
+MP,2023,WPR,35.25,Total,Total
+MP,2023,Female LFPR,65.89,Female,Rural
+MP,2023,IMR,57.04,Total,Urban
+MP,2023,Education Enrolment,32.72,Female,Urban
+MP,2023,Learning Outcomes,92.98,Total,Rural
+MP,2024,Employment Rate,51.56,Total,Total
+MP,2024,WPR,41.97,Male,Urban
+MP,2024,Female LFPR,88.16,Total,Total
+MP,2024,IMR,60.93,Total,Rural
+MP,2024,Education Enrolment,45.44,Male,Rural
+MP,2024,Learning Outcomes,20.39,Male,Rural
+MP,2025,Employment Rate,38.46,Total,Urban
+MP,2025,WPR,71.58,Total,Urban
+MP,2025,Female LFPR,83.85,Female,Urban
+MP,2025,IMR,88.41,Total,Urban
+MP,2025,Education Enrolment,51.88,Female,Urban
+MP,2025,Learning Outcomes,40.89,Male,Total
+WB,2005,Employment Rate,25.01,Total,Urban
+WB,2005,WPR,89.13,Female,Urban
+WB,2005,Female LFPR,52.55,Male,Urban
+WB,2005,IMR,31.56,Female,Rural
+WB,2005,Education Enrolment,34.68,Female,Total
+WB,2005,Learning Outcomes,75.64,Male,Total
+WB,2006,Employment Rate,34.72,Male,Urban
+WB,2006,WPR,91.88,Female,Urban
+WB,2006,Female LFPR,96.53,Female,Rural
+WB,2006,IMR,20.18,Male,Total
+WB,2006,Education Enrolment,39.34,Total,Rural
+WB,2006,Learning Outcomes,29.25,Total,Rural
+WB,2007,Employment Rate,51.83,Female,Urban
+WB,2007,WPR,21.36,Total,Rural
+WB,2007,Female LFPR,15.51,Total,Total
+WB,2007,IMR,90.42,Total,Rural
+WB,2007,Education Enrolment,21.22,Total,Urban
+WB,2007,Learning Outcomes,46.83,Female,Total
+WB,2008,Employment Rate,72.51,Male,Rural
+WB,2008,WPR,18.59,Total,Rural
+WB,2008,Female LFPR,80.54,Female,Rural
+WB,2008,IMR,34.64,Female,Total
+WB,2008,Education Enrolment,95.15,Female,Urban
+WB,2008,Learning Outcomes,61.94,Male,Total
+WB,2009,Employment Rate,76.37,Male,Urban
+WB,2009,WPR,41.68,Female,Total
+WB,2009,Female LFPR,94.7,Female,Total
+WB,2009,IMR,35.46,Male,Rural
+WB,2009,Education Enrolment,82.37,Female,Total
+WB,2009,Learning Outcomes,61.48,Female,Total
+WB,2010,Employment Rate,15.29,Female,Rural
+WB,2010,WPR,30.44,Male,Total
+WB,2010,Female LFPR,40.31,Male,Rural
+WB,2010,IMR,39.85,Male,Total
+WB,2010,Education Enrolment,36.61,Total,Urban
+WB,2010,Learning Outcomes,51.86,Total,Urban
+WB,2011,Employment Rate,60.42,Total,Urban
+WB,2011,WPR,94.15,Male,Total
+WB,2011,Female LFPR,29.51,Male,Rural
+WB,2011,IMR,27.47,Female,Urban
+WB,2011,Education Enrolment,91.99,Total,Total
+WB,2011,Learning Outcomes,42.33,Female,Rural
+WB,2012,Employment Rate,45.81,Total,Total
+WB,2012,WPR,35.43,Male,Urban
+WB,2012,Female LFPR,49.68,Female,Total
+WB,2012,IMR,27.78,Male,Rural
+WB,2012,Education Enrolment,34.35,Total,Total
+WB,2012,Learning Outcomes,22.27,Total,Urban
+WB,2013,Employment Rate,37.31,Male,Urban
+WB,2013,WPR,30.03,Female,Urban
+WB,2013,Female LFPR,66.91,Female,Rural
+WB,2013,IMR,69.25,Female,Total
+WB,2013,Education Enrolment,37.65,Total,Rural
+WB,2013,Learning Outcomes,55.17,Total,Rural
+WB,2014,Employment Rate,33.86,Total,Rural
+WB,2014,WPR,43.46,Male,Rural
+WB,2014,Female LFPR,64.51,Total,Rural
+WB,2014,IMR,44.56,Male,Total
+WB,2014,Education Enrolment,23.82,Male,Urban
+WB,2014,Learning Outcomes,97.8,Male,Urban
+WB,2015,Employment Rate,19.53,Male,Total
+WB,2015,WPR,44.23,Female,Rural
+WB,2015,Female LFPR,83.41,Male,Total
+WB,2015,IMR,46.12,Male,Rural
+WB,2015,Education Enrolment,84.35,Female,Total
+WB,2015,Learning Outcomes,81.58,Male,Urban
+WB,2016,Employment Rate,17.66,Female,Urban
+WB,2016,WPR,43.59,Female,Urban
+WB,2016,Female LFPR,63.29,Male,Urban
+WB,2016,IMR,31.3,Female,Total
+WB,2016,Education Enrolment,32.1,Total,Total
+WB,2016,Learning Outcomes,18.6,Female,Total
+WB,2017,Employment Rate,60.8,Male,Rural
+WB,2017,WPR,16.85,Female,Total
+WB,2017,Female LFPR,61.88,Total,Total
+WB,2017,IMR,85.36,Female,Rural
+WB,2017,Education Enrolment,17.26,Male,Total
+WB,2017,Learning Outcomes,73.95,Female,Total
+WB,2018,Employment Rate,15.36,Total,Urban
+WB,2018,WPR,53.29,Male,Urban
+WB,2018,Female LFPR,43.29,Female,Total
+WB,2018,IMR,24.32,Female,Rural
+WB,2018,Education Enrolment,93.38,Male,Total
+WB,2018,Learning Outcomes,70.84,Total,Total
+WB,2019,Employment Rate,18.75,Male,Urban
+WB,2019,WPR,44.1,Female,Rural
+WB,2019,Female LFPR,20.17,Female,Rural
+WB,2019,IMR,25.33,Total,Urban
+WB,2019,Education Enrolment,59.62,Total,Total
+WB,2019,Learning Outcomes,23.22,Male,Urban
+WB,2020,Employment Rate,59.57,Female,Total
+WB,2020,WPR,19.86,Female,Urban
+WB,2020,Female LFPR,61.63,Total,Total
+WB,2020,IMR,84.17,Male,Urban
+WB,2020,Education Enrolment,33.21,Female,Urban
+WB,2020,Learning Outcomes,67.02,Total,Urban
+WB,2021,Employment Rate,94.77,Female,Rural
+WB,2021,WPR,44.16,Male,Urban
+WB,2021,Female LFPR,87.04,Male,Urban
+WB,2021,IMR,42.89,Female,Rural
+WB,2021,Education Enrolment,49.99,Female,Rural
+WB,2021,Learning Outcomes,94.59,Total,Total
+WB,2022,Employment Rate,45.2,Total,Urban
+WB,2022,WPR,61.37,Male,Total
+WB,2022,Female LFPR,57.18,Total,Total
+WB,2022,IMR,30.43,Total,Urban
+WB,2022,Education Enrolment,57.26,Female,Total
+WB,2022,Learning Outcomes,83.47,Female,Total
+WB,2023,Employment Rate,91.07,Female,Rural
+WB,2023,WPR,68.96,Female,Urban
+WB,2023,Female LFPR,22.1,Total,Urban
+WB,2023,IMR,85.09,Female,Rural
+WB,2023,Education Enrolment,55.37,Total,Urban
+WB,2023,Learning Outcomes,70.2,Female,Total
+WB,2024,Employment Rate,44.91,Male,Rural
+WB,2024,WPR,80.07,Female,Urban
+WB,2024,Female LFPR,51.42,Total,Urban
+WB,2024,IMR,49.18,Total,Rural
+WB,2024,Education Enrolment,24.08,Total,Rural
+WB,2024,Learning Outcomes,65.06,Female,Rural
+WB,2025,Employment Rate,75.3,Total,Rural
+WB,2025,WPR,50.94,Male,Urban
+WB,2025,Female LFPR,72.57,Female,Total
+WB,2025,IMR,92.85,Male,Total
+WB,2025,Education Enrolment,15.83,Female,Urban
+WB,2025,Learning Outcomes,48.09,Male,Total
+OD,2005,Employment Rate,51.21,Male,Urban
+OD,2005,WPR,37.63,Total,Total
+OD,2005,Female LFPR,43.11,Total,Rural
+OD,2005,IMR,32.55,Total,Total
+OD,2005,Education Enrolment,43.79,Total,Urban
+OD,2005,Learning Outcomes,76.98,Total,Total
+OD,2006,Employment Rate,70.46,Male,Total
+OD,2006,WPR,35.62,Total,Total
+OD,2006,Female LFPR,30.5,Female,Rural
+OD,2006,IMR,86.57,Female,Urban
+OD,2006,Education Enrolment,26.42,Total,Rural
+OD,2006,Learning Outcomes,85.57,Total,Rural
+OD,2007,Employment Rate,64.9,Male,Rural
+OD,2007,WPR,85.88,Total,Urban
+OD,2007,Female LFPR,20.37,Female,Urban
+OD,2007,IMR,80.58,Male,Rural
+OD,2007,Education Enrolment,74.73,Male,Total
+OD,2007,Learning Outcomes,39.2,Female,Rural
+OD,2008,Employment Rate,59.2,Total,Total
+OD,2008,WPR,15.11,Female,Urban
+OD,2008,Female LFPR,33.25,Male,Total
+OD,2008,IMR,75.36,Female,Urban
+OD,2008,Education Enrolment,62.32,Male,Rural
+OD,2008,Learning Outcomes,59.52,Male,Total
+OD,2009,Employment Rate,36.78,Female,Rural
+OD,2009,WPR,53.53,Female,Urban
+OD,2009,Female LFPR,40.38,Male,Urban
+OD,2009,IMR,67.82,Female,Rural
+OD,2009,Education Enrolment,23.57,Female,Urban
+OD,2009,Learning Outcomes,54.81,Male,Rural
+OD,2010,Employment Rate,62.01,Male,Rural
+OD,2010,WPR,43.14,Male,Rural
+OD,2010,Female LFPR,52.13,Female,Total
+OD,2010,IMR,62.43,Total,Urban
+OD,2010,Education Enrolment,69.08,Female,Total
+OD,2010,Learning Outcomes,71.4,Total,Rural
+OD,2011,Employment Rate,86.63,Male,Urban
+OD,2011,WPR,76.74,Male,Urban
+OD,2011,Female LFPR,47.6,Male,Rural
+OD,2011,IMR,84.13,Female,Urban
+OD,2011,Education Enrolment,82.22,Female,Total
+OD,2011,Learning Outcomes,61.06,Female,Urban
+OD,2012,Employment Rate,50.75,Female,Rural
+OD,2012,WPR,89.8,Male,Total
+OD,2012,Female LFPR,87.03,Male,Total
+OD,2012,IMR,25.92,Female,Urban
+OD,2012,Education Enrolment,97.78,Total,Rural
+OD,2012,Learning Outcomes,36.37,Male,Urban
+OD,2013,Employment Rate,44.56,Female,Urban
+OD,2013,WPR,69.12,Female,Rural
+OD,2013,Female LFPR,82.43,Male,Total
+OD,2013,IMR,85.78,Female,Total
+OD,2013,Education Enrolment,61.14,Male,Rural
+OD,2013,Learning Outcomes,62.07,Male,Total
+OD,2014,Employment Rate,95.5,Male,Total
+OD,2014,WPR,78.42,Female,Rural
+OD,2014,Female LFPR,69.64,Female,Rural
+OD,2014,IMR,56.01,Male,Total
+OD,2014,Education Enrolment,87.41,Female,Total
+OD,2014,Learning Outcomes,69.43,Female,Rural
+OD,2015,Employment Rate,45.38,Total,Rural
+OD,2015,WPR,60.96,Male,Total
+OD,2015,Female LFPR,60.73,Male,Rural
+OD,2015,IMR,45.78,Male,Rural
+OD,2015,Education Enrolment,49.09,Total,Total
+OD,2015,Learning Outcomes,65.61,Total,Urban
+OD,2016,Employment Rate,37.12,Male,Rural
+OD,2016,WPR,68.87,Total,Rural
+OD,2016,Female LFPR,30.28,Male,Urban
+OD,2016,IMR,67.89,Male,Urban
+OD,2016,Education Enrolment,26.69,Female,Urban
+OD,2016,Learning Outcomes,53.13,Male,Total
+OD,2017,Employment Rate,94.66,Female,Urban
+OD,2017,WPR,77.64,Total,Urban
+OD,2017,Female LFPR,33.27,Female,Total
+OD,2017,IMR,72.27,Total,Rural
+OD,2017,Education Enrolment,81.14,Male,Rural
+OD,2017,Learning Outcomes,32.01,Female,Urban
+OD,2018,Employment Rate,61.5,Male,Total
+OD,2018,WPR,39.15,Male,Urban
+OD,2018,Female LFPR,47.48,Male,Urban
+OD,2018,IMR,42.81,Female,Rural
+OD,2018,Education Enrolment,86.0,Male,Urban
+OD,2018,Learning Outcomes,46.39,Female,Urban
+OD,2019,Employment Rate,90.77,Female,Rural
+OD,2019,WPR,33.85,Total,Urban
+OD,2019,Female LFPR,82.88,Total,Rural
+OD,2019,IMR,81.38,Total,Total
+OD,2019,Education Enrolment,55.99,Male,Total
+OD,2019,Learning Outcomes,20.44,Female,Total
+OD,2020,Employment Rate,60.11,Male,Total
+OD,2020,WPR,17.28,Female,Total
+OD,2020,Female LFPR,75.91,Male,Total
+OD,2020,IMR,43.8,Female,Rural
+OD,2020,Education Enrolment,51.99,Male,Rural
+OD,2020,Learning Outcomes,51.73,Female,Total
+OD,2021,Employment Rate,64.46,Male,Total
+OD,2021,WPR,47.12,Male,Urban
+OD,2021,Female LFPR,30.8,Female,Rural
+OD,2021,IMR,30.94,Female,Total
+OD,2021,Education Enrolment,15.67,Female,Rural
+OD,2021,Learning Outcomes,22.78,Male,Rural
+OD,2022,Employment Rate,59.09,Female,Total
+OD,2022,WPR,34.7,Total,Urban
+OD,2022,Female LFPR,86.06,Male,Rural
+OD,2022,IMR,37.04,Male,Total
+OD,2022,Education Enrolment,74.12,Male,Urban
+OD,2022,Learning Outcomes,92.0,Female,Urban
+OD,2023,Employment Rate,91.97,Total,Rural
+OD,2023,WPR,35.35,Male,Total
+OD,2023,Female LFPR,19.65,Female,Rural
+OD,2023,IMR,92.19,Female,Rural
+OD,2023,Education Enrolment,81.1,Female,Total
+OD,2023,Learning Outcomes,64.19,Female,Total
+OD,2024,Employment Rate,31.13,Male,Total
+OD,2024,WPR,18.85,Total,Total
+OD,2024,Female LFPR,53.76,Total,Urban
+OD,2024,IMR,36.36,Total,Total
+OD,2024,Education Enrolment,97.79,Female,Urban
+OD,2024,Learning Outcomes,61.34,Total,Rural
+OD,2025,Employment Rate,87.57,Total,Rural
+OD,2025,WPR,90.97,Male,Total
+OD,2025,Female LFPR,40.13,Total,Rural
+OD,2025,IMR,35.9,Female,Total
+OD,2025,Education Enrolment,81.4,Female,Total
+OD,2025,Learning Outcomes,40.25,Male,Rural
+PB,2005,Employment Rate,87.53,Female,Total
+PB,2005,WPR,88.8,Female,Rural
+PB,2005,Female LFPR,71.32,Male,Total
+PB,2005,IMR,93.07,Female,Total
+PB,2005,Education Enrolment,43.89,Male,Urban
+PB,2005,Learning Outcomes,73.44,Male,Total
+PB,2006,Employment Rate,89.44,Total,Total
+PB,2006,WPR,26.76,Male,Total
+PB,2006,Female LFPR,22.54,Female,Urban
+PB,2006,IMR,44.58,Female,Urban
+PB,2006,Education Enrolment,61.16,Total,Total
+PB,2006,Learning Outcomes,50.61,Female,Total
+PB,2007,Employment Rate,52.84,Female,Total
+PB,2007,WPR,47.86,Total,Total
+PB,2007,Female LFPR,92.48,Total,Total
+PB,2007,IMR,69.41,Total,Total
+PB,2007,Education Enrolment,97.6,Female,Urban
+PB,2007,Learning Outcomes,26.06,Female,Rural
+PB,2008,Employment Rate,95.66,Female,Urban
+PB,2008,WPR,48.64,Male,Urban
+PB,2008,Female LFPR,28.25,Total,Total
+PB,2008,IMR,90.44,Total,Rural
+PB,2008,Education Enrolment,95.72,Total,Total
+PB,2008,Learning Outcomes,27.96,Female,Rural
+PB,2009,Employment Rate,61.07,Male,Total
+PB,2009,WPR,19.77,Male,Rural
+PB,2009,Female LFPR,62.32,Male,Rural
+PB,2009,IMR,55.8,Total,Urban
+PB,2009,Education Enrolment,27.28,Total,Urban
+PB,2009,Learning Outcomes,71.75,Female,Total
+PB,2010,Employment Rate,50.11,Male,Total
+PB,2010,WPR,42.06,Male,Urban
+PB,2010,Female LFPR,76.98,Male,Urban
+PB,2010,IMR,16.48,Female,Total
+PB,2010,Education Enrolment,55.09,Total,Rural
+PB,2010,Learning Outcomes,85.14,Female,Rural
+PB,2011,Employment Rate,52.68,Female,Rural
+PB,2011,WPR,65.57,Total,Rural
+PB,2011,Female LFPR,61.46,Female,Urban
+PB,2011,IMR,92.69,Total,Urban
+PB,2011,Education Enrolment,77.4,Female,Total
+PB,2011,Learning Outcomes,65.87,Male,Total
+PB,2012,Employment Rate,57.56,Total,Rural
+PB,2012,WPR,68.54,Total,Rural
+PB,2012,Female LFPR,30.38,Female,Rural
+PB,2012,IMR,43.02,Total,Rural
+PB,2012,Education Enrolment,71.0,Male,Rural
+PB,2012,Learning Outcomes,38.59,Male,Urban
+PB,2013,Employment Rate,75.04,Female,Total
+PB,2013,WPR,20.85,Total,Total
+PB,2013,Female LFPR,35.72,Male,Rural
+PB,2013,IMR,32.48,Female,Total
+PB,2013,Education Enrolment,59.7,Female,Total
+PB,2013,Learning Outcomes,21.0,Male,Urban
+PB,2014,Employment Rate,28.62,Total,Urban
+PB,2014,WPR,22.47,Male,Rural
+PB,2014,Female LFPR,95.7,Female,Rural
+PB,2014,IMR,45.98,Male,Rural
+PB,2014,Education Enrolment,52.61,Female,Rural
+PB,2014,Learning Outcomes,93.12,Female,Total
+PB,2015,Employment Rate,59.34,Male,Urban
+PB,2015,WPR,38.65,Female,Urban
+PB,2015,Female LFPR,53.73,Female,Total
+PB,2015,IMR,55.71,Male,Rural
+PB,2015,Education Enrolment,97.56,Female,Rural
+PB,2015,Learning Outcomes,54.23,Total,Rural
+PB,2016,Employment Rate,82.16,Male,Total
+PB,2016,WPR,47.3,Total,Total
+PB,2016,Female LFPR,74.09,Male,Total
+PB,2016,IMR,56.45,Total,Total
+PB,2016,Education Enrolment,37.08,Total,Total
+PB,2016,Learning Outcomes,96.28,Total,Rural
+PB,2017,Employment Rate,49.28,Female,Total
+PB,2017,WPR,80.18,Male,Urban
+PB,2017,Female LFPR,30.71,Female,Total
+PB,2017,IMR,80.33,Female,Total
+PB,2017,Education Enrolment,22.03,Female,Urban
+PB,2017,Learning Outcomes,77.09,Male,Rural
+PB,2018,Employment Rate,29.05,Male,Rural
+PB,2018,WPR,49.58,Male,Rural
+PB,2018,Female LFPR,30.62,Female,Urban
+PB,2018,IMR,43.24,Male,Rural
+PB,2018,Education Enrolment,94.39,Total,Urban
+PB,2018,Learning Outcomes,75.09,Male,Rural
+PB,2019,Employment Rate,90.49,Total,Total
+PB,2019,WPR,28.58,Female,Total
+PB,2019,Female LFPR,37.6,Male,Total
+PB,2019,IMR,69.52,Male,Total
+PB,2019,Education Enrolment,22.88,Female,Rural
+PB,2019,Learning Outcomes,97.4,Male,Total
+PB,2020,Employment Rate,21.54,Female,Total
+PB,2020,WPR,78.37,Total,Rural
+PB,2020,Female LFPR,27.11,Female,Rural
+PB,2020,IMR,21.34,Total,Rural
+PB,2020,Education Enrolment,53.56,Male,Urban
+PB,2020,Learning Outcomes,54.98,Male,Rural
+PB,2021,Employment Rate,96.15,Female,Rural
+PB,2021,WPR,86.45,Female,Urban
+PB,2021,Female LFPR,73.76,Male,Urban
+PB,2021,IMR,59.09,Female,Rural
+PB,2021,Education Enrolment,36.31,Male,Total
+PB,2021,Learning Outcomes,36.84,Male,Urban
+PB,2022,Employment Rate,23.91,Total,Urban
+PB,2022,WPR,72.86,Total,Rural
+PB,2022,Female LFPR,16.14,Female,Rural
+PB,2022,IMR,38.33,Total,Urban
+PB,2022,Education Enrolment,83.0,Male,Urban
+PB,2022,Learning Outcomes,92.15,Male,Total
+PB,2023,Employment Rate,19.31,Total,Urban
+PB,2023,WPR,67.2,Female,Total
+PB,2023,Female LFPR,87.75,Male,Rural
+PB,2023,IMR,36.79,Female,Rural
+PB,2023,Education Enrolment,96.15,Female,Total
+PB,2023,Learning Outcomes,85.6,Female,Total
+PB,2024,Employment Rate,54.3,Female,Urban
+PB,2024,WPR,25.56,Female,Urban
+PB,2024,Female LFPR,37.53,Total,Rural
+PB,2024,IMR,25.23,Total,Rural
+PB,2024,Education Enrolment,40.94,Female,Urban
+PB,2024,Learning Outcomes,63.89,Female,Rural
+PB,2025,Employment Rate,36.5,Female,Total
+PB,2025,WPR,69.17,Total,Rural
+PB,2025,Female LFPR,47.2,Male,Urban
+PB,2025,IMR,64.72,Female,Total
+PB,2025,Education Enrolment,21.15,Female,Total
+PB,2025,Learning Outcomes,15.61,Total,Urban
+HR,2005,Employment Rate,57.91,Male,Urban
+HR,2005,WPR,70.76,Male,Rural
+HR,2005,Female LFPR,24.6,Total,Urban
+HR,2005,IMR,77.61,Male,Total
+HR,2005,Education Enrolment,25.64,Total,Total
+HR,2005,Learning Outcomes,38.16,Total,Total
+HR,2006,Employment Rate,75.36,Male,Rural
+HR,2006,WPR,25.38,Total,Urban
+HR,2006,Female LFPR,91.52,Male,Total
+HR,2006,IMR,31.66,Male,Urban
+HR,2006,Education Enrolment,64.87,Male,Urban
+HR,2006,Learning Outcomes,32.48,Total,Rural
+HR,2007,Employment Rate,58.52,Total,Total
+HR,2007,WPR,40.7,Total,Urban
+HR,2007,Female LFPR,40.38,Total,Total
+HR,2007,IMR,42.5,Male,Urban
+HR,2007,Education Enrolment,16.18,Total,Total
+HR,2007,Learning Outcomes,41.76,Total,Urban
+HR,2008,Employment Rate,68.38,Female,Total
+HR,2008,WPR,48.38,Male,Urban
+HR,2008,Female LFPR,90.3,Total,Rural
+HR,2008,IMR,49.28,Total,Rural
+HR,2008,Education Enrolment,69.33,Total,Urban
+HR,2008,Learning Outcomes,74.05,Male,Rural
+HR,2009,Employment Rate,18.2,Female,Rural
+HR,2009,WPR,78.45,Male,Rural
+HR,2009,Female LFPR,39.25,Female,Urban
+HR,2009,IMR,19.0,Total,Rural
+HR,2009,Education Enrolment,94.94,Total,Urban
+HR,2009,Learning Outcomes,36.16,Total,Rural
+HR,2010,Employment Rate,66.34,Male,Urban
+HR,2010,WPR,57.81,Total,Rural
+HR,2010,Female LFPR,57.86,Total,Rural
+HR,2010,IMR,34.16,Female,Total
+HR,2010,Education Enrolment,26.55,Total,Urban
+HR,2010,Learning Outcomes,54.3,Male,Rural
+HR,2011,Employment Rate,81.79,Female,Urban
+HR,2011,WPR,91.8,Total,Rural
+HR,2011,Female LFPR,18.97,Male,Total
+HR,2011,IMR,26.89,Female,Rural
+HR,2011,Education Enrolment,30.35,Total,Urban
+HR,2011,Learning Outcomes,20.13,Total,Rural
+HR,2012,Employment Rate,17.0,Total,Urban
+HR,2012,WPR,20.83,Female,Urban
+HR,2012,Female LFPR,66.15,Total,Total
+HR,2012,IMR,66.43,Male,Rural
+HR,2012,Education Enrolment,79.82,Male,Total
+HR,2012,Learning Outcomes,93.75,Male,Urban
+HR,2013,Employment Rate,69.1,Female,Rural
+HR,2013,WPR,16.9,Total,Rural
+HR,2013,Female LFPR,59.19,Male,Total
+HR,2013,IMR,73.34,Total,Urban
+HR,2013,Education Enrolment,80.33,Male,Urban
+HR,2013,Learning Outcomes,91.13,Total,Urban
+HR,2014,Employment Rate,42.85,Male,Rural
+HR,2014,WPR,57.04,Total,Urban
+HR,2014,Female LFPR,80.03,Female,Urban
+HR,2014,IMR,33.49,Total,Total
+HR,2014,Education Enrolment,71.9,Male,Urban
+HR,2014,Learning Outcomes,17.24,Total,Total
+HR,2015,Employment Rate,43.06,Total,Rural
+HR,2015,WPR,80.55,Female,Rural
+HR,2015,Female LFPR,64.77,Male,Urban
+HR,2015,IMR,15.76,Total,Total
+HR,2015,Education Enrolment,24.4,Male,Total
+HR,2015,Learning Outcomes,94.67,Male,Total
+HR,2016,Employment Rate,15.8,Total,Rural
+HR,2016,WPR,69.76,Male,Total
+HR,2016,Female LFPR,17.56,Female,Total
+HR,2016,IMR,37.21,Male,Total
+HR,2016,Education Enrolment,44.44,Male,Rural
+HR,2016,Learning Outcomes,56.33,Female,Rural
+HR,2017,Employment Rate,56.73,Total,Total
+HR,2017,WPR,64.67,Female,Urban
+HR,2017,Female LFPR,91.05,Female,Total
+HR,2017,IMR,64.5,Male,Total
+HR,2017,Education Enrolment,96.42,Male,Total
+HR,2017,Learning Outcomes,76.16,Male,Rural
+HR,2018,Employment Rate,42.96,Total,Urban
+HR,2018,WPR,62.62,Total,Total
+HR,2018,Female LFPR,94.04,Female,Rural
+HR,2018,IMR,72.34,Female,Urban
+HR,2018,Education Enrolment,29.67,Total,Total
+HR,2018,Learning Outcomes,59.83,Female,Urban
+HR,2019,Employment Rate,57.61,Female,Urban
+HR,2019,WPR,53.47,Male,Rural
+HR,2019,Female LFPR,49.78,Male,Total
+HR,2019,IMR,88.72,Female,Urban
+HR,2019,Education Enrolment,62.67,Female,Urban
+HR,2019,Learning Outcomes,38.97,Total,Rural
+HR,2020,Employment Rate,58.49,Male,Urban
+HR,2020,WPR,17.16,Male,Rural
+HR,2020,Female LFPR,67.03,Total,Urban
+HR,2020,IMR,30.74,Total,Urban
+HR,2020,Education Enrolment,24.16,Male,Total
+HR,2020,Learning Outcomes,70.81,Total,Urban
+HR,2021,Employment Rate,46.91,Male,Urban
+HR,2021,WPR,63.86,Total,Rural
+HR,2021,Female LFPR,85.32,Total,Urban
+HR,2021,IMR,83.27,Male,Rural
+HR,2021,Education Enrolment,84.8,Female,Rural
+HR,2021,Learning Outcomes,88.98,Total,Total
+HR,2022,Employment Rate,77.7,Total,Rural
+HR,2022,WPR,95.02,Male,Total
+HR,2022,Female LFPR,81.29,Female,Urban
+HR,2022,IMR,29.93,Female,Total
+HR,2022,Education Enrolment,92.3,Female,Urban
+HR,2022,Learning Outcomes,67.49,Male,Total
+HR,2023,Employment Rate,46.79,Female,Rural
+HR,2023,WPR,30.54,Total,Total
+HR,2023,Female LFPR,32.83,Female,Rural
+HR,2023,IMR,77.06,Male,Urban
+HR,2023,Education Enrolment,29.79,Male,Urban
+HR,2023,Learning Outcomes,49.87,Female,Total
+HR,2024,Employment Rate,58.6,Male,Urban
+HR,2024,WPR,51.1,Female,Rural
+HR,2024,Female LFPR,45.7,Female,Rural
+HR,2024,IMR,79.99,Female,Total
+HR,2024,Education Enrolment,61.71,Total,Rural
+HR,2024,Learning Outcomes,82.81,Female,Urban
+HR,2025,Employment Rate,83.84,Male,Rural
+HR,2025,WPR,92.87,Female,Total
+HR,2025,Female LFPR,77.23,Female,Urban
+HR,2025,IMR,53.79,Female,Rural
+HR,2025,Education Enrolment,26.71,Total,Total
+HR,2025,Learning Outcomes,68.62,Total,Total
